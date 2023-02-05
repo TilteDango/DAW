@@ -1,0 +1,18 @@
+[tool.poetry]
+name = "django-crud"
+version = "0.1.0"
+description = ""
+authors = ["TilteDango <hilariosasal@gmail.com>"]
+readme = "README.md"
+packages = [{include = "django_crud"}]
+
+[tool.poetry.dependencies]
+python = "^3.11"
+
+
+[tool.poetry.group.dev.dependencies]
+django = "^4.1.6"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
