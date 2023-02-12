@@ -1,0 +1,14 @@
+C:\Users\Hilario\source\repos\PruebaMax\PruebaMax\bin\Debug\netcoreapp3.1\PruebaMax.exe
+C:\Users\Hilario\source\repos\PruebaMax\PruebaMax\bin\Debug\netcoreapp3.1\PruebaMax.deps.json
+C:\Users\Hilario\source\repos\PruebaMax\PruebaMax\bin\Debug\netcoreapp3.1\PruebaMax.runtimeconfig.json
+C:\Users\Hilario\source\repos\PruebaMax\PruebaMax\bin\Debug\netcoreapp3.1\PruebaMax.runtimeconfig.dev.json
+C:\Users\Hilario\source\repos\PruebaMax\PruebaMax\bin\Debug\netcoreapp3.1\PruebaMax.dll
+C:\Users\Hilario\source\repos\PruebaMax\PruebaMax\bin\Debug\netcoreapp3.1\PruebaMax.pdb
+C:\Users\Hilario\source\repos\PruebaMax\PruebaMax\obj\Debug\netcoreapp3.1\PruebaMax.csproj.AssemblyReference.cache
+C:\Users\Hilario\source\repos\PruebaMax\PruebaMax\obj\Debug\netcoreapp3.1\PruebaMax.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hilario\source\repos\PruebaMax\PruebaMax\obj\Debug\netcoreapp3.1\PruebaMax.AssemblyInfoInputs.cache
+C:\Users\Hilario\source\repos\PruebaMax\PruebaMax\obj\Debug\netcoreapp3.1\PruebaMax.AssemblyInfo.cs
+C:\Users\Hilario\source\repos\PruebaMax\PruebaMax\obj\Debug\netcoreapp3.1\PruebaMax.csproj.CoreCompileInputs.cache
+C:\Users\Hilario\source\repos\PruebaMax\PruebaMax\obj\Debug\netcoreapp3.1\PruebaMax.dll
+C:\Users\Hilario\source\repos\PruebaMax\PruebaMax\obj\Debug\netcoreapp3.1\PruebaMax.pdb
+C:\Users\Hilario\source\repos\PruebaMax\PruebaMax\obj\Debug\netcoreapp3.1\PruebaMax.genruntimeconfig.cache

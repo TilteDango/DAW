@@ -1,0 +1,14 @@
+C:\Users\Hilario\source\repos\BuclesWhile_21\BuclesWhile_21\bin\Debug\netcoreapp3.1\BuclesWhile_21.exe
+C:\Users\Hilario\source\repos\BuclesWhile_21\BuclesWhile_21\bin\Debug\netcoreapp3.1\BuclesWhile_21.deps.json
+C:\Users\Hilario\source\repos\BuclesWhile_21\BuclesWhile_21\bin\Debug\netcoreapp3.1\BuclesWhile_21.runtimeconfig.json
+C:\Users\Hilario\source\repos\BuclesWhile_21\BuclesWhile_21\bin\Debug\netcoreapp3.1\BuclesWhile_21.runtimeconfig.dev.json
+C:\Users\Hilario\source\repos\BuclesWhile_21\BuclesWhile_21\bin\Debug\netcoreapp3.1\BuclesWhile_21.dll
+C:\Users\Hilario\source\repos\BuclesWhile_21\BuclesWhile_21\bin\Debug\netcoreapp3.1\BuclesWhile_21.pdb
+C:\Users\Hilario\source\repos\BuclesWhile_21\BuclesWhile_21\obj\Debug\netcoreapp3.1\BuclesWhile_21.csproj.AssemblyReference.cache
+C:\Users\Hilario\source\repos\BuclesWhile_21\BuclesWhile_21\obj\Debug\netcoreapp3.1\BuclesWhile_21.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hilario\source\repos\BuclesWhile_21\BuclesWhile_21\obj\Debug\netcoreapp3.1\BuclesWhile_21.AssemblyInfoInputs.cache
+C:\Users\Hilario\source\repos\BuclesWhile_21\BuclesWhile_21\obj\Debug\netcoreapp3.1\BuclesWhile_21.AssemblyInfo.cs
+C:\Users\Hilario\source\repos\BuclesWhile_21\BuclesWhile_21\obj\Debug\netcoreapp3.1\BuclesWhile_21.csproj.CoreCompileInputs.cache
+C:\Users\Hilario\source\repos\BuclesWhile_21\BuclesWhile_21\obj\Debug\netcoreapp3.1\BuclesWhile_21.dll
+C:\Users\Hilario\source\repos\BuclesWhile_21\BuclesWhile_21\obj\Debug\netcoreapp3.1\BuclesWhile_21.pdb
+C:\Users\Hilario\source\repos\BuclesWhile_21\BuclesWhile_21\obj\Debug\netcoreapp3.1\BuclesWhile_21.genruntimeconfig.cache
