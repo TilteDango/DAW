@@ -1,0 +1,42 @@
+C:\Users\hilar\source\repos\Menú prueba\Menú prueba\bin\Debug\netcoreapp3.1\Menú prueba.exe
+C:\Users\hilar\source\repos\Menú prueba\Menú prueba\bin\Debug\netcoreapp3.1\Menú prueba.deps.json
+C:\Users\hilar\source\repos\Menú prueba\Menú prueba\bin\Debug\netcoreapp3.1\Menú prueba.runtimeconfig.json
+C:\Users\hilar\source\repos\Menú prueba\Menú prueba\bin\Debug\netcoreapp3.1\Menú prueba.runtimeconfig.dev.json
+C:\Users\hilar\source\repos\Menú prueba\Menú prueba\bin\Debug\netcoreapp3.1\Menú prueba.dll
+C:\Users\hilar\source\repos\Menú prueba\Menú prueba\bin\Debug\netcoreapp3.1\Menú prueba.pdb
+C:\Users\hilar\source\repos\Menú prueba\Menú prueba\obj\Debug\netcoreapp3.1\Menú prueba.csproj.AssemblyReference.cache
+C:\Users\hilar\source\repos\Menú prueba\Menú prueba\obj\Debug\netcoreapp3.1\Menú prueba.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hilar\source\repos\Menú prueba\Menú prueba\obj\Debug\netcoreapp3.1\Menú prueba.AssemblyInfoInputs.cache
+C:\Users\hilar\source\repos\Menú prueba\Menú prueba\obj\Debug\netcoreapp3.1\Menú prueba.AssemblyInfo.cs
+C:\Users\hilar\source\repos\Menú prueba\Menú prueba\obj\Debug\netcoreapp3.1\Menú prueba.csproj.CoreCompileInputs.cache
+C:\Users\hilar\source\repos\Menú prueba\Menú prueba\obj\Debug\netcoreapp3.1\Menú prueba.dll
+C:\Users\hilar\source\repos\Menú prueba\Menú prueba\obj\Debug\netcoreapp3.1\Menú prueba.pdb
+C:\Users\hilar\source\repos\Menú prueba\Menú prueba\obj\Debug\netcoreapp3.1\Menú prueba.genruntimeconfig.cache
+C:\Users\Hilario\source\repos\Menú prueba\Menú prueba\Menú prueba\bin\Debug\netcoreapp3.1\Menú prueba.exe
+C:\Users\Hilario\source\repos\Menú prueba\Menú prueba\Menú prueba\bin\Debug\netcoreapp3.1\Menú prueba.deps.json
+C:\Users\Hilario\source\repos\Menú prueba\Menú prueba\Menú prueba\bin\Debug\netcoreapp3.1\Menú prueba.runtimeconfig.json
+C:\Users\Hilario\source\repos\Menú prueba\Menú prueba\Menú prueba\bin\Debug\netcoreapp3.1\Menú prueba.runtimeconfig.dev.json
+C:\Users\Hilario\source\repos\Menú prueba\Menú prueba\Menú prueba\bin\Debug\netcoreapp3.1\Menú prueba.dll
+C:\Users\Hilario\source\repos\Menú prueba\Menú prueba\Menú prueba\bin\Debug\netcoreapp3.1\Menú prueba.pdb
+C:\Users\Hilario\source\repos\Menú prueba\Menú prueba\Menú prueba\obj\Debug\netcoreapp3.1\Menú prueba.csproj.AssemblyReference.cache
+C:\Users\Hilario\source\repos\Menú prueba\Menú prueba\Menú prueba\obj\Debug\netcoreapp3.1\Menú prueba.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hilario\source\repos\Menú prueba\Menú prueba\Menú prueba\obj\Debug\netcoreapp3.1\Menú prueba.AssemblyInfoInputs.cache
+C:\Users\Hilario\source\repos\Menú prueba\Menú prueba\Menú prueba\obj\Debug\netcoreapp3.1\Menú prueba.AssemblyInfo.cs
+C:\Users\Hilario\source\repos\Menú prueba\Menú prueba\Menú prueba\obj\Debug\netcoreapp3.1\Menú prueba.csproj.CoreCompileInputs.cache
+C:\Users\Hilario\source\repos\Menú prueba\Menú prueba\Menú prueba\obj\Debug\netcoreapp3.1\Menú prueba.dll
+C:\Users\Hilario\source\repos\Menú prueba\Menú prueba\Menú prueba\obj\Debug\netcoreapp3.1\Menú prueba.pdb
+C:\Users\Hilario\source\repos\Menú prueba\Menú prueba\Menú prueba\obj\Debug\netcoreapp3.1\Menú prueba.genruntimeconfig.cache
+C:\Users\hilar\Downloads\Menú prueba\Menú prueba\Menú prueba\Menú prueba\bin\Debug\netcoreapp3.1\Menú prueba.exe
+C:\Users\hilar\Downloads\Menú prueba\Menú prueba\Menú prueba\Menú prueba\bin\Debug\netcoreapp3.1\Menú prueba.deps.json
+C:\Users\hilar\Downloads\Menú prueba\Menú prueba\Menú prueba\Menú prueba\bin\Debug\netcoreapp3.1\Menú prueba.runtimeconfig.json
+C:\Users\hilar\Downloads\Menú prueba\Menú prueba\Menú prueba\Menú prueba\bin\Debug\netcoreapp3.1\Menú prueba.runtimeconfig.dev.json
+C:\Users\hilar\Downloads\Menú prueba\Menú prueba\Menú prueba\Menú prueba\bin\Debug\netcoreapp3.1\Menú prueba.dll
+C:\Users\hilar\Downloads\Menú prueba\Menú prueba\Menú prueba\Menú prueba\bin\Debug\netcoreapp3.1\Menú prueba.pdb
+C:\Users\hilar\Downloads\Menú prueba\Menú prueba\Menú prueba\Menú prueba\obj\Debug\netcoreapp3.1\Menú prueba.csproj.AssemblyReference.cache
+C:\Users\hilar\Downloads\Menú prueba\Menú prueba\Menú prueba\Menú prueba\obj\Debug\netcoreapp3.1\Menú prueba.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hilar\Downloads\Menú prueba\Menú prueba\Menú prueba\Menú prueba\obj\Debug\netcoreapp3.1\Menú prueba.AssemblyInfoInputs.cache
+C:\Users\hilar\Downloads\Menú prueba\Menú prueba\Menú prueba\Menú prueba\obj\Debug\netcoreapp3.1\Menú prueba.AssemblyInfo.cs
+C:\Users\hilar\Downloads\Menú prueba\Menú prueba\Menú prueba\Menú prueba\obj\Debug\netcoreapp3.1\Menú prueba.csproj.CoreCompileInputs.cache
+C:\Users\hilar\Downloads\Menú prueba\Menú prueba\Menú prueba\Menú prueba\obj\Debug\netcoreapp3.1\Menú prueba.dll
+C:\Users\hilar\Downloads\Menú prueba\Menú prueba\Menú prueba\Menú prueba\obj\Debug\netcoreapp3.1\Menú prueba.pdb
+C:\Users\hilar\Downloads\Menú prueba\Menú prueba\Menú prueba\Menú prueba\obj\Debug\netcoreapp3.1\Menú prueba.genruntimeconfig.cache
