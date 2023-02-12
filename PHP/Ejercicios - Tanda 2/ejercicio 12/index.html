@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ejercicio 12</title>
+</head>
+<body>
+    <p>Este ejercicio sera un mini cuestionario de 12 preguntas para ver el conocimiento establecido</p>
+
+
+
+    <form action="procesa.php" method="post">
+
+        <p>¿Cuál es el método por defecto en los formularios?</p>
+        GET<input type="radio" name="p1" value="true"><br> POST <input type="radio" name="p1" value="false">
+
+        <p>¿Cómo se cogen las variables en PHP cuando vienen de un formulario con POST?</p>
+        let['p2'] <input type="radio" name="p2" value="false"><br>
+        $_POST['p2'] <input type="radio" name="p2" value="true"><br>
+        %&_POST('p2') <input type="radio" name="p2" value="false">
+
+        <p>¿Cuál es una forma básica de crear un búcle?</p>
+        for($i=0;$i <'10;$i++) <input type="radio" name="p3" value="true"><br>
+        bucle($i=0; $i = 10) <input type="radio" name="p3" value="false">
+
+        <p>¿Qué es un color de triada?</p>
+        Tienen tres colores que se pueden usar segun la teoria del color y combinan haciendo un triángulo en la escala de colores <input type="radio" name="p4" value="true"><br>
+        Son varios colores que podrian llegara funcionar de forma combinada en una página web <input type="radio" name="p4" value="false">
+
+        <p>¿Cómo se declaran variables locales en JavaScript</p>
+        Let <input type="radio" name="p5" value="false"><br>
+        Var <input type="radio" name="p5" value="true">
+
+        <p>¿Se pueden declarar constantes en PHP?</p>
+        Sí <input type="radio" name="p6" value="true"><br>
+        No <input type="radio" name="p6" value="false">
+
+        <p>¿Podemos usar un búcle for para escribir por pantalla números del 1 al 10</p>
+        Sí <input type="radio" name="p7" value="true"><br>
+        No <input type="radio" name="p7" value="false">
+
+        <p>¿La funcion sqrt() nos calcula la potencia del número establecido</p>
+        Verdadero <input type="radio" name="p8" value="false"><br>
+        Falso <input type="radio" name="p8" value="true">
+
+        <p>¿La función floor() nos redondea al siguiente número</p>
+        Verdadero <input type="radio" name="p9" value="false"><br>
+        Falso <input type="radio" name="p9" value="true">
+
+        <p>¿La función floor() nos redondea al número que estamos?</p>
+        Verdadero <input type="radio" name="p10" value="true"><br>
+        Falso <input type="radio" name="p10" value="false"><br>
+
+        <input type="submit" value="Enviar">
+    </form>
+</body>
+</html>
