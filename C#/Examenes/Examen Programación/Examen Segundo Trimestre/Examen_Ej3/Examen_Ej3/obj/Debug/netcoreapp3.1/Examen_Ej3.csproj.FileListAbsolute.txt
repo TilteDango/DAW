@@ -1,0 +1,14 @@
+C:\Users\Hilario\source\repos\Examen_Ej3\Examen_Ej3\bin\Debug\netcoreapp3.1\Examen_Ej3.exe
+C:\Users\Hilario\source\repos\Examen_Ej3\Examen_Ej3\bin\Debug\netcoreapp3.1\Examen_Ej3.deps.json
+C:\Users\Hilario\source\repos\Examen_Ej3\Examen_Ej3\bin\Debug\netcoreapp3.1\Examen_Ej3.runtimeconfig.json
+C:\Users\Hilario\source\repos\Examen_Ej3\Examen_Ej3\bin\Debug\netcoreapp3.1\Examen_Ej3.runtimeconfig.dev.json
+C:\Users\Hilario\source\repos\Examen_Ej3\Examen_Ej3\bin\Debug\netcoreapp3.1\Examen_Ej3.dll
+C:\Users\Hilario\source\repos\Examen_Ej3\Examen_Ej3\bin\Debug\netcoreapp3.1\Examen_Ej3.pdb
+C:\Users\Hilario\source\repos\Examen_Ej3\Examen_Ej3\obj\Debug\netcoreapp3.1\Examen_Ej3.csproj.AssemblyReference.cache
+C:\Users\Hilario\source\repos\Examen_Ej3\Examen_Ej3\obj\Debug\netcoreapp3.1\Examen_Ej3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hilario\source\repos\Examen_Ej3\Examen_Ej3\obj\Debug\netcoreapp3.1\Examen_Ej3.AssemblyInfoInputs.cache
+C:\Users\Hilario\source\repos\Examen_Ej3\Examen_Ej3\obj\Debug\netcoreapp3.1\Examen_Ej3.AssemblyInfo.cs
+C:\Users\Hilario\source\repos\Examen_Ej3\Examen_Ej3\obj\Debug\netcoreapp3.1\Examen_Ej3.csproj.CoreCompileInputs.cache
+C:\Users\Hilario\source\repos\Examen_Ej3\Examen_Ej3\obj\Debug\netcoreapp3.1\Examen_Ej3.dll
+C:\Users\Hilario\source\repos\Examen_Ej3\Examen_Ej3\obj\Debug\netcoreapp3.1\Examen_Ej3.pdb
+C:\Users\Hilario\source\repos\Examen_Ej3\Examen_Ej3\obj\Debug\netcoreapp3.1\Examen_Ej3.genruntimeconfig.cache
