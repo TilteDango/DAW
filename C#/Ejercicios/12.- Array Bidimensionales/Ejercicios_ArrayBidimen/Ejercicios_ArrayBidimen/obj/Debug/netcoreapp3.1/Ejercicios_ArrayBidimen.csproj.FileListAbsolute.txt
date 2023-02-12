@@ -1,0 +1,14 @@
+C:\Users\Hilario\source\repos\Ejercicios_ArrayBidimen\Ejercicios_ArrayBidimen\bin\Debug\netcoreapp3.1\Ejercicios_ArrayBidimen.exe
+C:\Users\Hilario\source\repos\Ejercicios_ArrayBidimen\Ejercicios_ArrayBidimen\bin\Debug\netcoreapp3.1\Ejercicios_ArrayBidimen.deps.json
+C:\Users\Hilario\source\repos\Ejercicios_ArrayBidimen\Ejercicios_ArrayBidimen\bin\Debug\netcoreapp3.1\Ejercicios_ArrayBidimen.runtimeconfig.json
+C:\Users\Hilario\source\repos\Ejercicios_ArrayBidimen\Ejercicios_ArrayBidimen\bin\Debug\netcoreapp3.1\Ejercicios_ArrayBidimen.runtimeconfig.dev.json
+C:\Users\Hilario\source\repos\Ejercicios_ArrayBidimen\Ejercicios_ArrayBidimen\bin\Debug\netcoreapp3.1\Ejercicios_ArrayBidimen.dll
+C:\Users\Hilario\source\repos\Ejercicios_ArrayBidimen\Ejercicios_ArrayBidimen\bin\Debug\netcoreapp3.1\Ejercicios_ArrayBidimen.pdb
+C:\Users\Hilario\source\repos\Ejercicios_ArrayBidimen\Ejercicios_ArrayBidimen\obj\Debug\netcoreapp3.1\Ejercicios_ArrayBidimen.csproj.AssemblyReference.cache
+C:\Users\Hilario\source\repos\Ejercicios_ArrayBidimen\Ejercicios_ArrayBidimen\obj\Debug\netcoreapp3.1\Ejercicios_ArrayBidimen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hilario\source\repos\Ejercicios_ArrayBidimen\Ejercicios_ArrayBidimen\obj\Debug\netcoreapp3.1\Ejercicios_ArrayBidimen.AssemblyInfoInputs.cache
+C:\Users\Hilario\source\repos\Ejercicios_ArrayBidimen\Ejercicios_ArrayBidimen\obj\Debug\netcoreapp3.1\Ejercicios_ArrayBidimen.AssemblyInfo.cs
+C:\Users\Hilario\source\repos\Ejercicios_ArrayBidimen\Ejercicios_ArrayBidimen\obj\Debug\netcoreapp3.1\Ejercicios_ArrayBidimen.csproj.CoreCompileInputs.cache
+C:\Users\Hilario\source\repos\Ejercicios_ArrayBidimen\Ejercicios_ArrayBidimen\obj\Debug\netcoreapp3.1\Ejercicios_ArrayBidimen.dll
+C:\Users\Hilario\source\repos\Ejercicios_ArrayBidimen\Ejercicios_ArrayBidimen\obj\Debug\netcoreapp3.1\Ejercicios_ArrayBidimen.pdb
+C:\Users\Hilario\source\repos\Ejercicios_ArrayBidimen\Ejercicios_ArrayBidimen\obj\Debug\netcoreapp3.1\Ejercicios_ArrayBidimen.genruntimeconfig.cache
