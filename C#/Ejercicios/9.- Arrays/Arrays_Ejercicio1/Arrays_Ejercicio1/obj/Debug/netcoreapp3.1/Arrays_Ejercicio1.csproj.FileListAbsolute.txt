@@ -1,0 +1,14 @@
+C:\Users\Hilario\source\repos\Arrays_Ejercicio1\Arrays_Ejercicio1\bin\Debug\netcoreapp3.1\Arrays_Ejercicio1.exe
+C:\Users\Hilario\source\repos\Arrays_Ejercicio1\Arrays_Ejercicio1\bin\Debug\netcoreapp3.1\Arrays_Ejercicio1.deps.json
+C:\Users\Hilario\source\repos\Arrays_Ejercicio1\Arrays_Ejercicio1\bin\Debug\netcoreapp3.1\Arrays_Ejercicio1.runtimeconfig.json
+C:\Users\Hilario\source\repos\Arrays_Ejercicio1\Arrays_Ejercicio1\bin\Debug\netcoreapp3.1\Arrays_Ejercicio1.runtimeconfig.dev.json
+C:\Users\Hilario\source\repos\Arrays_Ejercicio1\Arrays_Ejercicio1\bin\Debug\netcoreapp3.1\Arrays_Ejercicio1.dll
+C:\Users\Hilario\source\repos\Arrays_Ejercicio1\Arrays_Ejercicio1\bin\Debug\netcoreapp3.1\Arrays_Ejercicio1.pdb
+C:\Users\Hilario\source\repos\Arrays_Ejercicio1\Arrays_Ejercicio1\obj\Debug\netcoreapp3.1\Arrays_Ejercicio1.csproj.AssemblyReference.cache
+C:\Users\Hilario\source\repos\Arrays_Ejercicio1\Arrays_Ejercicio1\obj\Debug\netcoreapp3.1\Arrays_Ejercicio1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hilario\source\repos\Arrays_Ejercicio1\Arrays_Ejercicio1\obj\Debug\netcoreapp3.1\Arrays_Ejercicio1.AssemblyInfoInputs.cache
+C:\Users\Hilario\source\repos\Arrays_Ejercicio1\Arrays_Ejercicio1\obj\Debug\netcoreapp3.1\Arrays_Ejercicio1.AssemblyInfo.cs
+C:\Users\Hilario\source\repos\Arrays_Ejercicio1\Arrays_Ejercicio1\obj\Debug\netcoreapp3.1\Arrays_Ejercicio1.csproj.CoreCompileInputs.cache
+C:\Users\Hilario\source\repos\Arrays_Ejercicio1\Arrays_Ejercicio1\obj\Debug\netcoreapp3.1\Arrays_Ejercicio1.dll
+C:\Users\Hilario\source\repos\Arrays_Ejercicio1\Arrays_Ejercicio1\obj\Debug\netcoreapp3.1\Arrays_Ejercicio1.pdb
+C:\Users\Hilario\source\repos\Arrays_Ejercicio1\Arrays_Ejercicio1\obj\Debug\netcoreapp3.1\Arrays_Ejercicio1.genruntimeconfig.cache
