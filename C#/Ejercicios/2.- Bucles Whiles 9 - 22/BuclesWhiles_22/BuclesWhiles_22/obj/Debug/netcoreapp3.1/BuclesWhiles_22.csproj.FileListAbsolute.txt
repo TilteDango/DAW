@@ -1,0 +1,14 @@
+C:\Users\Hilario\source\repos\BuclesWhiles_22\BuclesWhiles_22\bin\Debug\netcoreapp3.1\BuclesWhiles_22.exe
+C:\Users\Hilario\source\repos\BuclesWhiles_22\BuclesWhiles_22\bin\Debug\netcoreapp3.1\BuclesWhiles_22.deps.json
+C:\Users\Hilario\source\repos\BuclesWhiles_22\BuclesWhiles_22\bin\Debug\netcoreapp3.1\BuclesWhiles_22.runtimeconfig.json
+C:\Users\Hilario\source\repos\BuclesWhiles_22\BuclesWhiles_22\bin\Debug\netcoreapp3.1\BuclesWhiles_22.runtimeconfig.dev.json
+C:\Users\Hilario\source\repos\BuclesWhiles_22\BuclesWhiles_22\bin\Debug\netcoreapp3.1\BuclesWhiles_22.dll
+C:\Users\Hilario\source\repos\BuclesWhiles_22\BuclesWhiles_22\bin\Debug\netcoreapp3.1\BuclesWhiles_22.pdb
+C:\Users\Hilario\source\repos\BuclesWhiles_22\BuclesWhiles_22\obj\Debug\netcoreapp3.1\BuclesWhiles_22.csproj.AssemblyReference.cache
+C:\Users\Hilario\source\repos\BuclesWhiles_22\BuclesWhiles_22\obj\Debug\netcoreapp3.1\BuclesWhiles_22.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hilario\source\repos\BuclesWhiles_22\BuclesWhiles_22\obj\Debug\netcoreapp3.1\BuclesWhiles_22.AssemblyInfoInputs.cache
+C:\Users\Hilario\source\repos\BuclesWhiles_22\BuclesWhiles_22\obj\Debug\netcoreapp3.1\BuclesWhiles_22.AssemblyInfo.cs
+C:\Users\Hilario\source\repos\BuclesWhiles_22\BuclesWhiles_22\obj\Debug\netcoreapp3.1\BuclesWhiles_22.csproj.CoreCompileInputs.cache
+C:\Users\Hilario\source\repos\BuclesWhiles_22\BuclesWhiles_22\obj\Debug\netcoreapp3.1\BuclesWhiles_22.dll
+C:\Users\Hilario\source\repos\BuclesWhiles_22\BuclesWhiles_22\obj\Debug\netcoreapp3.1\BuclesWhiles_22.pdb
+C:\Users\Hilario\source\repos\BuclesWhiles_22\BuclesWhiles_22\obj\Debug\netcoreapp3.1\BuclesWhiles_22.genruntimeconfig.cache
