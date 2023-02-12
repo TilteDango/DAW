@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ejercicio 1</title>
+</head>
+<body>
+    <p>Reemplace las expresiones de función con funciones de flecha en el código a continuación:</p>
+    <pre>
+        function ask(question, yes, no) {
+            if (confirm(question)) yes();
+            else no();
+           }          
+    </pre>
+
+    <p>Lo cambiamos a:</p>
+
+    <pre>
+        let ask = (question, yes, no) => {
+            if (confirm(question)) yes();
+            else no();
+           }
+    </pre>
+    <script src="ej1.js"></script>
+</body>
+</html>

@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Examen AJAX</title>
+</head>
+<body>
+    <h1 id="encabezado"></h1>
+    <h2 id="fecha"></h2>
+    <p id="total"></p>
+    <select id="gender">
+        <option value="0">---- Todos ----</option>
+    </select>
+    <table border="1" id="tabla">
+        <tr>
+            <th>Hora de emisión</th>
+            <th>Nombre del programa</th>
+        </tr>
+    </table>
+
+    <script>
+        
+        onload = CargarDatos(); 
+
+    function CargarDatos(){
+            let xhr = new XMLHttpRequest();
+
+            xhr.onload = function(){
+                let programa = JSON.parse(xhr.responseText);
+                EscribirPrograma(programa);      
+            }
+
+            xhr.open("GET", "canalDAW.json");
+            xhr.send();
+        }
+
+    function EscribirPrograma(programacion){
+        const programa = document.getElementById("encabezado");
+        programa.innerText = programacion.canal;
+
+        const fecha = document.getElementById("fecha");
+       
+        let semana = ["Lunes", "Martes", "Miércoles", "Jueves", "Viernes", "Sábado", "Domingo"]
+        
+        let f = new Date(programacion.fecha);
+        let day= semana[f.getDay() -1];
+        fecha.innerText ="La programación del día " + (day) + " " + f.toLocaleDateString();
+
+        const total_Programas = document.getElementById("total");
+
+        total_Programas.innerText = "El total de programas de hoy es: " + programacion.programas.length;
+
+        let programas = programacion.programas;
+        const tabla = document.getElementById("tabla");
+        const genero = document.getElementById("gender");
+
+        let g = [];
+        for (let i = 0; i < programas.length; i++) {
+           
+            for (let k = 0; k < programas[i].generos.length; k++) {
+                if (!g.includes(programas[i].generos[k])) {
+                g.push(programas[i].generos[k])
+            }            
+            }             
+        }
+
+       for (let i = 0; i < g.length; i++) {
+        genero.innerHTML += `<option value="${g[i]}">${g[i]}</option>`;
+        
+       }
+
+        programas.forEach(element => {
+            let gender = element.generos.toString();
+            tabla.innerHTML += `<td>${element.hora}</td><td><a href='javascript:alert("${gender.replaceAll(',', '/')}")'>${element.nombre}</a></td>`; 
+        });
+       
+        genero.style.textTransform = "Uppercase";
+        genero.addEventListener("change", function(){
+            if (genero.value == 0) {
+                tabla.innerHTML = `<tr>
+                                    <th>Hora de emisión</th>
+                                    <th>Nombre del programa</th>
+                                </tr>`
+                programas.forEach(element => {
+            let gender = element.generos.toString();
+            tabla.innerHTML += `<td>${element.hora}</td><td><a href='javascript:alert("${gender.replaceAll(',', '/')}")'>${element.nombre}</a></td>`; 
+                })
+            }else{
+                        
+            tabla.innerHTML = `<tr>
+                                    <th>Hora de emisión</th>
+                                    <th>Nombre del programa</th>
+                                </tr>`
+            programas.forEach(element => {
+                let esta = false;
+                for (let i = 0; i < element.generos.length; i++) {
+                    if (element.generos[i] == genero.value) {
+                        esta = true;
+                    }
+                }    
+                if (esta) {
+                    let gender = element.generos.toString();
+                        tabla.innerHTML += `<td>${element.hora}</td><td><a href='javascript:alert("${gender.replaceAll(',', '/')}")'>${element.nombre}</a></td>`
+                }         
+            });
+        }})
+    }
+
+    </script>
+</body>
+</html>

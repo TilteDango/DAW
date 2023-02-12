@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ejercicios AJAX 1</title>
+</head>
+<body>
+    <h1 id="encabezado"></h1>
+    <h2 id="fecha"></h2>
+    <p id="total"></p>
+    <select id="gender">
+        <option value="0">---Todos----</option>
+        <option value="Informativo">Informativo</option>
+        <option value="Documental">Documental</option>
+        <option value="Historia">Historia</option>
+        <option value="Película">Película</option>
+        <option value="Suspense">Suspense</option>
+        <option value="Drama">Drama</option>
+        <option value="Comedia">Comedia</option>
+    </select>
+    <table border="1" id="tabla">
+        <tr>
+            <th>Hora de emisión</th>
+            <th>Nombre del programa</th>
+        </tr>
+    </table>
+
+    <script>
+        
+        onload = CargarDatos(); 
+
+    function CargarDatos(){
+            let xhr = new XMLHttpRequest();
+
+            xhr.onload = function(){
+                let programa = JSON.parse(xhr.responseText);
+                console.log(programa); 
+                EscribirPrograma(programa);      
+            }
+
+            xhr.open("GET", "canalASIR.json");
+            xhr.send();
+        }
+
+    function EscribirPrograma(programacion){
+        const programa = document.getElementById("encabezado");
+        programa.innerText = programacion.Television.Canal;
+
+        const fecha = document.getElementById("fecha");
+       
+        let semana = ["Lunes", "Martes", "Miércoles", "Jueves", "Viernes", "Sábado", "Domingo"]
+        
+        let f = new Date(programacion.Television.Fecha);
+        let day= semana[f.getDay()];
+        fecha.innerText = day + " " + f.toLocaleDateString();
+
+        const total_Programas = document.getElementById("total");
+
+        total_Programas.innerText = "El total de programas de hoy es: " + programacion.Television.Programas.length;
+
+        let programas = programacion.Television.Programas;
+        const tabla = document.getElementById("tabla");
+        const genero = document.getElementById("gender");
+        programas.forEach(element => {
+            let gender = element.Genero.toString();
+            tabla.innerHTML += `<td>${element.Hora}</td><td><a href='javascript:alert("${gender.replaceAll(',', '/')}")'>${element.Nombre}</a></td>`; 
+        });
+       
+        genero.style.textTransform = "Uppercase";
+        genero.addEventListener("change", function(){
+            if (genero.value == 0) {
+                programas.forEach(element => {
+            let gender = element.Genero.toString();
+            tabla.innerHTML += `<td>${element.Hora}</td><td><a href='javascript:alert("${gender.replaceAll(',', '/')}")'>${element.Nombre}</a></td>`; 
+                })
+            }else{
+                
+            
+            tabla.innerHTML = `<tr>
+                                    <th>Hora de emisión</th>
+                                    <th>Nombre del programa</th>
+                                </tr>`
+            programas.forEach(element => {
+                let esta = false;
+                for (let i = 0; i < element.Genero.length; i++) {
+                    if (element.Genero[i] == genero.value) {
+                        esta = true;
+                    }
+                }    
+                if (esta) {
+                    let gender = element.Genero.toString();
+                        tabla.innerHTML += `<td>${element.Hora}</td><td><a href='javascript:alert("${gender.replaceAll(',', '/')}")'>${element.Nombre}</a></td>`
+                }         
+            });
+        }})
+    }
+
+    </script>
+</body>
+</html>

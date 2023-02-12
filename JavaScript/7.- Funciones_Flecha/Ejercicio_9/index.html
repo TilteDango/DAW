@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ejercicio 9</title>
+</head>
+<body>
+    <h1>Ejercicio 9</h1>
+    <p>Guardar en un array los 20 primeros números pares.</p>
+
+    <pre>
+        const calculateEvens = () => {
+            const even = []
+            let i = 0
+            while(even.length < 20){
+                if (i % 2 == 0) {
+                    even.push(i)
+                }
+                i++
+            }
+            
+            p.textContent = `[${even}]`
+        }
+    </pre>
+    <hr>
+    <p id="p"></p>
+    <script src="main.js"></script>
+</body>
+</html>

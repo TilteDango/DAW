@@ -1,0 +1,28 @@
+{
+    "Instituto": {
+        "Nombre": "IES Francisco Romero Vargas",
+        "Código": "11007922",
+        "Grupos": [
+            {
+                "Nombre" : "ASIR1",
+                "Alumnos" : 30,
+                "Profesores" : ["Juana", "Ango", "José Antonio", "Sonia", "Juan", "Paco"]
+            },
+            {
+                "Nombre" : "ASIR2",
+                "Alumnos" : 19,
+                "Profesores" : ["Juana", "María José", "Luis", "Angélica", "Sonia"]
+            },
+            {
+                "Nombre" : "DAW1",
+                "Alumnos" : 20,
+                "Profesores" : ["Angélica", "Ango", "Luis", "Sonia", "Fernando Pérez"]
+            },
+            {
+                "Nombre" : "DAW2",
+                "Alumnos" : 14,
+                "Profesores" : ["Juana", "Paco", "Sonia", "Fernando Pérez", "Angélica"]
+            }
+        ]
+    }
+}

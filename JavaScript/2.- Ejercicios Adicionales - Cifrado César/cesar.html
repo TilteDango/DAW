@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cifrado César</title>
+</head>
+<body>
+    <h1>Cifrado César</h1>
+
+    <h2>-Descifrar-</h2>
+
+    Alfabeto<select id="Idioma">
+        <option value="Castellano">Castellano</option>
+        <option value="Inglés">Inglés</option>
+    </select><br>
+
+    Texto a descifrar<textarea id="texto"></textarea><br>
+
+    Nivel de Rotación <input type="number" id="rotacion"><br>
+
+    <button onclick="Descifrar()">Descifrar</button>
+
+    <p id="res"></p>
+
+    <script>
+        function Descifrar(){
+            const text = document.getElementById("texto").value;
+            const idioma = document.getElementById("Idioma").value;
+            let castellano = "ABCDEFGHIJKLMNÑOPQRSTUVWXYZ";
+            let ingles = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
+            const rotacion = parseInt(document.getElementById("rotacion").value);
+
+            let elegir = [];
+            if (idioma == "Castellano") {
+                elegir = castellano;
+            }else{
+                elegir = ingles;
+            }
+
+            let aux = "";
+
+            for (let i = 0; i < text.length; i++) {
+                
+                for (let k = 0; k < elegir.length; k++) {
+                if (esLetra(text[i])) {
+                    if (elegir[k] == text[i]) {
+                        if (k - rotacion >= 0) {
+                            aux += elegir[k - rotacion];
+                        }else{
+                            aux += elegir[elegir.length +k-rotacion];
+                        }
+                        k = elegir.length;
+                    }
+                }else{
+                    aux += text[i];
+                    k = elegir.length;
+                }
+                }
+                
+            }
+
+            document.getElementById("res").innerHTML = aux;
+
+        }
+
+        function esLetra(char){
+           let letras = "QWERTYUIOPASDFGHJKLÑZXCVBNM";
+           let valido = false;
+            for (let i = 0; i < letras.length; i++) {
+                if (letras[i] == char) {
+                    valido = true;
+                }
+                
+            }
+              return valido;
+        }
+
+    </script>
+</body>
+</html>

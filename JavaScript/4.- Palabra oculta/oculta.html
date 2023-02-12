@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Palabra Oculta</title>
+</head>
+<body>
+    <h1>Adivina la palabra oculta</h1>
+
+    Letras <input type="text" id="ocultas" readonly><br>
+    Palabra <input type="text" id="res"><br>
+
+    <input type="button" value="Nueva Palabra"onclick="NewWord()" id="new">
+    <input type="button" value="Ver solución" onclick="ShowSolution()" id="solution" disabled>
+
+    <input type="button" value="Corregir" id="corregir" onclick="Corregir()">
+
+    <input type="button" value="Finalizar juego" onclick="Finish()" id="finish">
+
+    <p id="resultado"></p>
+
+    <script>
+
+        var palabras = ["maria", "juan", "federico", "rosalia", "antonio", "sofia", "sara"];
+        var r;
+        var aux;
+        var fallos = 0;
+        function NewWord(){
+            document.getElementById("solution").disabled = false;
+            if (palabras.length == 1) {
+                document.getElementById("new").disabled = true;
+            }
+
+            if (palabras.length == 0) {
+                Finish();
+            }else{
+
+            
+            r = Math.floor(Math.random() * palabras.length);
+            console.log("Random " + r);
+            console.log("Length: " + palabras.length);
+        let word = palabras[r];
+        aux = word;
+            palabras.splice(r, 1);
+            let array = [];
+            for (let i = 0; i < word.length; i++) {
+                array.push(word[i]);        
+            }
+        array.sort(function(){
+            return Math.random() - 0.5;
+        });
+          
+        word = array.join("");
+
+            document.getElementById("ocultas").value = word;
+    }
+}
+    
+        function ShowSolution(){
+            document.getElementById("res").value = aux;
+            console.log(r);
+        }
+    
+        function Corregir(){
+            if (document.getElementById("res").value != aux) {
+                fallos++;
+                document.getElementById("res").value = "";
+                document.getElementById("res").style.borderColor = "red";
+                NewWord();
+            }else{
+                document.getElementById("res").value = "";
+                NewWord();
+            }
+        }
+   
+        function Finish(){
+            
+            document.getElementById("resultado").innerText = "Tu porcentaje de aciertos ha sido: " + Math.floor((fallos / 7) * 100) + "%";
+        }
+   </script>
+</body>
+</html>

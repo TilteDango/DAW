@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ejercicio 17</title>
+</head>
+
+<body>
+    <h1>Ejercicio 17</h1>
+    <p>Crea una función que genere 100 números aleatorios entre 1 y 1000 que no se repitan y luego muéstralos por pantalla</p>
+
+    <pre>
+        const create100Numbers = () =>{
+            while (isGenerated.length <= 100) {
+                let random =  randomMinMax(1, 1000)
+             
+                if (!isGenerated.includes(random)) {
+                     isGenerated.push(random)
+                }
+             }
+             const fragment = document.createDocumentFragment()
+             
+             isGenerated.forEach(number => {
+                 const li = document.createElement('li')
+                 li.textContent = number
+                 fragment.appendChild(li)
+             });
+             
+             res.appendChild(fragment)
+        }
+    </pre>
+
+    <hr>
+
+    <ul id="res">
+
+    </ul>
+    <script src="main.js"></script>
+</body>
+
+</html>

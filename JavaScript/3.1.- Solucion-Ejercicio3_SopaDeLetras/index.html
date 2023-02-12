@@ -1,0 +1,160 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Sopa de Letras</title>
+<style>
+body {
+	text-align:center;
+}
+input[type=button]{
+	width : 30px;
+	height: 30px;
+	border : none;	
+}
+</style>
+<script>
+const FILAS = 10;
+const COLUMNAS = 8;
+const COLORRESALTADO = 'green';
+
+var palabras = [
+	{palabra:"APROBAR",inicioFin: "8-3-2-3",orientacion:0},
+	{palabra:"APTO",inicioFin: "6-4-9-1",orientacion:5},
+	{palabra:"CATEAR",inicioFin: "5-0-0-0",orientacion:0},
+	{palabra:"CERO",inicioFin: "5-0-5-3",orientacion:2},
+	{palabra:"EXAMEN",inicioFin: "1-1-6-6",orientacion:3},
+	{palabra:"NOTA",inicioFin: "6-6-9-6",orientacion:4},
+	{palabra:"NOTABLE",inicioFin: "6-6-0-6",orientacion:0},
+	{palabra:"TEST",inicioFin: "4-6-1-3",orientacion:7}
+];
+// Variables globales
+var click1 = "";
+var click2 = "";
+var tiempo;
+var segundos = 0;
+var minutos = 0;
+
+// Consigo incremento en filas y columnas para cada palabra según su orientación 
+CompletaIncrementos(palabras);
+
+window.onload = function(){
+	MuestraPalabras();	
+	tiempo = setInterval(Tiempo,1000);
+}
+
+// Funciones 
+function Tiempo(){
+	segundos++;
+	if (segundos == 60){
+		minutos++;
+		segundos = 0;	
+	}
+	var salida = (minutos<10?'0'+minutos:minutos)+":"+
+	             (segundos<10?'0'+segundos:segundos);
+	document.getElementById("tiempo").innerHTML = salida;
+}
+
+function CompletaIncrementos(p){
+	for (var i=0;i<p.length;i++){
+		switch(p[i].orientacion){
+			case 0: p[i].incF = -1; p[i].incC = 0; break;
+			case 1: p[i].incF = -1; p[i].incC = 1; break;
+			case 2: p[i].incF = 0; p[i].incC = 1; break;
+			case 3: p[i].incF = 1; p[i].incC = 1; break;
+			case 4: p[i].incF = 1; p[i].incC = 0; break;
+			case 5: p[i].incF = 1; p[i].incC = -1; break;
+			case 6: p[i].incF = 0; p[i].incC = -1; break;
+			case 7: p[i].incF = -1; p[i].incC = -1; break;
+		}
+	}	
+}
+
+function Marcar(quien){
+	if (click1 == ""){
+		click1 = quien;
+		click2 = "";	
+	}else{
+		click2 = quien;
+		Comprobar(click1+"-"+click2);	
+		click1 = "";
+	}	
+}
+
+function Elimina(cual){
+	palabras.splice(cual,1); // Elimino la acertada
+	MuestraPalabras();
+	if (palabras.length == 0){ // Ya están todas acertadas
+		document.getElementById("capa").innerHTML= "<b>Enhorabuena !!!</b>";
+		document.getElementById("capa").style.color = COLORRESALTADO;
+		// Deshabilito temporizador 
+		clearInterval(tiempo);
+		// Deshabilito botones
+		var botones = document.getElementsByTagName("input");
+		for (var i=0;i<botones.length;i++){
+			botones[i].disabled = true;	
+		}
+	}
+}
+
+function Comprobar(cadena){
+	var cual = -1;
+	for (var i=0; i<palabras.length && cual == -1;i++){
+		if (palabras[i].inicioFin == cadena){
+			cual = i;
+		}	
+	}
+	if (cual != -1){
+		PonPalabra(palabras[cual],1);
+		Elimina(cual);
+	}else{
+		alert("Fallo!!");	
+	}
+}
+
+function PonPalabra(p,color){
+	var trozo = p.inicioFin.split("-");
+	var f=Number(trozo[0]);
+	var c=Number(trozo[1]);
+	for (var i=0;i<p.palabra.length;i++){
+		document.getElementById(f+"-"+c).value = p.palabra.charAt(i);
+		if (color==1){
+			document.getElementById(f+"-"+c).style.backgroundColor=COLORRESALTADO;
+		}
+		f = f+p.incF;
+		c = c+p.incC;	
+	}	
+}
+function MuestraPalabras(){
+	var capa = document.getElementById("capa");
+	capa.innerHTML = "Palabras a encontrar: ";
+	for (var i=0; i<palabras.length; i++){
+		capa.innerHTML += palabras[i].palabra + " ";
+	}
+}
+
+</script>
+</head>
+
+<body>
+<h1>Sopa de letras</h1>
+<script>
+var letras = "ABCDEFGHIJKLMNÑOPQRSTUVWXYZ";
+// Relleno al azar el tablero
+for (var i=0; i<FILAS; i++){
+	for (var j=0; j<COLUMNAS;j++){
+		var valor = letras[Math.floor(Math.random()*letras.length)];
+		document.write("<input type='button' id='"+i+"-"+j+"' onclick='Marcar(this.id)' value='"+valor+"' />");
+	}
+	document.write("<br/>");
+}
+// Ubico las palabras en el tablero
+for (var i=0; i<palabras.length;i++){
+	PonPalabra(palabras[i],0);	
+}
+</script>
+<br/>
+<div id="capa"> </div>
+<div>Tiempo: <span id="tiempo">00:00</span></div>
+</body>
+</html>

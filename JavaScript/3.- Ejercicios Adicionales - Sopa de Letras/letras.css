@@ -1,0 +1,31 @@
+#container {
+    width: 80%;
+    margin: auto;
+    max-width: 350px;
+    display: grid;
+    grid-template-columns: repeat(8, 1fr);
+}
+
+button{
+    border: 0px black solid;
+    padding: 2%;
+}
+
+.not-selected {
+    background-color: buttonface;
+}
+
+.palabras {
+    background-color: pink;
+}
+
+.selected {
+    background-color: brown;
+}
+
+p {
+    text-align: center;
+}
+h1{
+    text-align: center;
+}

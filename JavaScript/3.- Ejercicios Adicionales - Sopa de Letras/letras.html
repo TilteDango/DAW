@@ -1,0 +1,159 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sopa de letras</title>
+    <link rel="stylesheet" href="letras.css">
+</head>
+<body>
+    <h1>Sopa de letras</h1>
+    <p>Palabras a encontrar -APROBAR-APTO-CATEAR-CERO-EXAMEN-NOTA-NOTABLE-TEST</p>
+    <p id="reloj">00:00</p>
+    <div id="container"></div>
+
+
+    <script>
+    var seleccionado = false;
+    var previd;
+    var selected;
+        letras = "QWERTYUIOPASDFGHJKLÑZXCVBNM";
+        let container = document.getElementById("container");    
+        
+    for (let i = 0; i < 10; i++) {
+        for (let k = 0; k < 8; k++) {
+        let button = document.createElement('button');
+        let r = Math.floor(Math.random() * letras.length);
+        button.innerText = letras[r];
+        button.id = "btn-" + i + "-" + k;
+        button.onclick = function(){
+            Comporbar(button.id);
+        }
+        container.appendChild(button);           
+        }       
+    };
+    let palabras = ["RAETAC", "CERO", "ELBATONOTA", "TRABORPA"];
+    for (let i = 0; i < 6; i++) {
+        document.getElementById("btn-" + i +"-0").innerText = palabras[0][i];         
+    }
+
+    for (let i = 0; i < 4; i++) {
+        document.getElementById("btn-5-" + i).innerText = palabras[1][i];           
+    }
+
+    for (let i = 0; i < 10; i++) {
+        document.getElementById("btn-"+ i + "-6").innerText = palabras[2][i];     
+    }
+    for (let i = 0; i < 8; i++) {
+        document.getElementById("btn-" + (i+1) +"-3").innerText = palabras[3][i];           
+    }
+
+    document.getElementById("btn-1-1").innerHTML = "E";
+    document.getElementById("btn-2-2").innerHTML = "X";
+    document.getElementById("btn-3-3").innerHTML = "A";
+    document.getElementById("btn-4-4").innerHTML = "M";
+    document.getElementById("btn-5-5").innerHTML = "E";
+    document.getElementById("btn-6-6").innerHTML = "N";
+    document.getElementById("btn-2-4").innerHTML = "S";
+    document.getElementById("btn-3-5").innerHTML = "E";
+    document.getElementById("btn-6-4").innerHTML = "A";
+    document.getElementById("btn-9-1").innerHTML = "O";
+    document.getElementById("btn-8-2").innerHTML = "T";
+
+    var ganado = 0;
+    function Comporbar(id){
+       
+        if (seleccionado) {
+            document.getElementById(selected).classList = "not-selected";
+            if (previd == "btn-0-0" && id == "btn-5-0" || id == "btn-0-0" && previd == "btn-5-0") {
+                for (let i = 0; i < 6; i++) {
+        document.getElementById("btn-" + i +"-0").classList = "palabras";    
+                }
+                ganado++;
+            }
+
+            if (previd == "btn-5-0" && id == "btn-5-3" || id == "btn-5-0" && previd == "btn-5-3") {
+                for (let i = 0; i < 4; i++) {
+        document.getElementById("btn-5-" +i).classList = "palabras";    
+                }
+                ganado++;
+            }
+
+            if (previd == "btn-0-6" && id == "btn-6-6" || id == "btn-0-6" && previd == "btn-6-6") {
+                for (let i = 0; i < 7; i++) {
+        document.getElementById("btn-" + i +"-6").classList = "palabras";    
+                }
+                ganado++;
+            }
+
+            if (previd == "btn-6-6" && id == "btn-9-6" || id == "btn-6-6" && previd == "btn-9-6") {
+                for (let i = 0; i < 4; i++) {
+        document.getElementById("btn-" + (i+6) +"-6").classList = "palabras";    
+                }
+                ganado++;
+            }
+
+            if (previd == "btn-8-3" && id == "btn-2-3" || id == "btn-8-3" && previd == "btn-2-3") {
+                for (let i = 0; i < 7; i++) {
+        document.getElementById("btn-" + (i+2) +"-3").classList = "palabras";    
+                }
+                ganado++;
+            }
+
+            if (previd == "btn-4-6" && id == "btn-1-3" || id == "btn-4-6" && previd == "btn-1-3") {
+                for (let i = 0; i < 4; i++) {
+        document.getElementById("btn-" + (i+1) +"-" + (i+3)).classList = "palabras";    
+                }
+                ganado++;
+            }
+
+            if (previd == "btn-1-1" && id == "btn-6-6" || id == "btn-1-1" && previd == "btn-6-6") {
+                for (let i = 0; i < 6; i++) {
+        document.getElementById("btn-" + (i+1) +"-" + (i+1)).classList = "palabras";    
+                }
+                ganado++;
+            }
+
+            if (previd == "btn-6-4" && id == "btn-9-1" || id == "btn-6-4" && previd == "btn-9-1") {
+                let k = 5;
+                for (let i = 0; i < 4; i++) {
+                    
+                    k--;    
+        document.getElementById("btn-" + (i+6) +"-" + k).classList = "palabras";
+       
+                }
+                ganado++;
+            }
+            console.log(ganado);
+
+            if (ganado == 8) {
+                alert("Enhorabuena, has ganado");
+            }else{
+                previd;
+            seleccionado = false;
+            }            
+        }else{
+            selected = id;
+            document.getElementById(id).className = "selected";
+            seleccionado = true;
+            previd = id;
+        }
+    }
+    var minutos = 0;
+    var segundos = 0;
+    setInterval(function(){
+        
+
+        segundos++;
+
+        if (segundos == 60) {
+            minutos++;
+            segundos = 0;
+        }
+
+        document.getElementById("reloj").innerText = minutos.toString().padStart(2, "0") + ":" + segundos.toString().padStart(2, "0");
+    }, 1000)
+    </script>
+</body>
+</html>
