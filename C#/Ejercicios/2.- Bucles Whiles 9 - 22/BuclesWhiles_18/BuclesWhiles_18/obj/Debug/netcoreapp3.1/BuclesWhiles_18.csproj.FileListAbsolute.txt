@@ -1,0 +1,14 @@
+E:\Visual Studio repos\BuclesWhiles_18\BuclesWhiles_18\bin\Debug\netcoreapp3.1\BuclesWhiles_18.exe
+E:\Visual Studio repos\BuclesWhiles_18\BuclesWhiles_18\bin\Debug\netcoreapp3.1\BuclesWhiles_18.deps.json
+E:\Visual Studio repos\BuclesWhiles_18\BuclesWhiles_18\bin\Debug\netcoreapp3.1\BuclesWhiles_18.runtimeconfig.json
+E:\Visual Studio repos\BuclesWhiles_18\BuclesWhiles_18\bin\Debug\netcoreapp3.1\BuclesWhiles_18.runtimeconfig.dev.json
+E:\Visual Studio repos\BuclesWhiles_18\BuclesWhiles_18\bin\Debug\netcoreapp3.1\BuclesWhiles_18.dll
+E:\Visual Studio repos\BuclesWhiles_18\BuclesWhiles_18\bin\Debug\netcoreapp3.1\BuclesWhiles_18.pdb
+E:\Visual Studio repos\BuclesWhiles_18\BuclesWhiles_18\obj\Debug\netcoreapp3.1\BuclesWhiles_18.csproj.AssemblyReference.cache
+E:\Visual Studio repos\BuclesWhiles_18\BuclesWhiles_18\obj\Debug\netcoreapp3.1\BuclesWhiles_18.GeneratedMSBuildEditorConfig.editorconfig
+E:\Visual Studio repos\BuclesWhiles_18\BuclesWhiles_18\obj\Debug\netcoreapp3.1\BuclesWhiles_18.AssemblyInfoInputs.cache
+E:\Visual Studio repos\BuclesWhiles_18\BuclesWhiles_18\obj\Debug\netcoreapp3.1\BuclesWhiles_18.AssemblyInfo.cs
+E:\Visual Studio repos\BuclesWhiles_18\BuclesWhiles_18\obj\Debug\netcoreapp3.1\BuclesWhiles_18.csproj.CoreCompileInputs.cache
+E:\Visual Studio repos\BuclesWhiles_18\BuclesWhiles_18\obj\Debug\netcoreapp3.1\BuclesWhiles_18.dll
+E:\Visual Studio repos\BuclesWhiles_18\BuclesWhiles_18\obj\Debug\netcoreapp3.1\BuclesWhiles_18.pdb
+E:\Visual Studio repos\BuclesWhiles_18\BuclesWhiles_18\obj\Debug\netcoreapp3.1\BuclesWhiles_18.genruntimeconfig.cache
