@@ -1,0 +1,14 @@
+C:\Users\Hilario\source\repos\Examen_Programacion_Ej2\Examen_Programacion_Ej2\bin\Debug\netcoreapp3.1\Examen_Programacion_Ej2.exe
+C:\Users\Hilario\source\repos\Examen_Programacion_Ej2\Examen_Programacion_Ej2\bin\Debug\netcoreapp3.1\Examen_Programacion_Ej2.deps.json
+C:\Users\Hilario\source\repos\Examen_Programacion_Ej2\Examen_Programacion_Ej2\bin\Debug\netcoreapp3.1\Examen_Programacion_Ej2.runtimeconfig.json
+C:\Users\Hilario\source\repos\Examen_Programacion_Ej2\Examen_Programacion_Ej2\bin\Debug\netcoreapp3.1\Examen_Programacion_Ej2.runtimeconfig.dev.json
+C:\Users\Hilario\source\repos\Examen_Programacion_Ej2\Examen_Programacion_Ej2\bin\Debug\netcoreapp3.1\Examen_Programacion_Ej2.dll
+C:\Users\Hilario\source\repos\Examen_Programacion_Ej2\Examen_Programacion_Ej2\bin\Debug\netcoreapp3.1\Examen_Programacion_Ej2.pdb
+C:\Users\Hilario\source\repos\Examen_Programacion_Ej2\Examen_Programacion_Ej2\obj\Debug\netcoreapp3.1\Examen_Programacion_Ej2.csproj.AssemblyReference.cache
+C:\Users\Hilario\source\repos\Examen_Programacion_Ej2\Examen_Programacion_Ej2\obj\Debug\netcoreapp3.1\Examen_Programacion_Ej2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hilario\source\repos\Examen_Programacion_Ej2\Examen_Programacion_Ej2\obj\Debug\netcoreapp3.1\Examen_Programacion_Ej2.AssemblyInfoInputs.cache
+C:\Users\Hilario\source\repos\Examen_Programacion_Ej2\Examen_Programacion_Ej2\obj\Debug\netcoreapp3.1\Examen_Programacion_Ej2.AssemblyInfo.cs
+C:\Users\Hilario\source\repos\Examen_Programacion_Ej2\Examen_Programacion_Ej2\obj\Debug\netcoreapp3.1\Examen_Programacion_Ej2.csproj.CoreCompileInputs.cache
+C:\Users\Hilario\source\repos\Examen_Programacion_Ej2\Examen_Programacion_Ej2\obj\Debug\netcoreapp3.1\Examen_Programacion_Ej2.dll
+C:\Users\Hilario\source\repos\Examen_Programacion_Ej2\Examen_Programacion_Ej2\obj\Debug\netcoreapp3.1\Examen_Programacion_Ej2.pdb
+C:\Users\Hilario\source\repos\Examen_Programacion_Ej2\Examen_Programacion_Ej2\obj\Debug\netcoreapp3.1\Examen_Programacion_Ej2.genruntimeconfig.cache
