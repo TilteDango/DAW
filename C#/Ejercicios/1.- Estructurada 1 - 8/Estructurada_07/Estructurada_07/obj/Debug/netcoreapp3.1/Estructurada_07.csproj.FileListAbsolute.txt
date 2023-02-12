@@ -1,0 +1,13 @@
+C:\Users\hilar\source\repos\Estructurada_07\Estructurada_07\obj\Debug\netcoreapp3.1\Estructurada_07.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hilar\source\repos\Estructurada_07\Estructurada_07\obj\Debug\netcoreapp3.1\Estructurada_07.AssemblyInfoInputs.cache
+C:\Users\hilar\source\repos\Estructurada_07\Estructurada_07\obj\Debug\netcoreapp3.1\Estructurada_07.AssemblyInfo.cs
+C:\Users\hilar\source\repos\Estructurada_07\Estructurada_07\obj\Debug\netcoreapp3.1\Estructurada_07.csproj.CoreCompileInputs.cache
+C:\Users\hilar\source\repos\Estructurada_07\Estructurada_07\bin\Debug\netcoreapp3.1\Estructurada_07.exe
+C:\Users\hilar\source\repos\Estructurada_07\Estructurada_07\bin\Debug\netcoreapp3.1\Estructurada_07.deps.json
+C:\Users\hilar\source\repos\Estructurada_07\Estructurada_07\bin\Debug\netcoreapp3.1\Estructurada_07.runtimeconfig.json
+C:\Users\hilar\source\repos\Estructurada_07\Estructurada_07\bin\Debug\netcoreapp3.1\Estructurada_07.runtimeconfig.dev.json
+C:\Users\hilar\source\repos\Estructurada_07\Estructurada_07\bin\Debug\netcoreapp3.1\Estructurada_07.dll
+C:\Users\hilar\source\repos\Estructurada_07\Estructurada_07\bin\Debug\netcoreapp3.1\Estructurada_07.pdb
+C:\Users\hilar\source\repos\Estructurada_07\Estructurada_07\obj\Debug\netcoreapp3.1\Estructurada_07.dll
+C:\Users\hilar\source\repos\Estructurada_07\Estructurada_07\obj\Debug\netcoreapp3.1\Estructurada_07.pdb
+C:\Users\hilar\source\repos\Estructurada_07\Estructurada_07\obj\Debug\netcoreapp3.1\Estructurada_07.genruntimeconfig.cache
