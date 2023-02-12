@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>CrudPHP</title>
+    <link rel="stylesheet" href="CSS/styles.css" />
+  </head>
+  <body>
+    <nav>
+      <h1>Lista de productos</h1>
+
+      <ul>
+        <form>
+          <input type="search" id="search" placeholder="Busca el producto" />
+          <button type="submit">Buscar</button>
+        </form>
+      </ul>
+    </nav>
+    <div class="container">
+      <div>
+        <form action="" method="post" id="form" onsubmit="return false">
+          <label for="id">Código del producto: </label>
+          <input type="text" name="id" id="id" />
+          <label for="nombre">Nombre del producto: </label>
+          <input type="text" name="nombre" id="nombre" />
+          <label for="desc">Descripción del producto: </label>
+          <textarea name="desc" id="desc" cols="30" rows="10"></textarea>
+          <label for="pvp">Precio del producto: </label>
+          <input type="number" name="pvp" id="pvp" step="0.1" />
+          <label for="familia">Seleccione la familia: </label>
+          <select name="familia" id="familia">
+            <option value="-1">--Seleccione una opción--</option>
+            <option value="0">Cámaras Digitales</option>
+            <option value="1">Consolas</option>
+            <option value="2">Libros electrónicos</option>
+            <option value="3">Impresoras</option>
+            <option value="4">Memorias Flash</option>
+            <option value="5">Reproductores MP3</option>
+            <option value="6">Equipos multifunción</option>
+            <option value="7">Netbooks</option>
+            <option value="8">Ordenadores</option>
+            <option value="9">Ordenadores portátiles</option>
+            <option value="10">Routers</option>
+            <option value="11">Sistemas de alimentación ininterrumpida</option>
+            <option value="12">Software</option>
+            <option value="13">Televisores</option>
+            <option value="14">Videocámaras</option>
+          </select>
+
+          <button type="submit" id="submit">Crear producto</button>
+        </form>
+      </div>
+
+      <div class="productos">
+        <table border="1">
+          <tr>
+            <th>Código</th>
+            <th>Nombre</th>
+            <th>Precio</th>
+            <th>Familia</th>
+            <th>Editar</th>
+          </tr>
+          <tbody id="tbody"></tbody>
+        </table>
+      </div>
+    </div>
+
+    <script src="main.js"></script>
+  </body>
+</html>
