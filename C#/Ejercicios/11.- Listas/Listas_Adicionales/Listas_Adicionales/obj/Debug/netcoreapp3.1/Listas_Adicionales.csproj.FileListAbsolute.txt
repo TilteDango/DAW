@@ -1,0 +1,14 @@
+C:\Users\Hilario\source\repos\Listas_Adicionales\Listas_Adicionales\bin\Debug\netcoreapp3.1\Listas_Adicionales.exe
+C:\Users\Hilario\source\repos\Listas_Adicionales\Listas_Adicionales\bin\Debug\netcoreapp3.1\Listas_Adicionales.deps.json
+C:\Users\Hilario\source\repos\Listas_Adicionales\Listas_Adicionales\bin\Debug\netcoreapp3.1\Listas_Adicionales.runtimeconfig.json
+C:\Users\Hilario\source\repos\Listas_Adicionales\Listas_Adicionales\bin\Debug\netcoreapp3.1\Listas_Adicionales.runtimeconfig.dev.json
+C:\Users\Hilario\source\repos\Listas_Adicionales\Listas_Adicionales\bin\Debug\netcoreapp3.1\Listas_Adicionales.dll
+C:\Users\Hilario\source\repos\Listas_Adicionales\Listas_Adicionales\bin\Debug\netcoreapp3.1\Listas_Adicionales.pdb
+C:\Users\Hilario\source\repos\Listas_Adicionales\Listas_Adicionales\obj\Debug\netcoreapp3.1\Listas_Adicionales.csproj.AssemblyReference.cache
+C:\Users\Hilario\source\repos\Listas_Adicionales\Listas_Adicionales\obj\Debug\netcoreapp3.1\Listas_Adicionales.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hilario\source\repos\Listas_Adicionales\Listas_Adicionales\obj\Debug\netcoreapp3.1\Listas_Adicionales.AssemblyInfoInputs.cache
+C:\Users\Hilario\source\repos\Listas_Adicionales\Listas_Adicionales\obj\Debug\netcoreapp3.1\Listas_Adicionales.AssemblyInfo.cs
+C:\Users\Hilario\source\repos\Listas_Adicionales\Listas_Adicionales\obj\Debug\netcoreapp3.1\Listas_Adicionales.csproj.CoreCompileInputs.cache
+C:\Users\Hilario\source\repos\Listas_Adicionales\Listas_Adicionales\obj\Debug\netcoreapp3.1\Listas_Adicionales.dll
+C:\Users\Hilario\source\repos\Listas_Adicionales\Listas_Adicionales\obj\Debug\netcoreapp3.1\Listas_Adicionales.pdb
+C:\Users\Hilario\source\repos\Listas_Adicionales\Listas_Adicionales\obj\Debug\netcoreapp3.1\Listas_Adicionales.genruntimeconfig.cache
