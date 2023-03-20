@@ -1,0 +1,42 @@
+C:\Users\Hilario\source\repos\Objetos(Opcional)- Tres en Raya\Objetos(Opcional)- Tres en Raya\bin\Debug\netcoreapp3.1\Objetos(Opcional)- Tres en Raya.exe
+C:\Users\Hilario\source\repos\Objetos(Opcional)- Tres en Raya\Objetos(Opcional)- Tres en Raya\bin\Debug\netcoreapp3.1\Objetos(Opcional)- Tres en Raya.deps.json
+C:\Users\Hilario\source\repos\Objetos(Opcional)- Tres en Raya\Objetos(Opcional)- Tres en Raya\bin\Debug\netcoreapp3.1\Objetos(Opcional)- Tres en Raya.runtimeconfig.json
+C:\Users\Hilario\source\repos\Objetos(Opcional)- Tres en Raya\Objetos(Opcional)- Tres en Raya\bin\Debug\netcoreapp3.1\Objetos(Opcional)- Tres en Raya.runtimeconfig.dev.json
+C:\Users\Hilario\source\repos\Objetos(Opcional)- Tres en Raya\Objetos(Opcional)- Tres en Raya\bin\Debug\netcoreapp3.1\Objetos(Opcional)- Tres en Raya.dll
+C:\Users\Hilario\source\repos\Objetos(Opcional)- Tres en Raya\Objetos(Opcional)- Tres en Raya\bin\Debug\netcoreapp3.1\Objetos(Opcional)- Tres en Raya.pdb
+C:\Users\Hilario\source\repos\Objetos(Opcional)- Tres en Raya\Objetos(Opcional)- Tres en Raya\obj\Debug\netcoreapp3.1\Objetos(Opcional)- Tres en Raya.csproj.AssemblyReference.cache
+C:\Users\Hilario\source\repos\Objetos(Opcional)- Tres en Raya\Objetos(Opcional)- Tres en Raya\obj\Debug\netcoreapp3.1\Objetos(Opcional)- Tres en Raya.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hilario\source\repos\Objetos(Opcional)- Tres en Raya\Objetos(Opcional)- Tres en Raya\obj\Debug\netcoreapp3.1\Objetos(Opcional)- Tres en Raya.AssemblyInfoInputs.cache
+C:\Users\Hilario\source\repos\Objetos(Opcional)- Tres en Raya\Objetos(Opcional)- Tres en Raya\obj\Debug\netcoreapp3.1\Objetos(Opcional)- Tres en Raya.AssemblyInfo.cs
+C:\Users\Hilario\source\repos\Objetos(Opcional)- Tres en Raya\Objetos(Opcional)- Tres en Raya\obj\Debug\netcoreapp3.1\Objetos(Opcional)- Tres en Raya.csproj.CoreCompileInputs.cache
+C:\Users\Hilario\source\repos\Objetos(Opcional)- Tres en Raya\Objetos(Opcional)- Tres en Raya\obj\Debug\netcoreapp3.1\Objetos(Opcional)- Tres en Raya.dll
+C:\Users\Hilario\source\repos\Objetos(Opcional)- Tres en Raya\Objetos(Opcional)- Tres en Raya\obj\Debug\netcoreapp3.1\Objetos(Opcional)- Tres en Raya.pdb
+C:\Users\Hilario\source\repos\Objetos(Opcional)- Tres en Raya\Objetos(Opcional)- Tres en Raya\obj\Debug\netcoreapp3.1\Objetos(Opcional)- Tres en Raya.genruntimeconfig.cache
+C:\Users\Hilario\Desktop\Objetos(Opcional)- Tres en Raya\Objetos(Opcional)- Tres en Raya\bin\Debug\netcoreapp3.1\Objetos(Opcional)- Tres en Raya.exe
+C:\Users\Hilario\Desktop\Objetos(Opcional)- Tres en Raya\Objetos(Opcional)- Tres en Raya\bin\Debug\netcoreapp3.1\Objetos(Opcional)- Tres en Raya.deps.json
+C:\Users\Hilario\Desktop\Objetos(Opcional)- Tres en Raya\Objetos(Opcional)- Tres en Raya\bin\Debug\netcoreapp3.1\Objetos(Opcional)- Tres en Raya.runtimeconfig.json
+C:\Users\Hilario\Desktop\Objetos(Opcional)- Tres en Raya\Objetos(Opcional)- Tres en Raya\bin\Debug\netcoreapp3.1\Objetos(Opcional)- Tres en Raya.runtimeconfig.dev.json
+C:\Users\Hilario\Desktop\Objetos(Opcional)- Tres en Raya\Objetos(Opcional)- Tres en Raya\bin\Debug\netcoreapp3.1\Objetos(Opcional)- Tres en Raya.dll
+C:\Users\Hilario\Desktop\Objetos(Opcional)- Tres en Raya\Objetos(Opcional)- Tres en Raya\bin\Debug\netcoreapp3.1\Objetos(Opcional)- Tres en Raya.pdb
+C:\Users\Hilario\Desktop\Objetos(Opcional)- Tres en Raya\Objetos(Opcional)- Tres en Raya\obj\Debug\netcoreapp3.1\Objetos(Opcional)- Tres en Raya.csproj.AssemblyReference.cache
+C:\Users\Hilario\Desktop\Objetos(Opcional)- Tres en Raya\Objetos(Opcional)- Tres en Raya\obj\Debug\netcoreapp3.1\Objetos(Opcional)- Tres en Raya.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hilario\Desktop\Objetos(Opcional)- Tres en Raya\Objetos(Opcional)- Tres en Raya\obj\Debug\netcoreapp3.1\Objetos(Opcional)- Tres en Raya.AssemblyInfoInputs.cache
+C:\Users\Hilario\Desktop\Objetos(Opcional)- Tres en Raya\Objetos(Opcional)- Tres en Raya\obj\Debug\netcoreapp3.1\Objetos(Opcional)- Tres en Raya.AssemblyInfo.cs
+C:\Users\Hilario\Desktop\Objetos(Opcional)- Tres en Raya\Objetos(Opcional)- Tres en Raya\obj\Debug\netcoreapp3.1\Objetos(Opcional)- Tres en Raya.csproj.CoreCompileInputs.cache
+C:\Users\Hilario\Desktop\Objetos(Opcional)- Tres en Raya\Objetos(Opcional)- Tres en Raya\obj\Debug\netcoreapp3.1\Objetos(Opcional)- Tres en Raya.dll
+C:\Users\Hilario\Desktop\Objetos(Opcional)- Tres en Raya\Objetos(Opcional)- Tres en Raya\obj\Debug\netcoreapp3.1\Objetos(Opcional)- Tres en Raya.pdb
+C:\Users\Hilario\Desktop\Objetos(Opcional)- Tres en Raya\Objetos(Opcional)- Tres en Raya\obj\Debug\netcoreapp3.1\Objetos(Opcional)- Tres en Raya.genruntimeconfig.cache
+C:\Users\hilar\OneDrive\Escritorio\Objetos(Opcional)- Tres en Raya-20220301T095050Z-001\Objetos(Opcional)- Tres en Raya\Objetos(Opcional)- Tres en Raya\bin\Debug\netcoreapp3.1\Objetos(Opcional)- Tres en Raya.exe
+C:\Users\hilar\OneDrive\Escritorio\Objetos(Opcional)- Tres en Raya-20220301T095050Z-001\Objetos(Opcional)- Tres en Raya\Objetos(Opcional)- Tres en Raya\bin\Debug\netcoreapp3.1\Objetos(Opcional)- Tres en Raya.deps.json
+C:\Users\hilar\OneDrive\Escritorio\Objetos(Opcional)- Tres en Raya-20220301T095050Z-001\Objetos(Opcional)- Tres en Raya\Objetos(Opcional)- Tres en Raya\bin\Debug\netcoreapp3.1\Objetos(Opcional)- Tres en Raya.runtimeconfig.json
+C:\Users\hilar\OneDrive\Escritorio\Objetos(Opcional)- Tres en Raya-20220301T095050Z-001\Objetos(Opcional)- Tres en Raya\Objetos(Opcional)- Tres en Raya\bin\Debug\netcoreapp3.1\Objetos(Opcional)- Tres en Raya.runtimeconfig.dev.json
+C:\Users\hilar\OneDrive\Escritorio\Objetos(Opcional)- Tres en Raya-20220301T095050Z-001\Objetos(Opcional)- Tres en Raya\Objetos(Opcional)- Tres en Raya\bin\Debug\netcoreapp3.1\Objetos(Opcional)- Tres en Raya.dll
+C:\Users\hilar\OneDrive\Escritorio\Objetos(Opcional)- Tres en Raya-20220301T095050Z-001\Objetos(Opcional)- Tres en Raya\Objetos(Opcional)- Tres en Raya\bin\Debug\netcoreapp3.1\Objetos(Opcional)- Tres en Raya.pdb
+C:\Users\hilar\OneDrive\Escritorio\Objetos(Opcional)- Tres en Raya-20220301T095050Z-001\Objetos(Opcional)- Tres en Raya\Objetos(Opcional)- Tres en Raya\obj\Debug\netcoreapp3.1\Objetos(Opcional)- Tres en Raya.csproj.AssemblyReference.cache
+C:\Users\hilar\OneDrive\Escritorio\Objetos(Opcional)- Tres en Raya-20220301T095050Z-001\Objetos(Opcional)- Tres en Raya\Objetos(Opcional)- Tres en Raya\obj\Debug\netcoreapp3.1\Objetos(Opcional)- Tres en Raya.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hilar\OneDrive\Escritorio\Objetos(Opcional)- Tres en Raya-20220301T095050Z-001\Objetos(Opcional)- Tres en Raya\Objetos(Opcional)- Tres en Raya\obj\Debug\netcoreapp3.1\Objetos(Opcional)- Tres en Raya.AssemblyInfoInputs.cache
+C:\Users\hilar\OneDrive\Escritorio\Objetos(Opcional)- Tres en Raya-20220301T095050Z-001\Objetos(Opcional)- Tres en Raya\Objetos(Opcional)- Tres en Raya\obj\Debug\netcoreapp3.1\Objetos(Opcional)- Tres en Raya.AssemblyInfo.cs
+C:\Users\hilar\OneDrive\Escritorio\Objetos(Opcional)- Tres en Raya-20220301T095050Z-001\Objetos(Opcional)- Tres en Raya\Objetos(Opcional)- Tres en Raya\obj\Debug\netcoreapp3.1\Objetos(Opcional)- Tres en Raya.csproj.CoreCompileInputs.cache
+C:\Users\hilar\OneDrive\Escritorio\Objetos(Opcional)- Tres en Raya-20220301T095050Z-001\Objetos(Opcional)- Tres en Raya\Objetos(Opcional)- Tres en Raya\obj\Debug\netcoreapp3.1\Objetos(Opcional)- Tres en Raya.dll
+C:\Users\hilar\OneDrive\Escritorio\Objetos(Opcional)- Tres en Raya-20220301T095050Z-001\Objetos(Opcional)- Tres en Raya\Objetos(Opcional)- Tres en Raya\obj\Debug\netcoreapp3.1\Objetos(Opcional)- Tres en Raya.pdb
+C:\Users\hilar\OneDrive\Escritorio\Objetos(Opcional)- Tres en Raya-20220301T095050Z-001\Objetos(Opcional)- Tres en Raya\Objetos(Opcional)- Tres en Raya\obj\Debug\netcoreapp3.1\Objetos(Opcional)- Tres en Raya.genruntimeconfig.cache
