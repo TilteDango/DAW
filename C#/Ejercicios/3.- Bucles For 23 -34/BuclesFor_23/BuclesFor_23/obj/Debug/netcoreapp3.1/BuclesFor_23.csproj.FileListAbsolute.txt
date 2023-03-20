@@ -1,0 +1,14 @@
+C:\Users\Hilario\source\repos\BuclesFor_23\BuclesFor_23\bin\Debug\netcoreapp3.1\BuclesFor_23.exe
+C:\Users\Hilario\source\repos\BuclesFor_23\BuclesFor_23\bin\Debug\netcoreapp3.1\BuclesFor_23.deps.json
+C:\Users\Hilario\source\repos\BuclesFor_23\BuclesFor_23\bin\Debug\netcoreapp3.1\BuclesFor_23.runtimeconfig.json
+C:\Users\Hilario\source\repos\BuclesFor_23\BuclesFor_23\bin\Debug\netcoreapp3.1\BuclesFor_23.runtimeconfig.dev.json
+C:\Users\Hilario\source\repos\BuclesFor_23\BuclesFor_23\bin\Debug\netcoreapp3.1\BuclesFor_23.dll
+C:\Users\Hilario\source\repos\BuclesFor_23\BuclesFor_23\bin\Debug\netcoreapp3.1\BuclesFor_23.pdb
+C:\Users\Hilario\source\repos\BuclesFor_23\BuclesFor_23\obj\Debug\netcoreapp3.1\BuclesFor_23.csproj.AssemblyReference.cache
+C:\Users\Hilario\source\repos\BuclesFor_23\BuclesFor_23\obj\Debug\netcoreapp3.1\BuclesFor_23.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hilario\source\repos\BuclesFor_23\BuclesFor_23\obj\Debug\netcoreapp3.1\BuclesFor_23.AssemblyInfoInputs.cache
+C:\Users\Hilario\source\repos\BuclesFor_23\BuclesFor_23\obj\Debug\netcoreapp3.1\BuclesFor_23.AssemblyInfo.cs
+C:\Users\Hilario\source\repos\BuclesFor_23\BuclesFor_23\obj\Debug\netcoreapp3.1\BuclesFor_23.csproj.CoreCompileInputs.cache
+C:\Users\Hilario\source\repos\BuclesFor_23\BuclesFor_23\obj\Debug\netcoreapp3.1\BuclesFor_23.dll
+C:\Users\Hilario\source\repos\BuclesFor_23\BuclesFor_23\obj\Debug\netcoreapp3.1\BuclesFor_23.pdb
+C:\Users\Hilario\source\repos\BuclesFor_23\BuclesFor_23\obj\Debug\netcoreapp3.1\BuclesFor_23.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\Hilario\source\repos\BuclesFor_28\BuclesFor_28\bin\Debug\netcoreapp3.1\BuclesFor_28.exe
+C:\Users\Hilario\source\repos\BuclesFor_28\BuclesFor_28\bin\Debug\netcoreapp3.1\BuclesFor_28.deps.json
+C:\Users\Hilario\source\repos\BuclesFor_28\BuclesFor_28\bin\Debug\netcoreapp3.1\BuclesFor_28.runtimeconfig.json
+C:\Users\Hilario\source\repos\BuclesFor_28\BuclesFor_28\bin\Debug\netcoreapp3.1\BuclesFor_28.runtimeconfig.dev.json
+C:\Users\Hilario\source\repos\BuclesFor_28\BuclesFor_28\bin\Debug\netcoreapp3.1\BuclesFor_28.dll
+C:\Users\Hilario\source\repos\BuclesFor_28\BuclesFor_28\bin\Debug\netcoreapp3.1\BuclesFor_28.pdb
+C:\Users\Hilario\source\repos\BuclesFor_28\BuclesFor_28\obj\Debug\netcoreapp3.1\BuclesFor_28.csproj.AssemblyReference.cache
+C:\Users\Hilario\source\repos\BuclesFor_28\BuclesFor_28\obj\Debug\netcoreapp3.1\BuclesFor_28.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hilario\source\repos\BuclesFor_28\BuclesFor_28\obj\Debug\netcoreapp3.1\BuclesFor_28.AssemblyInfoInputs.cache
+C:\Users\Hilario\source\repos\BuclesFor_28\BuclesFor_28\obj\Debug\netcoreapp3.1\BuclesFor_28.AssemblyInfo.cs
+C:\Users\Hilario\source\repos\BuclesFor_28\BuclesFor_28\obj\Debug\netcoreapp3.1\BuclesFor_28.csproj.CoreCompileInputs.cache
+C:\Users\Hilario\source\repos\BuclesFor_28\BuclesFor_28\obj\Debug\netcoreapp3.1\BuclesFor_28.dll
+C:\Users\Hilario\source\repos\BuclesFor_28\BuclesFor_28\obj\Debug\netcoreapp3.1\BuclesFor_28.pdb
+C:\Users\Hilario\source\repos\BuclesFor_28\BuclesFor_28\obj\Debug\netcoreapp3.1\BuclesFor_28.genruntimeconfig.cache
