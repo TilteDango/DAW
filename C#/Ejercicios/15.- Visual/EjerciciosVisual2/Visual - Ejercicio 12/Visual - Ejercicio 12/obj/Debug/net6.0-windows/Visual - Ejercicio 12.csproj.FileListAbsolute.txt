@@ -1,0 +1,17 @@
+C:\Users\Hilario\source\repos\Visual - Ejercicio 12\Visual - Ejercicio 12\bin\Debug\net6.0-windows\Visual - Ejercicio 12.exe
+C:\Users\Hilario\source\repos\Visual - Ejercicio 12\Visual - Ejercicio 12\bin\Debug\net6.0-windows\Visual - Ejercicio 12.deps.json
+C:\Users\Hilario\source\repos\Visual - Ejercicio 12\Visual - Ejercicio 12\bin\Debug\net6.0-windows\Visual - Ejercicio 12.runtimeconfig.json
+C:\Users\Hilario\source\repos\Visual - Ejercicio 12\Visual - Ejercicio 12\bin\Debug\net6.0-windows\Visual - Ejercicio 12.dll
+C:\Users\Hilario\source\repos\Visual - Ejercicio 12\Visual - Ejercicio 12\bin\Debug\net6.0-windows\Visual - Ejercicio 12.pdb
+C:\Users\Hilario\source\repos\Visual - Ejercicio 12\Visual - Ejercicio 12\obj\Debug\net6.0-windows\Visual - Ejercicio 12.csproj.AssemblyReference.cache
+C:\Users\Hilario\source\repos\Visual - Ejercicio 12\Visual - Ejercicio 12\obj\Debug\net6.0-windows\Visual___Ejercicio_12.Form1.resources
+C:\Users\Hilario\source\repos\Visual - Ejercicio 12\Visual - Ejercicio 12\obj\Debug\net6.0-windows\Visual - Ejercicio 12.csproj.GenerateResource.cache
+C:\Users\Hilario\source\repos\Visual - Ejercicio 12\Visual - Ejercicio 12\obj\Debug\net6.0-windows\Visual - Ejercicio 12.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hilario\source\repos\Visual - Ejercicio 12\Visual - Ejercicio 12\obj\Debug\net6.0-windows\Visual - Ejercicio 12.AssemblyInfoInputs.cache
+C:\Users\Hilario\source\repos\Visual - Ejercicio 12\Visual - Ejercicio 12\obj\Debug\net6.0-windows\Visual - Ejercicio 12.AssemblyInfo.cs
+C:\Users\Hilario\source\repos\Visual - Ejercicio 12\Visual - Ejercicio 12\obj\Debug\net6.0-windows\Visual - Ejercicio 12.csproj.CoreCompileInputs.cache
+C:\Users\Hilario\source\repos\Visual - Ejercicio 12\Visual - Ejercicio 12\obj\Debug\net6.0-windows\Visual - Ejercicio 12.dll
+C:\Users\Hilario\source\repos\Visual - Ejercicio 12\Visual - Ejercicio 12\obj\Debug\net6.0-windows\refint\Visual - Ejercicio 12.dll
+C:\Users\Hilario\source\repos\Visual - Ejercicio 12\Visual - Ejercicio 12\obj\Debug\net6.0-windows\Visual - Ejercicio 12.pdb
+C:\Users\Hilario\source\repos\Visual - Ejercicio 12\Visual - Ejercicio 12\obj\Debug\net6.0-windows\Visual - Ejercicio 12.genruntimeconfig.cache
+C:\Users\Hilario\source\repos\Visual - Ejercicio 12\Visual - Ejercicio 12\obj\Debug\net6.0-windows\ref\Visual - Ejercicio 12.dll

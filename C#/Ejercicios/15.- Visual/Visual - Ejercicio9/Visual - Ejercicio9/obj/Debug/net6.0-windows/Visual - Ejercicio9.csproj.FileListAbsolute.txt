@@ -1,0 +1,17 @@
+C:\Users\Hilario\source\repos\Visual - Ejercicio9\Visual - Ejercicio9\bin\Debug\net6.0-windows\Visual - Ejercicio9.exe
+C:\Users\Hilario\source\repos\Visual - Ejercicio9\Visual - Ejercicio9\bin\Debug\net6.0-windows\Visual - Ejercicio9.deps.json
+C:\Users\Hilario\source\repos\Visual - Ejercicio9\Visual - Ejercicio9\bin\Debug\net6.0-windows\Visual - Ejercicio9.runtimeconfig.json
+C:\Users\Hilario\source\repos\Visual - Ejercicio9\Visual - Ejercicio9\bin\Debug\net6.0-windows\Visual - Ejercicio9.dll
+C:\Users\Hilario\source\repos\Visual - Ejercicio9\Visual - Ejercicio9\bin\Debug\net6.0-windows\Visual - Ejercicio9.pdb
+C:\Users\Hilario\source\repos\Visual - Ejercicio9\Visual - Ejercicio9\obj\Debug\net6.0-windows\Visual - Ejercicio9.csproj.AssemblyReference.cache
+C:\Users\Hilario\source\repos\Visual - Ejercicio9\Visual - Ejercicio9\obj\Debug\net6.0-windows\Visual___Ejercicio9.Form1.resources
+C:\Users\Hilario\source\repos\Visual - Ejercicio9\Visual - Ejercicio9\obj\Debug\net6.0-windows\Visual - Ejercicio9.csproj.GenerateResource.cache
+C:\Users\Hilario\source\repos\Visual - Ejercicio9\Visual - Ejercicio9\obj\Debug\net6.0-windows\Visual - Ejercicio9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hilario\source\repos\Visual - Ejercicio9\Visual - Ejercicio9\obj\Debug\net6.0-windows\Visual - Ejercicio9.AssemblyInfoInputs.cache
+C:\Users\Hilario\source\repos\Visual - Ejercicio9\Visual - Ejercicio9\obj\Debug\net6.0-windows\Visual - Ejercicio9.AssemblyInfo.cs
+C:\Users\Hilario\source\repos\Visual - Ejercicio9\Visual - Ejercicio9\obj\Debug\net6.0-windows\Visual - Ejercicio9.csproj.CoreCompileInputs.cache
+C:\Users\Hilario\source\repos\Visual - Ejercicio9\Visual - Ejercicio9\obj\Debug\net6.0-windows\Visual - Ejercicio9.dll
+C:\Users\Hilario\source\repos\Visual - Ejercicio9\Visual - Ejercicio9\obj\Debug\net6.0-windows\refint\Visual - Ejercicio9.dll
+C:\Users\Hilario\source\repos\Visual - Ejercicio9\Visual - Ejercicio9\obj\Debug\net6.0-windows\Visual - Ejercicio9.pdb
+C:\Users\Hilario\source\repos\Visual - Ejercicio9\Visual - Ejercicio9\obj\Debug\net6.0-windows\Visual - Ejercicio9.genruntimeconfig.cache
+C:\Users\Hilario\source\repos\Visual - Ejercicio9\Visual - Ejercicio9\obj\Debug\net6.0-windows\ref\Visual - Ejercicio9.dll

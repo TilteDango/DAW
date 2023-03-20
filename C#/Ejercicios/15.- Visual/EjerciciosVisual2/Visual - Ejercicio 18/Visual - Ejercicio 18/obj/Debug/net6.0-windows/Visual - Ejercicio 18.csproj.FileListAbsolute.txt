@@ -1,0 +1,17 @@
+C:\Users\Hilario\source\repos\Visual - Ejercicio 18\Visual - Ejercicio 18\bin\Debug\net6.0-windows\Visual - Ejercicio 18.exe
+C:\Users\Hilario\source\repos\Visual - Ejercicio 18\Visual - Ejercicio 18\bin\Debug\net6.0-windows\Visual - Ejercicio 18.deps.json
+C:\Users\Hilario\source\repos\Visual - Ejercicio 18\Visual - Ejercicio 18\bin\Debug\net6.0-windows\Visual - Ejercicio 18.runtimeconfig.json
+C:\Users\Hilario\source\repos\Visual - Ejercicio 18\Visual - Ejercicio 18\bin\Debug\net6.0-windows\Visual - Ejercicio 18.dll
+C:\Users\Hilario\source\repos\Visual - Ejercicio 18\Visual - Ejercicio 18\bin\Debug\net6.0-windows\Visual - Ejercicio 18.pdb
+C:\Users\Hilario\source\repos\Visual - Ejercicio 18\Visual - Ejercicio 18\obj\Debug\net6.0-windows\Visual - Ejercicio 18.csproj.AssemblyReference.cache
+C:\Users\Hilario\source\repos\Visual - Ejercicio 18\Visual - Ejercicio 18\obj\Debug\net6.0-windows\Visual___Ejercicio_18.Form1.resources
+C:\Users\Hilario\source\repos\Visual - Ejercicio 18\Visual - Ejercicio 18\obj\Debug\net6.0-windows\Visual - Ejercicio 18.csproj.GenerateResource.cache
+C:\Users\Hilario\source\repos\Visual - Ejercicio 18\Visual - Ejercicio 18\obj\Debug\net6.0-windows\Visual - Ejercicio 18.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hilario\source\repos\Visual - Ejercicio 18\Visual - Ejercicio 18\obj\Debug\net6.0-windows\Visual - Ejercicio 18.AssemblyInfoInputs.cache
+C:\Users\Hilario\source\repos\Visual - Ejercicio 18\Visual - Ejercicio 18\obj\Debug\net6.0-windows\Visual - Ejercicio 18.AssemblyInfo.cs
+C:\Users\Hilario\source\repos\Visual - Ejercicio 18\Visual - Ejercicio 18\obj\Debug\net6.0-windows\Visual - Ejercicio 18.csproj.CoreCompileInputs.cache
+C:\Users\Hilario\source\repos\Visual - Ejercicio 18\Visual - Ejercicio 18\obj\Debug\net6.0-windows\Visual - Ejercicio 18.dll
+C:\Users\Hilario\source\repos\Visual - Ejercicio 18\Visual - Ejercicio 18\obj\Debug\net6.0-windows\refint\Visual - Ejercicio 18.dll
+C:\Users\Hilario\source\repos\Visual - Ejercicio 18\Visual - Ejercicio 18\obj\Debug\net6.0-windows\Visual - Ejercicio 18.pdb
+C:\Users\Hilario\source\repos\Visual - Ejercicio 18\Visual - Ejercicio 18\obj\Debug\net6.0-windows\Visual - Ejercicio 18.genruntimeconfig.cache
+C:\Users\Hilario\source\repos\Visual - Ejercicio 18\Visual - Ejercicio 18\obj\Debug\net6.0-windows\ref\Visual - Ejercicio 18.dll

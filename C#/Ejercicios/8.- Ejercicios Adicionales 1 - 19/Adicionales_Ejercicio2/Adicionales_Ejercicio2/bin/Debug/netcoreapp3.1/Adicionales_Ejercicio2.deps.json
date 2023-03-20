@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Adicionales_Ejercicio2/1.0.0": {
+        "runtime": {
+          "Adicionales_Ejercicio2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Adicionales_Ejercicio2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

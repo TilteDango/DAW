@@ -1,0 +1,17 @@
+C:\Users\Hilario\source\repos\Visual - Ejercicio6\Visual - Ejercicio6\bin\Debug\net6.0-windows\Visual - Ejercicio6.exe
+C:\Users\Hilario\source\repos\Visual - Ejercicio6\Visual - Ejercicio6\bin\Debug\net6.0-windows\Visual - Ejercicio6.deps.json
+C:\Users\Hilario\source\repos\Visual - Ejercicio6\Visual - Ejercicio6\bin\Debug\net6.0-windows\Visual - Ejercicio6.runtimeconfig.json
+C:\Users\Hilario\source\repos\Visual - Ejercicio6\Visual - Ejercicio6\bin\Debug\net6.0-windows\Visual - Ejercicio6.dll
+C:\Users\Hilario\source\repos\Visual - Ejercicio6\Visual - Ejercicio6\bin\Debug\net6.0-windows\Visual - Ejercicio6.pdb
+C:\Users\Hilario\source\repos\Visual - Ejercicio6\Visual - Ejercicio6\obj\Debug\net6.0-windows\Visual - Ejercicio6.csproj.AssemblyReference.cache
+C:\Users\Hilario\source\repos\Visual - Ejercicio6\Visual - Ejercicio6\obj\Debug\net6.0-windows\Visual___Ejercicio6.Form1.resources
+C:\Users\Hilario\source\repos\Visual - Ejercicio6\Visual - Ejercicio6\obj\Debug\net6.0-windows\Visual - Ejercicio6.csproj.GenerateResource.cache
+C:\Users\Hilario\source\repos\Visual - Ejercicio6\Visual - Ejercicio6\obj\Debug\net6.0-windows\Visual - Ejercicio6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hilario\source\repos\Visual - Ejercicio6\Visual - Ejercicio6\obj\Debug\net6.0-windows\Visual - Ejercicio6.AssemblyInfoInputs.cache
+C:\Users\Hilario\source\repos\Visual - Ejercicio6\Visual - Ejercicio6\obj\Debug\net6.0-windows\Visual - Ejercicio6.AssemblyInfo.cs
+C:\Users\Hilario\source\repos\Visual - Ejercicio6\Visual - Ejercicio6\obj\Debug\net6.0-windows\Visual - Ejercicio6.csproj.CoreCompileInputs.cache
+C:\Users\Hilario\source\repos\Visual - Ejercicio6\Visual - Ejercicio6\obj\Debug\net6.0-windows\Visual - Ejercicio6.dll
+C:\Users\Hilario\source\repos\Visual - Ejercicio6\Visual - Ejercicio6\obj\Debug\net6.0-windows\refint\Visual - Ejercicio6.dll
+C:\Users\Hilario\source\repos\Visual - Ejercicio6\Visual - Ejercicio6\obj\Debug\net6.0-windows\Visual - Ejercicio6.pdb
+C:\Users\Hilario\source\repos\Visual - Ejercicio6\Visual - Ejercicio6\obj\Debug\net6.0-windows\Visual - Ejercicio6.genruntimeconfig.cache
+C:\Users\Hilario\source\repos\Visual - Ejercicio6\Visual - Ejercicio6\obj\Debug\net6.0-windows\ref\Visual - Ejercicio6.dll

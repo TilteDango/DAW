@@ -1,0 +1,14 @@
+C:\Users\Hilario\source\repos\Relacion1_Funcion5\Relacion1_Funcion5\obj\Debug\netcoreapp3.1\Relacion1_Funcion5.csproj.AssemblyReference.cache
+C:\Users\Hilario\source\repos\Relacion1_Funcion5\Relacion1_Funcion5\obj\Debug\netcoreapp3.1\Relacion1_Funcion5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hilario\source\repos\Relacion1_Funcion5\Relacion1_Funcion5\obj\Debug\netcoreapp3.1\Relacion1_Funcion5.AssemblyInfoInputs.cache
+C:\Users\Hilario\source\repos\Relacion1_Funcion5\Relacion1_Funcion5\obj\Debug\netcoreapp3.1\Relacion1_Funcion5.AssemblyInfo.cs
+C:\Users\Hilario\source\repos\Relacion1_Funcion5\Relacion1_Funcion5\obj\Debug\netcoreapp3.1\Relacion1_Funcion5.csproj.CoreCompileInputs.cache
+C:\Users\Hilario\source\repos\Relacion1_Funcion5\Relacion1_Funcion5\bin\Debug\netcoreapp3.1\Relacion1_Funcion5.exe
+C:\Users\Hilario\source\repos\Relacion1_Funcion5\Relacion1_Funcion5\bin\Debug\netcoreapp3.1\Relacion1_Funcion5.deps.json
+C:\Users\Hilario\source\repos\Relacion1_Funcion5\Relacion1_Funcion5\bin\Debug\netcoreapp3.1\Relacion1_Funcion5.runtimeconfig.json
+C:\Users\Hilario\source\repos\Relacion1_Funcion5\Relacion1_Funcion5\bin\Debug\netcoreapp3.1\Relacion1_Funcion5.runtimeconfig.dev.json
+C:\Users\Hilario\source\repos\Relacion1_Funcion5\Relacion1_Funcion5\bin\Debug\netcoreapp3.1\Relacion1_Funcion5.dll
+C:\Users\Hilario\source\repos\Relacion1_Funcion5\Relacion1_Funcion5\bin\Debug\netcoreapp3.1\Relacion1_Funcion5.pdb
+C:\Users\Hilario\source\repos\Relacion1_Funcion5\Relacion1_Funcion5\obj\Debug\netcoreapp3.1\Relacion1_Funcion5.dll
+C:\Users\Hilario\source\repos\Relacion1_Funcion5\Relacion1_Funcion5\obj\Debug\netcoreapp3.1\Relacion1_Funcion5.pdb
+C:\Users\Hilario\source\repos\Relacion1_Funcion5\Relacion1_Funcion5\obj\Debug\netcoreapp3.1\Relacion1_Funcion5.genruntimeconfig.cache

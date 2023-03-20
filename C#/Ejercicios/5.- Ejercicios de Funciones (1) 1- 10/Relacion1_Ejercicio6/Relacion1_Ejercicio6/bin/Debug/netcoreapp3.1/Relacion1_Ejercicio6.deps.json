@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Relacion1_Ejercicio6/1.0.0": {
+        "runtime": {
+          "Relacion1_Ejercicio6.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Relacion1_Ejercicio6/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

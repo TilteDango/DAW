@@ -1,0 +1,17 @@
+C:\Users\Hilario\source\repos\Visual-Ejercicio5\Visual-Ejercicio5\bin\Debug\net6.0-windows\Visual-Ejercicio5.exe
+C:\Users\Hilario\source\repos\Visual-Ejercicio5\Visual-Ejercicio5\bin\Debug\net6.0-windows\Visual-Ejercicio5.deps.json
+C:\Users\Hilario\source\repos\Visual-Ejercicio5\Visual-Ejercicio5\bin\Debug\net6.0-windows\Visual-Ejercicio5.runtimeconfig.json
+C:\Users\Hilario\source\repos\Visual-Ejercicio5\Visual-Ejercicio5\bin\Debug\net6.0-windows\Visual-Ejercicio5.dll
+C:\Users\Hilario\source\repos\Visual-Ejercicio5\Visual-Ejercicio5\bin\Debug\net6.0-windows\Visual-Ejercicio5.pdb
+C:\Users\Hilario\source\repos\Visual-Ejercicio5\Visual-Ejercicio5\obj\Debug\net6.0-windows\Visual-Ejercicio5.csproj.AssemblyReference.cache
+C:\Users\Hilario\source\repos\Visual-Ejercicio5\Visual-Ejercicio5\obj\Debug\net6.0-windows\Visual_Ejercicio5.Form1.resources
+C:\Users\Hilario\source\repos\Visual-Ejercicio5\Visual-Ejercicio5\obj\Debug\net6.0-windows\Visual-Ejercicio5.csproj.GenerateResource.cache
+C:\Users\Hilario\source\repos\Visual-Ejercicio5\Visual-Ejercicio5\obj\Debug\net6.0-windows\Visual-Ejercicio5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hilario\source\repos\Visual-Ejercicio5\Visual-Ejercicio5\obj\Debug\net6.0-windows\Visual-Ejercicio5.AssemblyInfoInputs.cache
+C:\Users\Hilario\source\repos\Visual-Ejercicio5\Visual-Ejercicio5\obj\Debug\net6.0-windows\Visual-Ejercicio5.AssemblyInfo.cs
+C:\Users\Hilario\source\repos\Visual-Ejercicio5\Visual-Ejercicio5\obj\Debug\net6.0-windows\Visual-Ejercicio5.csproj.CoreCompileInputs.cache
+C:\Users\Hilario\source\repos\Visual-Ejercicio5\Visual-Ejercicio5\obj\Debug\net6.0-windows\Visual-Ejercicio5.dll
+C:\Users\Hilario\source\repos\Visual-Ejercicio5\Visual-Ejercicio5\obj\Debug\net6.0-windows\refint\Visual-Ejercicio5.dll
+C:\Users\Hilario\source\repos\Visual-Ejercicio5\Visual-Ejercicio5\obj\Debug\net6.0-windows\Visual-Ejercicio5.pdb
+C:\Users\Hilario\source\repos\Visual-Ejercicio5\Visual-Ejercicio5\obj\Debug\net6.0-windows\Visual-Ejercicio5.genruntimeconfig.cache
+C:\Users\Hilario\source\repos\Visual-Ejercicio5\Visual-Ejercicio5\obj\Debug\net6.0-windows\ref\Visual-Ejercicio5.dll

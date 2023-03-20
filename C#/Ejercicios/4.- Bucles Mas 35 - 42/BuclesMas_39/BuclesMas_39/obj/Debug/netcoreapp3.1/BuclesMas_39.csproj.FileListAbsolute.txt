@@ -1,0 +1,14 @@
+C:\Users\Hilario\source\repos\BuclesMas_39\BuclesMas_39\bin\Debug\netcoreapp3.1\BuclesMas_39.exe
+C:\Users\Hilario\source\repos\BuclesMas_39\BuclesMas_39\bin\Debug\netcoreapp3.1\BuclesMas_39.deps.json
+C:\Users\Hilario\source\repos\BuclesMas_39\BuclesMas_39\bin\Debug\netcoreapp3.1\BuclesMas_39.runtimeconfig.json
+C:\Users\Hilario\source\repos\BuclesMas_39\BuclesMas_39\bin\Debug\netcoreapp3.1\BuclesMas_39.runtimeconfig.dev.json
+C:\Users\Hilario\source\repos\BuclesMas_39\BuclesMas_39\bin\Debug\netcoreapp3.1\BuclesMas_39.dll
+C:\Users\Hilario\source\repos\BuclesMas_39\BuclesMas_39\bin\Debug\netcoreapp3.1\BuclesMas_39.pdb
+C:\Users\Hilario\source\repos\BuclesMas_39\BuclesMas_39\obj\Debug\netcoreapp3.1\BuclesMas_39.csproj.AssemblyReference.cache
+C:\Users\Hilario\source\repos\BuclesMas_39\BuclesMas_39\obj\Debug\netcoreapp3.1\BuclesMas_39.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hilario\source\repos\BuclesMas_39\BuclesMas_39\obj\Debug\netcoreapp3.1\BuclesMas_39.AssemblyInfoInputs.cache
+C:\Users\Hilario\source\repos\BuclesMas_39\BuclesMas_39\obj\Debug\netcoreapp3.1\BuclesMas_39.AssemblyInfo.cs
+C:\Users\Hilario\source\repos\BuclesMas_39\BuclesMas_39\obj\Debug\netcoreapp3.1\BuclesMas_39.csproj.CoreCompileInputs.cache
+C:\Users\Hilario\source\repos\BuclesMas_39\BuclesMas_39\obj\Debug\netcoreapp3.1\BuclesMas_39.dll
+C:\Users\Hilario\source\repos\BuclesMas_39\BuclesMas_39\obj\Debug\netcoreapp3.1\BuclesMas_39.pdb
+C:\Users\Hilario\source\repos\BuclesMas_39\BuclesMas_39\obj\Debug\netcoreapp3.1\BuclesMas_39.genruntimeconfig.cache

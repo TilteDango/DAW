@@ -1,0 +1,51 @@
+C:\Users\Hilario\source\repos\Visual - Ejercicio 17\Visual - Ejercicio 17\bin\Debug\net6.0-windows\Visual - Ejercicio 17.exe
+C:\Users\Hilario\source\repos\Visual - Ejercicio 17\Visual - Ejercicio 17\bin\Debug\net6.0-windows\Visual - Ejercicio 17.deps.json
+C:\Users\Hilario\source\repos\Visual - Ejercicio 17\Visual - Ejercicio 17\bin\Debug\net6.0-windows\Visual - Ejercicio 17.runtimeconfig.json
+C:\Users\Hilario\source\repos\Visual - Ejercicio 17\Visual - Ejercicio 17\bin\Debug\net6.0-windows\Visual - Ejercicio 17.dll
+C:\Users\Hilario\source\repos\Visual - Ejercicio 17\Visual - Ejercicio 17\bin\Debug\net6.0-windows\Visual - Ejercicio 17.pdb
+C:\Users\Hilario\source\repos\Visual - Ejercicio 17\Visual - Ejercicio 17\obj\Debug\net6.0-windows\Visual - Ejercicio 17.csproj.AssemblyReference.cache
+C:\Users\Hilario\source\repos\Visual - Ejercicio 17\Visual - Ejercicio 17\obj\Debug\net6.0-windows\Visual___Ejercicio_17.Form1.resources
+C:\Users\Hilario\source\repos\Visual - Ejercicio 17\Visual - Ejercicio 17\obj\Debug\net6.0-windows\Visual - Ejercicio 17.csproj.GenerateResource.cache
+C:\Users\Hilario\source\repos\Visual - Ejercicio 17\Visual - Ejercicio 17\obj\Debug\net6.0-windows\Visual - Ejercicio 17.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hilario\source\repos\Visual - Ejercicio 17\Visual - Ejercicio 17\obj\Debug\net6.0-windows\Visual - Ejercicio 17.AssemblyInfoInputs.cache
+C:\Users\Hilario\source\repos\Visual - Ejercicio 17\Visual - Ejercicio 17\obj\Debug\net6.0-windows\Visual - Ejercicio 17.AssemblyInfo.cs
+C:\Users\Hilario\source\repos\Visual - Ejercicio 17\Visual - Ejercicio 17\obj\Debug\net6.0-windows\Visual - Ejercicio 17.csproj.CoreCompileInputs.cache
+C:\Users\Hilario\source\repos\Visual - Ejercicio 17\Visual - Ejercicio 17\obj\Debug\net6.0-windows\Visual - Ejercicio 17.dll
+C:\Users\Hilario\source\repos\Visual - Ejercicio 17\Visual - Ejercicio 17\obj\Debug\net6.0-windows\refint\Visual - Ejercicio 17.dll
+C:\Users\Hilario\source\repos\Visual - Ejercicio 17\Visual - Ejercicio 17\obj\Debug\net6.0-windows\Visual - Ejercicio 17.pdb
+C:\Users\Hilario\source\repos\Visual - Ejercicio 17\Visual - Ejercicio 17\obj\Debug\net6.0-windows\Visual - Ejercicio 17.genruntimeconfig.cache
+C:\Users\Hilario\source\repos\Visual - Ejercicio 17\Visual - Ejercicio 17\obj\Debug\net6.0-windows\ref\Visual - Ejercicio 17.dll
+C:\Users\Hilario\Desktop\Visual - Ejercicio 17\Visual - Ejercicio 17\bin\Debug\net6.0-windows\Visual - Ejercicio 17.exe
+C:\Users\Hilario\Desktop\Visual - Ejercicio 17\Visual - Ejercicio 17\bin\Debug\net6.0-windows\Visual - Ejercicio 17.deps.json
+C:\Users\Hilario\Desktop\Visual - Ejercicio 17\Visual - Ejercicio 17\bin\Debug\net6.0-windows\Visual - Ejercicio 17.runtimeconfig.json
+C:\Users\Hilario\Desktop\Visual - Ejercicio 17\Visual - Ejercicio 17\bin\Debug\net6.0-windows\Visual - Ejercicio 17.dll
+C:\Users\Hilario\Desktop\Visual - Ejercicio 17\Visual - Ejercicio 17\bin\Debug\net6.0-windows\Visual - Ejercicio 17.pdb
+C:\Users\Hilario\Desktop\Visual - Ejercicio 17\Visual - Ejercicio 17\obj\Debug\net6.0-windows\Visual - Ejercicio 17.csproj.AssemblyReference.cache
+C:\Users\Hilario\Desktop\Visual - Ejercicio 17\Visual - Ejercicio 17\obj\Debug\net6.0-windows\Visual___Ejercicio_17.Form1.resources
+C:\Users\Hilario\Desktop\Visual - Ejercicio 17\Visual - Ejercicio 17\obj\Debug\net6.0-windows\Visual - Ejercicio 17.csproj.GenerateResource.cache
+C:\Users\Hilario\Desktop\Visual - Ejercicio 17\Visual - Ejercicio 17\obj\Debug\net6.0-windows\Visual - Ejercicio 17.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hilario\Desktop\Visual - Ejercicio 17\Visual - Ejercicio 17\obj\Debug\net6.0-windows\Visual - Ejercicio 17.AssemblyInfoInputs.cache
+C:\Users\Hilario\Desktop\Visual - Ejercicio 17\Visual - Ejercicio 17\obj\Debug\net6.0-windows\Visual - Ejercicio 17.AssemblyInfo.cs
+C:\Users\Hilario\Desktop\Visual - Ejercicio 17\Visual - Ejercicio 17\obj\Debug\net6.0-windows\Visual - Ejercicio 17.csproj.CoreCompileInputs.cache
+C:\Users\Hilario\Desktop\Visual - Ejercicio 17\Visual - Ejercicio 17\obj\Debug\net6.0-windows\Visual - Ejercicio 17.dll
+C:\Users\Hilario\Desktop\Visual - Ejercicio 17\Visual - Ejercicio 17\obj\Debug\net6.0-windows\refint\Visual - Ejercicio 17.dll
+C:\Users\Hilario\Desktop\Visual - Ejercicio 17\Visual - Ejercicio 17\obj\Debug\net6.0-windows\Visual - Ejercicio 17.pdb
+C:\Users\Hilario\Desktop\Visual - Ejercicio 17\Visual - Ejercicio 17\obj\Debug\net6.0-windows\Visual - Ejercicio 17.genruntimeconfig.cache
+C:\Users\Hilario\Desktop\Visual - Ejercicio 17\Visual - Ejercicio 17\obj\Debug\net6.0-windows\ref\Visual - Ejercicio 17.dll
+C:\Users\Hilario\Desktop\Casa\Programación\Ejercicios\15.- Visual\EjerciciosVisual2\Visual - Ejercicio 17\Visual - Ejercicio 17\bin\Debug\net6.0-windows\Visual - Ejercicio 17.exe
+C:\Users\Hilario\Desktop\Casa\Programación\Ejercicios\15.- Visual\EjerciciosVisual2\Visual - Ejercicio 17\Visual - Ejercicio 17\bin\Debug\net6.0-windows\Visual - Ejercicio 17.deps.json
+C:\Users\Hilario\Desktop\Casa\Programación\Ejercicios\15.- Visual\EjerciciosVisual2\Visual - Ejercicio 17\Visual - Ejercicio 17\bin\Debug\net6.0-windows\Visual - Ejercicio 17.runtimeconfig.json
+C:\Users\Hilario\Desktop\Casa\Programación\Ejercicios\15.- Visual\EjerciciosVisual2\Visual - Ejercicio 17\Visual - Ejercicio 17\bin\Debug\net6.0-windows\Visual - Ejercicio 17.dll
+C:\Users\Hilario\Desktop\Casa\Programación\Ejercicios\15.- Visual\EjerciciosVisual2\Visual - Ejercicio 17\Visual - Ejercicio 17\bin\Debug\net6.0-windows\Visual - Ejercicio 17.pdb
+C:\Users\Hilario\Desktop\Casa\Programación\Ejercicios\15.- Visual\EjerciciosVisual2\Visual - Ejercicio 17\Visual - Ejercicio 17\obj\Debug\net6.0-windows\Visual - Ejercicio 17.csproj.AssemblyReference.cache
+C:\Users\Hilario\Desktop\Casa\Programación\Ejercicios\15.- Visual\EjerciciosVisual2\Visual - Ejercicio 17\Visual - Ejercicio 17\obj\Debug\net6.0-windows\Visual___Ejercicio_17.Form1.resources
+C:\Users\Hilario\Desktop\Casa\Programación\Ejercicios\15.- Visual\EjerciciosVisual2\Visual - Ejercicio 17\Visual - Ejercicio 17\obj\Debug\net6.0-windows\Visual - Ejercicio 17.csproj.GenerateResource.cache
+C:\Users\Hilario\Desktop\Casa\Programación\Ejercicios\15.- Visual\EjerciciosVisual2\Visual - Ejercicio 17\Visual - Ejercicio 17\obj\Debug\net6.0-windows\Visual - Ejercicio 17.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hilario\Desktop\Casa\Programación\Ejercicios\15.- Visual\EjerciciosVisual2\Visual - Ejercicio 17\Visual - Ejercicio 17\obj\Debug\net6.0-windows\Visual - Ejercicio 17.AssemblyInfoInputs.cache
+C:\Users\Hilario\Desktop\Casa\Programación\Ejercicios\15.- Visual\EjerciciosVisual2\Visual - Ejercicio 17\Visual - Ejercicio 17\obj\Debug\net6.0-windows\Visual - Ejercicio 17.AssemblyInfo.cs
+C:\Users\Hilario\Desktop\Casa\Programación\Ejercicios\15.- Visual\EjerciciosVisual2\Visual - Ejercicio 17\Visual - Ejercicio 17\obj\Debug\net6.0-windows\Visual - Ejercicio 17.csproj.CoreCompileInputs.cache
+C:\Users\Hilario\Desktop\Casa\Programación\Ejercicios\15.- Visual\EjerciciosVisual2\Visual - Ejercicio 17\Visual - Ejercicio 17\obj\Debug\net6.0-windows\Visual - Ejercicio 17.dll
+C:\Users\Hilario\Desktop\Casa\Programación\Ejercicios\15.- Visual\EjerciciosVisual2\Visual - Ejercicio 17\Visual - Ejercicio 17\obj\Debug\net6.0-windows\refint\Visual - Ejercicio 17.dll
+C:\Users\Hilario\Desktop\Casa\Programación\Ejercicios\15.- Visual\EjerciciosVisual2\Visual - Ejercicio 17\Visual - Ejercicio 17\obj\Debug\net6.0-windows\Visual - Ejercicio 17.pdb
+C:\Users\Hilario\Desktop\Casa\Programación\Ejercicios\15.- Visual\EjerciciosVisual2\Visual - Ejercicio 17\Visual - Ejercicio 17\obj\Debug\net6.0-windows\Visual - Ejercicio 17.genruntimeconfig.cache
+C:\Users\Hilario\Desktop\Casa\Programación\Ejercicios\15.- Visual\EjerciciosVisual2\Visual - Ejercicio 17\Visual - Ejercicio 17\obj\Debug\net6.0-windows\ref\Visual - Ejercicio 17.dll

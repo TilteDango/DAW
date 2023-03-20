@@ -1,0 +1,14 @@
+C:\Users\Hilario\source\repos\Relacion1_Ejercicio6\Relacion1_Ejercicio6\bin\Debug\netcoreapp3.1\Relacion1_Ejercicio6.exe
+C:\Users\Hilario\source\repos\Relacion1_Ejercicio6\Relacion1_Ejercicio6\bin\Debug\netcoreapp3.1\Relacion1_Ejercicio6.deps.json
+C:\Users\Hilario\source\repos\Relacion1_Ejercicio6\Relacion1_Ejercicio6\bin\Debug\netcoreapp3.1\Relacion1_Ejercicio6.runtimeconfig.json
+C:\Users\Hilario\source\repos\Relacion1_Ejercicio6\Relacion1_Ejercicio6\bin\Debug\netcoreapp3.1\Relacion1_Ejercicio6.runtimeconfig.dev.json
+C:\Users\Hilario\source\repos\Relacion1_Ejercicio6\Relacion1_Ejercicio6\bin\Debug\netcoreapp3.1\Relacion1_Ejercicio6.dll
+C:\Users\Hilario\source\repos\Relacion1_Ejercicio6\Relacion1_Ejercicio6\bin\Debug\netcoreapp3.1\Relacion1_Ejercicio6.pdb
+C:\Users\Hilario\source\repos\Relacion1_Ejercicio6\Relacion1_Ejercicio6\obj\Debug\netcoreapp3.1\Relacion1_Ejercicio6.csproj.AssemblyReference.cache
+C:\Users\Hilario\source\repos\Relacion1_Ejercicio6\Relacion1_Ejercicio6\obj\Debug\netcoreapp3.1\Relacion1_Ejercicio6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hilario\source\repos\Relacion1_Ejercicio6\Relacion1_Ejercicio6\obj\Debug\netcoreapp3.1\Relacion1_Ejercicio6.AssemblyInfoInputs.cache
+C:\Users\Hilario\source\repos\Relacion1_Ejercicio6\Relacion1_Ejercicio6\obj\Debug\netcoreapp3.1\Relacion1_Ejercicio6.AssemblyInfo.cs
+C:\Users\Hilario\source\repos\Relacion1_Ejercicio6\Relacion1_Ejercicio6\obj\Debug\netcoreapp3.1\Relacion1_Ejercicio6.csproj.CoreCompileInputs.cache
+C:\Users\Hilario\source\repos\Relacion1_Ejercicio6\Relacion1_Ejercicio6\obj\Debug\netcoreapp3.1\Relacion1_Ejercicio6.dll
+C:\Users\Hilario\source\repos\Relacion1_Ejercicio6\Relacion1_Ejercicio6\obj\Debug\netcoreapp3.1\Relacion1_Ejercicio6.pdb
+C:\Users\Hilario\source\repos\Relacion1_Ejercicio6\Relacion1_Ejercicio6\obj\Debug\netcoreapp3.1\Relacion1_Ejercicio6.genruntimeconfig.cache

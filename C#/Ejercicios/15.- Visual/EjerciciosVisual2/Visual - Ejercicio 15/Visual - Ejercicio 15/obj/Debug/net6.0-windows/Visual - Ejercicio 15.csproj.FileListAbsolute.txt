@@ -1,0 +1,17 @@
+C:\Users\Hilario\source\repos\Visual - Ejercicio 15\Visual - Ejercicio 15\bin\Debug\net6.0-windows\Visual - Ejercicio 15.exe
+C:\Users\Hilario\source\repos\Visual - Ejercicio 15\Visual - Ejercicio 15\bin\Debug\net6.0-windows\Visual - Ejercicio 15.deps.json
+C:\Users\Hilario\source\repos\Visual - Ejercicio 15\Visual - Ejercicio 15\bin\Debug\net6.0-windows\Visual - Ejercicio 15.runtimeconfig.json
+C:\Users\Hilario\source\repos\Visual - Ejercicio 15\Visual - Ejercicio 15\bin\Debug\net6.0-windows\Visual - Ejercicio 15.dll
+C:\Users\Hilario\source\repos\Visual - Ejercicio 15\Visual - Ejercicio 15\bin\Debug\net6.0-windows\Visual - Ejercicio 15.pdb
+C:\Users\Hilario\source\repos\Visual - Ejercicio 15\Visual - Ejercicio 15\obj\Debug\net6.0-windows\Visual - Ejercicio 15.csproj.AssemblyReference.cache
+C:\Users\Hilario\source\repos\Visual - Ejercicio 15\Visual - Ejercicio 15\obj\Debug\net6.0-windows\Visual___Ejercicio_15.Form1.resources
+C:\Users\Hilario\source\repos\Visual - Ejercicio 15\Visual - Ejercicio 15\obj\Debug\net6.0-windows\Visual - Ejercicio 15.csproj.GenerateResource.cache
+C:\Users\Hilario\source\repos\Visual - Ejercicio 15\Visual - Ejercicio 15\obj\Debug\net6.0-windows\Visual - Ejercicio 15.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hilario\source\repos\Visual - Ejercicio 15\Visual - Ejercicio 15\obj\Debug\net6.0-windows\Visual - Ejercicio 15.AssemblyInfoInputs.cache
+C:\Users\Hilario\source\repos\Visual - Ejercicio 15\Visual - Ejercicio 15\obj\Debug\net6.0-windows\Visual - Ejercicio 15.AssemblyInfo.cs
+C:\Users\Hilario\source\repos\Visual - Ejercicio 15\Visual - Ejercicio 15\obj\Debug\net6.0-windows\Visual - Ejercicio 15.csproj.CoreCompileInputs.cache
+C:\Users\Hilario\source\repos\Visual - Ejercicio 15\Visual - Ejercicio 15\obj\Debug\net6.0-windows\Visual - Ejercicio 15.dll
+C:\Users\Hilario\source\repos\Visual - Ejercicio 15\Visual - Ejercicio 15\obj\Debug\net6.0-windows\refint\Visual - Ejercicio 15.dll
+C:\Users\Hilario\source\repos\Visual - Ejercicio 15\Visual - Ejercicio 15\obj\Debug\net6.0-windows\Visual - Ejercicio 15.pdb
+C:\Users\Hilario\source\repos\Visual - Ejercicio 15\Visual - Ejercicio 15\obj\Debug\net6.0-windows\Visual - Ejercicio 15.genruntimeconfig.cache
+C:\Users\Hilario\source\repos\Visual - Ejercicio 15\Visual - Ejercicio 15\obj\Debug\net6.0-windows\ref\Visual - Ejercicio 15.dll

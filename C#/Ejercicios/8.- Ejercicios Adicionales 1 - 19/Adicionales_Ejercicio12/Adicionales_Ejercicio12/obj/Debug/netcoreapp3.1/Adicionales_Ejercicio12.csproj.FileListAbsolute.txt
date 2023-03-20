@@ -1,0 +1,14 @@
+C:\Users\hilar\source\repos\Adicionales_Ejercicio12\Adicionales_Ejercicio12\bin\Debug\netcoreapp3.1\Adicionales_Ejercicio12.exe
+C:\Users\hilar\source\repos\Adicionales_Ejercicio12\Adicionales_Ejercicio12\bin\Debug\netcoreapp3.1\Adicionales_Ejercicio12.deps.json
+C:\Users\hilar\source\repos\Adicionales_Ejercicio12\Adicionales_Ejercicio12\bin\Debug\netcoreapp3.1\Adicionales_Ejercicio12.runtimeconfig.json
+C:\Users\hilar\source\repos\Adicionales_Ejercicio12\Adicionales_Ejercicio12\bin\Debug\netcoreapp3.1\Adicionales_Ejercicio12.runtimeconfig.dev.json
+C:\Users\hilar\source\repos\Adicionales_Ejercicio12\Adicionales_Ejercicio12\bin\Debug\netcoreapp3.1\Adicionales_Ejercicio12.dll
+C:\Users\hilar\source\repos\Adicionales_Ejercicio12\Adicionales_Ejercicio12\bin\Debug\netcoreapp3.1\Adicionales_Ejercicio12.pdb
+C:\Users\hilar\source\repos\Adicionales_Ejercicio12\Adicionales_Ejercicio12\obj\Debug\netcoreapp3.1\Adicionales_Ejercicio12.csproj.AssemblyReference.cache
+C:\Users\hilar\source\repos\Adicionales_Ejercicio12\Adicionales_Ejercicio12\obj\Debug\netcoreapp3.1\Adicionales_Ejercicio12.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hilar\source\repos\Adicionales_Ejercicio12\Adicionales_Ejercicio12\obj\Debug\netcoreapp3.1\Adicionales_Ejercicio12.AssemblyInfoInputs.cache
+C:\Users\hilar\source\repos\Adicionales_Ejercicio12\Adicionales_Ejercicio12\obj\Debug\netcoreapp3.1\Adicionales_Ejercicio12.AssemblyInfo.cs
+C:\Users\hilar\source\repos\Adicionales_Ejercicio12\Adicionales_Ejercicio12\obj\Debug\netcoreapp3.1\Adicionales_Ejercicio12.csproj.CoreCompileInputs.cache
+C:\Users\hilar\source\repos\Adicionales_Ejercicio12\Adicionales_Ejercicio12\obj\Debug\netcoreapp3.1\Adicionales_Ejercicio12.dll
+C:\Users\hilar\source\repos\Adicionales_Ejercicio12\Adicionales_Ejercicio12\obj\Debug\netcoreapp3.1\Adicionales_Ejercicio12.pdb
+C:\Users\hilar\source\repos\Adicionales_Ejercicio12\Adicionales_Ejercicio12\obj\Debug\netcoreapp3.1\Adicionales_Ejercicio12.genruntimeconfig.cache

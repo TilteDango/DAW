@@ -1,0 +1,17 @@
+C:\Users\Hilario\source\repos\Visual_Ejericicio3\Visual_Ejericicio3\bin\Debug\net6.0-windows\Visual_Ejericicio3.exe
+C:\Users\Hilario\source\repos\Visual_Ejericicio3\Visual_Ejericicio3\bin\Debug\net6.0-windows\Visual_Ejericicio3.deps.json
+C:\Users\Hilario\source\repos\Visual_Ejericicio3\Visual_Ejericicio3\bin\Debug\net6.0-windows\Visual_Ejericicio3.runtimeconfig.json
+C:\Users\Hilario\source\repos\Visual_Ejericicio3\Visual_Ejericicio3\bin\Debug\net6.0-windows\Visual_Ejericicio3.dll
+C:\Users\Hilario\source\repos\Visual_Ejericicio3\Visual_Ejericicio3\bin\Debug\net6.0-windows\Visual_Ejericicio3.pdb
+C:\Users\Hilario\source\repos\Visual_Ejericicio3\Visual_Ejericicio3\obj\Debug\net6.0-windows\Visual_Ejericicio3.csproj.AssemblyReference.cache
+C:\Users\Hilario\source\repos\Visual_Ejericicio3\Visual_Ejericicio3\obj\Debug\net6.0-windows\Visual_Ejericicio3.Form1.resources
+C:\Users\Hilario\source\repos\Visual_Ejericicio3\Visual_Ejericicio3\obj\Debug\net6.0-windows\Visual_Ejericicio3.csproj.GenerateResource.cache
+C:\Users\Hilario\source\repos\Visual_Ejericicio3\Visual_Ejericicio3\obj\Debug\net6.0-windows\Visual_Ejericicio3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hilario\source\repos\Visual_Ejericicio3\Visual_Ejericicio3\obj\Debug\net6.0-windows\Visual_Ejericicio3.AssemblyInfoInputs.cache
+C:\Users\Hilario\source\repos\Visual_Ejericicio3\Visual_Ejericicio3\obj\Debug\net6.0-windows\Visual_Ejericicio3.AssemblyInfo.cs
+C:\Users\Hilario\source\repos\Visual_Ejericicio3\Visual_Ejericicio3\obj\Debug\net6.0-windows\Visual_Ejericicio3.csproj.CoreCompileInputs.cache
+C:\Users\Hilario\source\repos\Visual_Ejericicio3\Visual_Ejericicio3\obj\Debug\net6.0-windows\Visual_Ejericicio3.dll
+C:\Users\Hilario\source\repos\Visual_Ejericicio3\Visual_Ejericicio3\obj\Debug\net6.0-windows\refint\Visual_Ejericicio3.dll
+C:\Users\Hilario\source\repos\Visual_Ejericicio3\Visual_Ejericicio3\obj\Debug\net6.0-windows\Visual_Ejericicio3.pdb
+C:\Users\Hilario\source\repos\Visual_Ejericicio3\Visual_Ejericicio3\obj\Debug\net6.0-windows\Visual_Ejericicio3.genruntimeconfig.cache
+C:\Users\Hilario\source\repos\Visual_Ejericicio3\Visual_Ejericicio3\obj\Debug\net6.0-windows\ref\Visual_Ejericicio3.dll

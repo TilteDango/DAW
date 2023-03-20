@@ -1,0 +1,14 @@
+C:\Users\Hilario\source\repos\Adicionales_Ejercicio3\Adicionales_Ejercicio3\bin\Debug\netcoreapp3.1\Adicionales_Ejercicio3.exe
+C:\Users\Hilario\source\repos\Adicionales_Ejercicio3\Adicionales_Ejercicio3\bin\Debug\netcoreapp3.1\Adicionales_Ejercicio3.deps.json
+C:\Users\Hilario\source\repos\Adicionales_Ejercicio3\Adicionales_Ejercicio3\bin\Debug\netcoreapp3.1\Adicionales_Ejercicio3.runtimeconfig.json
+C:\Users\Hilario\source\repos\Adicionales_Ejercicio3\Adicionales_Ejercicio3\bin\Debug\netcoreapp3.1\Adicionales_Ejercicio3.runtimeconfig.dev.json
+C:\Users\Hilario\source\repos\Adicionales_Ejercicio3\Adicionales_Ejercicio3\bin\Debug\netcoreapp3.1\Adicionales_Ejercicio3.dll
+C:\Users\Hilario\source\repos\Adicionales_Ejercicio3\Adicionales_Ejercicio3\bin\Debug\netcoreapp3.1\Adicionales_Ejercicio3.pdb
+C:\Users\Hilario\source\repos\Adicionales_Ejercicio3\Adicionales_Ejercicio3\obj\Debug\netcoreapp3.1\Adicionales_Ejercicio3.csproj.AssemblyReference.cache
+C:\Users\Hilario\source\repos\Adicionales_Ejercicio3\Adicionales_Ejercicio3\obj\Debug\netcoreapp3.1\Adicionales_Ejercicio3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hilario\source\repos\Adicionales_Ejercicio3\Adicionales_Ejercicio3\obj\Debug\netcoreapp3.1\Adicionales_Ejercicio3.AssemblyInfoInputs.cache
+C:\Users\Hilario\source\repos\Adicionales_Ejercicio3\Adicionales_Ejercicio3\obj\Debug\netcoreapp3.1\Adicionales_Ejercicio3.AssemblyInfo.cs
+C:\Users\Hilario\source\repos\Adicionales_Ejercicio3\Adicionales_Ejercicio3\obj\Debug\netcoreapp3.1\Adicionales_Ejercicio3.csproj.CoreCompileInputs.cache
+C:\Users\Hilario\source\repos\Adicionales_Ejercicio3\Adicionales_Ejercicio3\obj\Debug\netcoreapp3.1\Adicionales_Ejercicio3.dll
+C:\Users\Hilario\source\repos\Adicionales_Ejercicio3\Adicionales_Ejercicio3\obj\Debug\netcoreapp3.1\Adicionales_Ejercicio3.pdb
+C:\Users\Hilario\source\repos\Adicionales_Ejercicio3\Adicionales_Ejercicio3\obj\Debug\netcoreapp3.1\Adicionales_Ejercicio3.genruntimeconfig.cache

@@ -1,0 +1,18 @@
+C:\Users\Hilario\source\repos\Visual - Ejercicio7\Visual - Ejercicio7\bin\Debug\net6.0-windows\Visual - Ejercicio7.exe
+C:\Users\Hilario\source\repos\Visual - Ejercicio7\Visual - Ejercicio7\bin\Debug\net6.0-windows\Visual - Ejercicio7.deps.json
+C:\Users\Hilario\source\repos\Visual - Ejercicio7\Visual - Ejercicio7\bin\Debug\net6.0-windows\Visual - Ejercicio7.runtimeconfig.json
+C:\Users\Hilario\source\repos\Visual - Ejercicio7\Visual - Ejercicio7\bin\Debug\net6.0-windows\Visual - Ejercicio7.dll
+C:\Users\Hilario\source\repos\Visual - Ejercicio7\Visual - Ejercicio7\bin\Debug\net6.0-windows\Visual - Ejercicio7.pdb
+C:\Users\Hilario\source\repos\Visual - Ejercicio7\Visual - Ejercicio7\obj\Debug\net6.0-windows\Visual - Ejercicio7.csproj.AssemblyReference.cache
+C:\Users\Hilario\source\repos\Visual - Ejercicio7\Visual - Ejercicio7\obj\Debug\net6.0-windows\Visual___Ejercicio7.Form1.resources
+C:\Users\Hilario\source\repos\Visual - Ejercicio7\Visual - Ejercicio7\obj\Debug\net6.0-windows\Visual - Ejercicio7.csproj.GenerateResource.cache
+C:\Users\Hilario\source\repos\Visual - Ejercicio7\Visual - Ejercicio7\obj\Debug\net6.0-windows\Visual - Ejercicio7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hilario\source\repos\Visual - Ejercicio7\Visual - Ejercicio7\obj\Debug\net6.0-windows\Visual - Ejercicio7.AssemblyInfoInputs.cache
+C:\Users\Hilario\source\repos\Visual - Ejercicio7\Visual - Ejercicio7\obj\Debug\net6.0-windows\Visual - Ejercicio7.AssemblyInfo.cs
+C:\Users\Hilario\source\repos\Visual - Ejercicio7\Visual - Ejercicio7\obj\Debug\net6.0-windows\Visual - Ejercicio7.csproj.CoreCompileInputs.cache
+C:\Users\Hilario\source\repos\Visual - Ejercicio7\Visual - Ejercicio7\obj\Debug\net6.0-windows\Visual - Ejercicio7.dll
+C:\Users\Hilario\source\repos\Visual - Ejercicio7\Visual - Ejercicio7\obj\Debug\net6.0-windows\refint\Visual - Ejercicio7.dll
+C:\Users\Hilario\source\repos\Visual - Ejercicio7\Visual - Ejercicio7\obj\Debug\net6.0-windows\Visual - Ejercicio7.pdb
+C:\Users\Hilario\source\repos\Visual - Ejercicio7\Visual - Ejercicio7\obj\Debug\net6.0-windows\Visual - Ejercicio7.genruntimeconfig.cache
+C:\Users\Hilario\source\repos\Visual - Ejercicio7\Visual - Ejercicio7\obj\Debug\net6.0-windows\ref\Visual - Ejercicio7.dll
+C:\Users\Hilario\source\repos\Visual - Ejercicio7\Visual - Ejercicio7\obj\Debug\net6.0-windows\Visual___Ejercicio7.Properties.Resources.resources

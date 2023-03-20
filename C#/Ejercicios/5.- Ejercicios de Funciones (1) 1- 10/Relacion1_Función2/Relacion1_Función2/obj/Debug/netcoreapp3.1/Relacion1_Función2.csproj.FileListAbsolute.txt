@@ -1,0 +1,14 @@
+C:\Users\Hilario\source\repos\Relacion1_Función2\Relacion1_Función2\bin\Debug\netcoreapp3.1\Relacion1_Función2.exe
+C:\Users\Hilario\source\repos\Relacion1_Función2\Relacion1_Función2\bin\Debug\netcoreapp3.1\Relacion1_Función2.deps.json
+C:\Users\Hilario\source\repos\Relacion1_Función2\Relacion1_Función2\bin\Debug\netcoreapp3.1\Relacion1_Función2.runtimeconfig.json
+C:\Users\Hilario\source\repos\Relacion1_Función2\Relacion1_Función2\bin\Debug\netcoreapp3.1\Relacion1_Función2.runtimeconfig.dev.json
+C:\Users\Hilario\source\repos\Relacion1_Función2\Relacion1_Función2\bin\Debug\netcoreapp3.1\Relacion1_Función2.dll
+C:\Users\Hilario\source\repos\Relacion1_Función2\Relacion1_Función2\bin\Debug\netcoreapp3.1\Relacion1_Función2.pdb
+C:\Users\Hilario\source\repos\Relacion1_Función2\Relacion1_Función2\obj\Debug\netcoreapp3.1\Relacion1_Función2.csproj.AssemblyReference.cache
+C:\Users\Hilario\source\repos\Relacion1_Función2\Relacion1_Función2\obj\Debug\netcoreapp3.1\Relacion1_Función2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hilario\source\repos\Relacion1_Función2\Relacion1_Función2\obj\Debug\netcoreapp3.1\Relacion1_Función2.AssemblyInfoInputs.cache
+C:\Users\Hilario\source\repos\Relacion1_Función2\Relacion1_Función2\obj\Debug\netcoreapp3.1\Relacion1_Función2.AssemblyInfo.cs
+C:\Users\Hilario\source\repos\Relacion1_Función2\Relacion1_Función2\obj\Debug\netcoreapp3.1\Relacion1_Función2.csproj.CoreCompileInputs.cache
+C:\Users\Hilario\source\repos\Relacion1_Función2\Relacion1_Función2\obj\Debug\netcoreapp3.1\Relacion1_Función2.dll
+C:\Users\Hilario\source\repos\Relacion1_Función2\Relacion1_Función2\obj\Debug\netcoreapp3.1\Relacion1_Función2.pdb
+C:\Users\Hilario\source\repos\Relacion1_Función2\Relacion1_Función2\obj\Debug\netcoreapp3.1\Relacion1_Función2.genruntimeconfig.cache

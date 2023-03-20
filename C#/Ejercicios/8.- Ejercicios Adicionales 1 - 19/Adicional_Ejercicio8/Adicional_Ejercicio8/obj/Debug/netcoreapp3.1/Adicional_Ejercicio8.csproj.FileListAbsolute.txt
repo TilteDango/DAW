@@ -1,0 +1,14 @@
+C:\Users\hilar\source\repos\Adicional_Ejercicio8\Adicional_Ejercicio8\bin\Debug\netcoreapp3.1\Adicional_Ejercicio8.exe
+C:\Users\hilar\source\repos\Adicional_Ejercicio8\Adicional_Ejercicio8\bin\Debug\netcoreapp3.1\Adicional_Ejercicio8.deps.json
+C:\Users\hilar\source\repos\Adicional_Ejercicio8\Adicional_Ejercicio8\bin\Debug\netcoreapp3.1\Adicional_Ejercicio8.runtimeconfig.json
+C:\Users\hilar\source\repos\Adicional_Ejercicio8\Adicional_Ejercicio8\bin\Debug\netcoreapp3.1\Adicional_Ejercicio8.runtimeconfig.dev.json
+C:\Users\hilar\source\repos\Adicional_Ejercicio8\Adicional_Ejercicio8\bin\Debug\netcoreapp3.1\Adicional_Ejercicio8.dll
+C:\Users\hilar\source\repos\Adicional_Ejercicio8\Adicional_Ejercicio8\bin\Debug\netcoreapp3.1\Adicional_Ejercicio8.pdb
+C:\Users\hilar\source\repos\Adicional_Ejercicio8\Adicional_Ejercicio8\obj\Debug\netcoreapp3.1\Adicional_Ejercicio8.csproj.AssemblyReference.cache
+C:\Users\hilar\source\repos\Adicional_Ejercicio8\Adicional_Ejercicio8\obj\Debug\netcoreapp3.1\Adicional_Ejercicio8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hilar\source\repos\Adicional_Ejercicio8\Adicional_Ejercicio8\obj\Debug\netcoreapp3.1\Adicional_Ejercicio8.AssemblyInfoInputs.cache
+C:\Users\hilar\source\repos\Adicional_Ejercicio8\Adicional_Ejercicio8\obj\Debug\netcoreapp3.1\Adicional_Ejercicio8.AssemblyInfo.cs
+C:\Users\hilar\source\repos\Adicional_Ejercicio8\Adicional_Ejercicio8\obj\Debug\netcoreapp3.1\Adicional_Ejercicio8.csproj.CoreCompileInputs.cache
+C:\Users\hilar\source\repos\Adicional_Ejercicio8\Adicional_Ejercicio8\obj\Debug\netcoreapp3.1\Adicional_Ejercicio8.dll
+C:\Users\hilar\source\repos\Adicional_Ejercicio8\Adicional_Ejercicio8\obj\Debug\netcoreapp3.1\Adicional_Ejercicio8.pdb
+C:\Users\hilar\source\repos\Adicional_Ejercicio8\Adicional_Ejercicio8\obj\Debug\netcoreapp3.1\Adicional_Ejercicio8.genruntimeconfig.cache
