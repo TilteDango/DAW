@@ -1,0 +1,14 @@
+C:\Users\hilar\source\repos\Ejercicios_Directorios\Ejercicios_Directorios\bin\Debug\netcoreapp3.1\Ejercicios_Directorios.exe
+C:\Users\hilar\source\repos\Ejercicios_Directorios\Ejercicios_Directorios\bin\Debug\netcoreapp3.1\Ejercicios_Directorios.deps.json
+C:\Users\hilar\source\repos\Ejercicios_Directorios\Ejercicios_Directorios\bin\Debug\netcoreapp3.1\Ejercicios_Directorios.runtimeconfig.json
+C:\Users\hilar\source\repos\Ejercicios_Directorios\Ejercicios_Directorios\bin\Debug\netcoreapp3.1\Ejercicios_Directorios.runtimeconfig.dev.json
+C:\Users\hilar\source\repos\Ejercicios_Directorios\Ejercicios_Directorios\bin\Debug\netcoreapp3.1\Ejercicios_Directorios.dll
+C:\Users\hilar\source\repos\Ejercicios_Directorios\Ejercicios_Directorios\bin\Debug\netcoreapp3.1\Ejercicios_Directorios.pdb
+C:\Users\hilar\source\repos\Ejercicios_Directorios\Ejercicios_Directorios\obj\Debug\netcoreapp3.1\Ejercicios_Directorios.csproj.AssemblyReference.cache
+C:\Users\hilar\source\repos\Ejercicios_Directorios\Ejercicios_Directorios\obj\Debug\netcoreapp3.1\Ejercicios_Directorios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hilar\source\repos\Ejercicios_Directorios\Ejercicios_Directorios\obj\Debug\netcoreapp3.1\Ejercicios_Directorios.AssemblyInfoInputs.cache
+C:\Users\hilar\source\repos\Ejercicios_Directorios\Ejercicios_Directorios\obj\Debug\netcoreapp3.1\Ejercicios_Directorios.AssemblyInfo.cs
+C:\Users\hilar\source\repos\Ejercicios_Directorios\Ejercicios_Directorios\obj\Debug\netcoreapp3.1\Ejercicios_Directorios.csproj.CoreCompileInputs.cache
+C:\Users\hilar\source\repos\Ejercicios_Directorios\Ejercicios_Directorios\obj\Debug\netcoreapp3.1\Ejercicios_Directorios.dll
+C:\Users\hilar\source\repos\Ejercicios_Directorios\Ejercicios_Directorios\obj\Debug\netcoreapp3.1\Ejercicios_Directorios.pdb
+C:\Users\hilar\source\repos\Ejercicios_Directorios\Ejercicios_Directorios\obj\Debug\netcoreapp3.1\Ejercicios_Directorios.genruntimeconfig.cache

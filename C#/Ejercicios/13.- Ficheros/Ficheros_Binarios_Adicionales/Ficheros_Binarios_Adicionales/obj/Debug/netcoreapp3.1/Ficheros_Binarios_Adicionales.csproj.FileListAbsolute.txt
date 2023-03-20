@@ -1,0 +1,14 @@
+C:\Users\hilar\source\repos\Ficheros_Binarios_Adicionales\Ficheros_Binarios_Adicionales\bin\Debug\netcoreapp3.1\Ficheros_Binarios_Adicionales.exe
+C:\Users\hilar\source\repos\Ficheros_Binarios_Adicionales\Ficheros_Binarios_Adicionales\bin\Debug\netcoreapp3.1\Ficheros_Binarios_Adicionales.deps.json
+C:\Users\hilar\source\repos\Ficheros_Binarios_Adicionales\Ficheros_Binarios_Adicionales\bin\Debug\netcoreapp3.1\Ficheros_Binarios_Adicionales.runtimeconfig.json
+C:\Users\hilar\source\repos\Ficheros_Binarios_Adicionales\Ficheros_Binarios_Adicionales\bin\Debug\netcoreapp3.1\Ficheros_Binarios_Adicionales.runtimeconfig.dev.json
+C:\Users\hilar\source\repos\Ficheros_Binarios_Adicionales\Ficheros_Binarios_Adicionales\bin\Debug\netcoreapp3.1\Ficheros_Binarios_Adicionales.dll
+C:\Users\hilar\source\repos\Ficheros_Binarios_Adicionales\Ficheros_Binarios_Adicionales\bin\Debug\netcoreapp3.1\Ficheros_Binarios_Adicionales.pdb
+C:\Users\hilar\source\repos\Ficheros_Binarios_Adicionales\Ficheros_Binarios_Adicionales\obj\Debug\netcoreapp3.1\Ficheros_Binarios_Adicionales.csproj.AssemblyReference.cache
+C:\Users\hilar\source\repos\Ficheros_Binarios_Adicionales\Ficheros_Binarios_Adicionales\obj\Debug\netcoreapp3.1\Ficheros_Binarios_Adicionales.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hilar\source\repos\Ficheros_Binarios_Adicionales\Ficheros_Binarios_Adicionales\obj\Debug\netcoreapp3.1\Ficheros_Binarios_Adicionales.AssemblyInfoInputs.cache
+C:\Users\hilar\source\repos\Ficheros_Binarios_Adicionales\Ficheros_Binarios_Adicionales\obj\Debug\netcoreapp3.1\Ficheros_Binarios_Adicionales.AssemblyInfo.cs
+C:\Users\hilar\source\repos\Ficheros_Binarios_Adicionales\Ficheros_Binarios_Adicionales\obj\Debug\netcoreapp3.1\Ficheros_Binarios_Adicionales.csproj.CoreCompileInputs.cache
+C:\Users\hilar\source\repos\Ficheros_Binarios_Adicionales\Ficheros_Binarios_Adicionales\obj\Debug\netcoreapp3.1\Ficheros_Binarios_Adicionales.dll
+C:\Users\hilar\source\repos\Ficheros_Binarios_Adicionales\Ficheros_Binarios_Adicionales\obj\Debug\netcoreapp3.1\Ficheros_Binarios_Adicionales.pdb
+C:\Users\hilar\source\repos\Ficheros_Binarios_Adicionales\Ficheros_Binarios_Adicionales\obj\Debug\netcoreapp3.1\Ficheros_Binarios_Adicionales.genruntimeconfig.cache

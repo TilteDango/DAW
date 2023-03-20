@@ -1,0 +1,14 @@
+C:\Users\Hilario\source\repos\EjerciciosFicherosBinarios\EjerciciosFicherosBinarios\bin\Debug\netcoreapp3.1\EjerciciosFicherosBinarios.exe
+C:\Users\Hilario\source\repos\EjerciciosFicherosBinarios\EjerciciosFicherosBinarios\bin\Debug\netcoreapp3.1\EjerciciosFicherosBinarios.deps.json
+C:\Users\Hilario\source\repos\EjerciciosFicherosBinarios\EjerciciosFicherosBinarios\bin\Debug\netcoreapp3.1\EjerciciosFicherosBinarios.runtimeconfig.json
+C:\Users\Hilario\source\repos\EjerciciosFicherosBinarios\EjerciciosFicherosBinarios\bin\Debug\netcoreapp3.1\EjerciciosFicherosBinarios.runtimeconfig.dev.json
+C:\Users\Hilario\source\repos\EjerciciosFicherosBinarios\EjerciciosFicherosBinarios\bin\Debug\netcoreapp3.1\EjerciciosFicherosBinarios.dll
+C:\Users\Hilario\source\repos\EjerciciosFicherosBinarios\EjerciciosFicherosBinarios\bin\Debug\netcoreapp3.1\EjerciciosFicherosBinarios.pdb
+C:\Users\Hilario\source\repos\EjerciciosFicherosBinarios\EjerciciosFicherosBinarios\obj\Debug\netcoreapp3.1\EjerciciosFicherosBinarios.csproj.AssemblyReference.cache
+C:\Users\Hilario\source\repos\EjerciciosFicherosBinarios\EjerciciosFicherosBinarios\obj\Debug\netcoreapp3.1\EjerciciosFicherosBinarios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hilario\source\repos\EjerciciosFicherosBinarios\EjerciciosFicherosBinarios\obj\Debug\netcoreapp3.1\EjerciciosFicherosBinarios.AssemblyInfoInputs.cache
+C:\Users\Hilario\source\repos\EjerciciosFicherosBinarios\EjerciciosFicherosBinarios\obj\Debug\netcoreapp3.1\EjerciciosFicherosBinarios.AssemblyInfo.cs
+C:\Users\Hilario\source\repos\EjerciciosFicherosBinarios\EjerciciosFicherosBinarios\obj\Debug\netcoreapp3.1\EjerciciosFicherosBinarios.csproj.CoreCompileInputs.cache
+C:\Users\Hilario\source\repos\EjerciciosFicherosBinarios\EjerciciosFicherosBinarios\obj\Debug\netcoreapp3.1\EjerciciosFicherosBinarios.dll
+C:\Users\Hilario\source\repos\EjerciciosFicherosBinarios\EjerciciosFicherosBinarios\obj\Debug\netcoreapp3.1\EjerciciosFicherosBinarios.pdb
+C:\Users\Hilario\source\repos\EjerciciosFicherosBinarios\EjerciciosFicherosBinarios\obj\Debug\netcoreapp3.1\EjerciciosFicherosBinarios.genruntimeconfig.cache
