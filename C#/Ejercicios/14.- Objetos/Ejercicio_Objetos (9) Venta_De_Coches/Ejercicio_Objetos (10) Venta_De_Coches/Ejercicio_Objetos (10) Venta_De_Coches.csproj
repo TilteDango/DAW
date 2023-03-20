@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>Ejercicio_Objetos__10__Venta_De_Coches</RootNamespace>
+  </PropertyGroup>
+
+</Project>

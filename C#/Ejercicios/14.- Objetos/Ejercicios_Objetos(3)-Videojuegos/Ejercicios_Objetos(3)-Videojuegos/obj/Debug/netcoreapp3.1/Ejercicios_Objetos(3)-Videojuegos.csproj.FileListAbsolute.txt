@@ -1,0 +1,14 @@
+C:\Users\Hilario\source\repos\Ejercicios_Objetos(3)-Videojuegos\Ejercicios_Objetos(3)-Videojuegos\bin\Debug\netcoreapp3.1\Ejercicios_Objetos(3)-Videojuegos.exe
+C:\Users\Hilario\source\repos\Ejercicios_Objetos(3)-Videojuegos\Ejercicios_Objetos(3)-Videojuegos\bin\Debug\netcoreapp3.1\Ejercicios_Objetos(3)-Videojuegos.deps.json
+C:\Users\Hilario\source\repos\Ejercicios_Objetos(3)-Videojuegos\Ejercicios_Objetos(3)-Videojuegos\bin\Debug\netcoreapp3.1\Ejercicios_Objetos(3)-Videojuegos.runtimeconfig.json
+C:\Users\Hilario\source\repos\Ejercicios_Objetos(3)-Videojuegos\Ejercicios_Objetos(3)-Videojuegos\bin\Debug\netcoreapp3.1\Ejercicios_Objetos(3)-Videojuegos.runtimeconfig.dev.json
+C:\Users\Hilario\source\repos\Ejercicios_Objetos(3)-Videojuegos\Ejercicios_Objetos(3)-Videojuegos\bin\Debug\netcoreapp3.1\Ejercicios_Objetos(3)-Videojuegos.dll
+C:\Users\Hilario\source\repos\Ejercicios_Objetos(3)-Videojuegos\Ejercicios_Objetos(3)-Videojuegos\bin\Debug\netcoreapp3.1\Ejercicios_Objetos(3)-Videojuegos.pdb
+C:\Users\Hilario\source\repos\Ejercicios_Objetos(3)-Videojuegos\Ejercicios_Objetos(3)-Videojuegos\obj\Debug\netcoreapp3.1\Ejercicios_Objetos(3)-Videojuegos.csproj.AssemblyReference.cache
+C:\Users\Hilario\source\repos\Ejercicios_Objetos(3)-Videojuegos\Ejercicios_Objetos(3)-Videojuegos\obj\Debug\netcoreapp3.1\Ejercicios_Objetos(3)-Videojuegos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hilario\source\repos\Ejercicios_Objetos(3)-Videojuegos\Ejercicios_Objetos(3)-Videojuegos\obj\Debug\netcoreapp3.1\Ejercicios_Objetos(3)-Videojuegos.AssemblyInfoInputs.cache
+C:\Users\Hilario\source\repos\Ejercicios_Objetos(3)-Videojuegos\Ejercicios_Objetos(3)-Videojuegos\obj\Debug\netcoreapp3.1\Ejercicios_Objetos(3)-Videojuegos.AssemblyInfo.cs
+C:\Users\Hilario\source\repos\Ejercicios_Objetos(3)-Videojuegos\Ejercicios_Objetos(3)-Videojuegos\obj\Debug\netcoreapp3.1\Ejercicios_Objetos(3)-Videojuegos.csproj.CoreCompileInputs.cache
+C:\Users\Hilario\source\repos\Ejercicios_Objetos(3)-Videojuegos\Ejercicios_Objetos(3)-Videojuegos\obj\Debug\netcoreapp3.1\Ejercicios_Objetos(3)-Videojuegos.dll
+C:\Users\Hilario\source\repos\Ejercicios_Objetos(3)-Videojuegos\Ejercicios_Objetos(3)-Videojuegos\obj\Debug\netcoreapp3.1\Ejercicios_Objetos(3)-Videojuegos.pdb
+C:\Users\Hilario\source\repos\Ejercicios_Objetos(3)-Videojuegos\Ejercicios_Objetos(3)-Videojuegos\obj\Debug\netcoreapp3.1\Ejercicios_Objetos(3)-Videojuegos.genruntimeconfig.cache

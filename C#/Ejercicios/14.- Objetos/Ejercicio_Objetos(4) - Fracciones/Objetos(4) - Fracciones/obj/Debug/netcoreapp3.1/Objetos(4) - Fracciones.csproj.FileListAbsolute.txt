@@ -1,0 +1,14 @@
+C:\Users\Hilario\source\repos\Objetos(4) - Fracciones\Objetos(4) - Fracciones\bin\Debug\netcoreapp3.1\Objetos(4) - Fracciones.exe
+C:\Users\Hilario\source\repos\Objetos(4) - Fracciones\Objetos(4) - Fracciones\bin\Debug\netcoreapp3.1\Objetos(4) - Fracciones.deps.json
+C:\Users\Hilario\source\repos\Objetos(4) - Fracciones\Objetos(4) - Fracciones\bin\Debug\netcoreapp3.1\Objetos(4) - Fracciones.runtimeconfig.json
+C:\Users\Hilario\source\repos\Objetos(4) - Fracciones\Objetos(4) - Fracciones\bin\Debug\netcoreapp3.1\Objetos(4) - Fracciones.runtimeconfig.dev.json
+C:\Users\Hilario\source\repos\Objetos(4) - Fracciones\Objetos(4) - Fracciones\bin\Debug\netcoreapp3.1\Objetos(4) - Fracciones.dll
+C:\Users\Hilario\source\repos\Objetos(4) - Fracciones\Objetos(4) - Fracciones\bin\Debug\netcoreapp3.1\Objetos(4) - Fracciones.pdb
+C:\Users\Hilario\source\repos\Objetos(4) - Fracciones\Objetos(4) - Fracciones\obj\Debug\netcoreapp3.1\Objetos(4) - Fracciones.csproj.AssemblyReference.cache
+C:\Users\Hilario\source\repos\Objetos(4) - Fracciones\Objetos(4) - Fracciones\obj\Debug\netcoreapp3.1\Objetos(4) - Fracciones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hilario\source\repos\Objetos(4) - Fracciones\Objetos(4) - Fracciones\obj\Debug\netcoreapp3.1\Objetos(4) - Fracciones.AssemblyInfoInputs.cache
+C:\Users\Hilario\source\repos\Objetos(4) - Fracciones\Objetos(4) - Fracciones\obj\Debug\netcoreapp3.1\Objetos(4) - Fracciones.AssemblyInfo.cs
+C:\Users\Hilario\source\repos\Objetos(4) - Fracciones\Objetos(4) - Fracciones\obj\Debug\netcoreapp3.1\Objetos(4) - Fracciones.csproj.CoreCompileInputs.cache
+C:\Users\Hilario\source\repos\Objetos(4) - Fracciones\Objetos(4) - Fracciones\obj\Debug\netcoreapp3.1\Objetos(4) - Fracciones.dll
+C:\Users\Hilario\source\repos\Objetos(4) - Fracciones\Objetos(4) - Fracciones\obj\Debug\netcoreapp3.1\Objetos(4) - Fracciones.pdb
+C:\Users\Hilario\source\repos\Objetos(4) - Fracciones\Objetos(4) - Fracciones\obj\Debug\netcoreapp3.1\Objetos(4) - Fracciones.genruntimeconfig.cache

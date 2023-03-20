@@ -1,0 +1,14 @@
+C:\Users\Hilario\source\repos\Ejercicios_Objetos_Dinero(5)\Ejercicios_Objetos_Dinero(5)\bin\Debug\netcoreapp3.1\Ejercicios_Objetos_Dinero(5).exe
+C:\Users\Hilario\source\repos\Ejercicios_Objetos_Dinero(5)\Ejercicios_Objetos_Dinero(5)\bin\Debug\netcoreapp3.1\Ejercicios_Objetos_Dinero(5).deps.json
+C:\Users\Hilario\source\repos\Ejercicios_Objetos_Dinero(5)\Ejercicios_Objetos_Dinero(5)\bin\Debug\netcoreapp3.1\Ejercicios_Objetos_Dinero(5).runtimeconfig.json
+C:\Users\Hilario\source\repos\Ejercicios_Objetos_Dinero(5)\Ejercicios_Objetos_Dinero(5)\bin\Debug\netcoreapp3.1\Ejercicios_Objetos_Dinero(5).runtimeconfig.dev.json
+C:\Users\Hilario\source\repos\Ejercicios_Objetos_Dinero(5)\Ejercicios_Objetos_Dinero(5)\bin\Debug\netcoreapp3.1\Ejercicios_Objetos_Dinero(5).dll
+C:\Users\Hilario\source\repos\Ejercicios_Objetos_Dinero(5)\Ejercicios_Objetos_Dinero(5)\bin\Debug\netcoreapp3.1\Ejercicios_Objetos_Dinero(5).pdb
+C:\Users\Hilario\source\repos\Ejercicios_Objetos_Dinero(5)\Ejercicios_Objetos_Dinero(5)\obj\Debug\netcoreapp3.1\Ejercicios_Objetos_Dinero(5).csproj.AssemblyReference.cache
+C:\Users\Hilario\source\repos\Ejercicios_Objetos_Dinero(5)\Ejercicios_Objetos_Dinero(5)\obj\Debug\netcoreapp3.1\Ejercicios_Objetos_Dinero(5).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hilario\source\repos\Ejercicios_Objetos_Dinero(5)\Ejercicios_Objetos_Dinero(5)\obj\Debug\netcoreapp3.1\Ejercicios_Objetos_Dinero(5).AssemblyInfoInputs.cache
+C:\Users\Hilario\source\repos\Ejercicios_Objetos_Dinero(5)\Ejercicios_Objetos_Dinero(5)\obj\Debug\netcoreapp3.1\Ejercicios_Objetos_Dinero(5).AssemblyInfo.cs
+C:\Users\Hilario\source\repos\Ejercicios_Objetos_Dinero(5)\Ejercicios_Objetos_Dinero(5)\obj\Debug\netcoreapp3.1\Ejercicios_Objetos_Dinero(5).csproj.CoreCompileInputs.cache
+C:\Users\Hilario\source\repos\Ejercicios_Objetos_Dinero(5)\Ejercicios_Objetos_Dinero(5)\obj\Debug\netcoreapp3.1\Ejercicios_Objetos_Dinero(5).dll
+C:\Users\Hilario\source\repos\Ejercicios_Objetos_Dinero(5)\Ejercicios_Objetos_Dinero(5)\obj\Debug\netcoreapp3.1\Ejercicios_Objetos_Dinero(5).pdb
+C:\Users\Hilario\source\repos\Ejercicios_Objetos_Dinero(5)\Ejercicios_Objetos_Dinero(5)\obj\Debug\netcoreapp3.1\Ejercicios_Objetos_Dinero(5).genruntimeconfig.cache

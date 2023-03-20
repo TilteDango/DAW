@@ -1,0 +1,28 @@
+C:\Users\Hilario\source\repos\Clases(1) Carta y Baraja\Clases(1) Carta y Baraja\bin\Debug\netcoreapp3.1\Clases(1) Carta y Baraja.exe
+C:\Users\Hilario\source\repos\Clases(1) Carta y Baraja\Clases(1) Carta y Baraja\bin\Debug\netcoreapp3.1\Clases(1) Carta y Baraja.deps.json
+C:\Users\Hilario\source\repos\Clases(1) Carta y Baraja\Clases(1) Carta y Baraja\bin\Debug\netcoreapp3.1\Clases(1) Carta y Baraja.runtimeconfig.json
+C:\Users\Hilario\source\repos\Clases(1) Carta y Baraja\Clases(1) Carta y Baraja\bin\Debug\netcoreapp3.1\Clases(1) Carta y Baraja.runtimeconfig.dev.json
+C:\Users\Hilario\source\repos\Clases(1) Carta y Baraja\Clases(1) Carta y Baraja\bin\Debug\netcoreapp3.1\Clases(1) Carta y Baraja.dll
+C:\Users\Hilario\source\repos\Clases(1) Carta y Baraja\Clases(1) Carta y Baraja\bin\Debug\netcoreapp3.1\Clases(1) Carta y Baraja.pdb
+C:\Users\Hilario\source\repos\Clases(1) Carta y Baraja\Clases(1) Carta y Baraja\obj\Debug\netcoreapp3.1\Clases(1) Carta y Baraja.csproj.AssemblyReference.cache
+C:\Users\Hilario\source\repos\Clases(1) Carta y Baraja\Clases(1) Carta y Baraja\obj\Debug\netcoreapp3.1\Clases(1) Carta y Baraja.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hilario\source\repos\Clases(1) Carta y Baraja\Clases(1) Carta y Baraja\obj\Debug\netcoreapp3.1\Clases(1) Carta y Baraja.AssemblyInfoInputs.cache
+C:\Users\Hilario\source\repos\Clases(1) Carta y Baraja\Clases(1) Carta y Baraja\obj\Debug\netcoreapp3.1\Clases(1) Carta y Baraja.AssemblyInfo.cs
+C:\Users\Hilario\source\repos\Clases(1) Carta y Baraja\Clases(1) Carta y Baraja\obj\Debug\netcoreapp3.1\Clases(1) Carta y Baraja.csproj.CoreCompileInputs.cache
+C:\Users\Hilario\source\repos\Clases(1) Carta y Baraja\Clases(1) Carta y Baraja\obj\Debug\netcoreapp3.1\Clases(1) Carta y Baraja.dll
+C:\Users\Hilario\source\repos\Clases(1) Carta y Baraja\Clases(1) Carta y Baraja\obj\Debug\netcoreapp3.1\Clases(1) Carta y Baraja.pdb
+C:\Users\Hilario\source\repos\Clases(1) Carta y Baraja\Clases(1) Carta y Baraja\obj\Debug\netcoreapp3.1\Clases(1) Carta y Baraja.genruntimeconfig.cache
+C:\Users\Hilario\Desktop\Casa\0.- A la espera de entrega\Clases(1) Carta y Baraja\Clases(1) Carta y Baraja\bin\Debug\netcoreapp3.1\Clases(1) Carta y Baraja.exe
+C:\Users\Hilario\Desktop\Casa\0.- A la espera de entrega\Clases(1) Carta y Baraja\Clases(1) Carta y Baraja\bin\Debug\netcoreapp3.1\Clases(1) Carta y Baraja.deps.json
+C:\Users\Hilario\Desktop\Casa\0.- A la espera de entrega\Clases(1) Carta y Baraja\Clases(1) Carta y Baraja\bin\Debug\netcoreapp3.1\Clases(1) Carta y Baraja.runtimeconfig.json
+C:\Users\Hilario\Desktop\Casa\0.- A la espera de entrega\Clases(1) Carta y Baraja\Clases(1) Carta y Baraja\bin\Debug\netcoreapp3.1\Clases(1) Carta y Baraja.runtimeconfig.dev.json
+C:\Users\Hilario\Desktop\Casa\0.- A la espera de entrega\Clases(1) Carta y Baraja\Clases(1) Carta y Baraja\bin\Debug\netcoreapp3.1\Clases(1) Carta y Baraja.dll
+C:\Users\Hilario\Desktop\Casa\0.- A la espera de entrega\Clases(1) Carta y Baraja\Clases(1) Carta y Baraja\bin\Debug\netcoreapp3.1\Clases(1) Carta y Baraja.pdb
+C:\Users\Hilario\Desktop\Casa\0.- A la espera de entrega\Clases(1) Carta y Baraja\Clases(1) Carta y Baraja\obj\Debug\netcoreapp3.1\Clases(1) Carta y Baraja.csproj.AssemblyReference.cache
+C:\Users\Hilario\Desktop\Casa\0.- A la espera de entrega\Clases(1) Carta y Baraja\Clases(1) Carta y Baraja\obj\Debug\netcoreapp3.1\Clases(1) Carta y Baraja.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hilario\Desktop\Casa\0.- A la espera de entrega\Clases(1) Carta y Baraja\Clases(1) Carta y Baraja\obj\Debug\netcoreapp3.1\Clases(1) Carta y Baraja.AssemblyInfoInputs.cache
+C:\Users\Hilario\Desktop\Casa\0.- A la espera de entrega\Clases(1) Carta y Baraja\Clases(1) Carta y Baraja\obj\Debug\netcoreapp3.1\Clases(1) Carta y Baraja.AssemblyInfo.cs
+C:\Users\Hilario\Desktop\Casa\0.- A la espera de entrega\Clases(1) Carta y Baraja\Clases(1) Carta y Baraja\obj\Debug\netcoreapp3.1\Clases(1) Carta y Baraja.csproj.CoreCompileInputs.cache
+C:\Users\Hilario\Desktop\Casa\0.- A la espera de entrega\Clases(1) Carta y Baraja\Clases(1) Carta y Baraja\obj\Debug\netcoreapp3.1\Clases(1) Carta y Baraja.dll
+C:\Users\Hilario\Desktop\Casa\0.- A la espera de entrega\Clases(1) Carta y Baraja\Clases(1) Carta y Baraja\obj\Debug\netcoreapp3.1\Clases(1) Carta y Baraja.pdb
+C:\Users\Hilario\Desktop\Casa\0.- A la espera de entrega\Clases(1) Carta y Baraja\Clases(1) Carta y Baraja\obj\Debug\netcoreapp3.1\Clases(1) Carta y Baraja.genruntimeconfig.cache

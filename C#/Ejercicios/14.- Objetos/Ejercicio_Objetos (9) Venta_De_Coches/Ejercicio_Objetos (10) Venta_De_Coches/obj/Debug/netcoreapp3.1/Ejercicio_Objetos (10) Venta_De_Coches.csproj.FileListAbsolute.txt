@@ -1,0 +1,14 @@
+C:\Users\Hilario\source\repos\Ejercicio_Objetos (10) Venta_De_Coches\Ejercicio_Objetos (10) Venta_De_Coches\bin\Debug\netcoreapp3.1\Ejercicio_Objetos (10) Venta_De_Coches.exe
+C:\Users\Hilario\source\repos\Ejercicio_Objetos (10) Venta_De_Coches\Ejercicio_Objetos (10) Venta_De_Coches\bin\Debug\netcoreapp3.1\Ejercicio_Objetos (10) Venta_De_Coches.deps.json
+C:\Users\Hilario\source\repos\Ejercicio_Objetos (10) Venta_De_Coches\Ejercicio_Objetos (10) Venta_De_Coches\bin\Debug\netcoreapp3.1\Ejercicio_Objetos (10) Venta_De_Coches.runtimeconfig.json
+C:\Users\Hilario\source\repos\Ejercicio_Objetos (10) Venta_De_Coches\Ejercicio_Objetos (10) Venta_De_Coches\bin\Debug\netcoreapp3.1\Ejercicio_Objetos (10) Venta_De_Coches.runtimeconfig.dev.json
+C:\Users\Hilario\source\repos\Ejercicio_Objetos (10) Venta_De_Coches\Ejercicio_Objetos (10) Venta_De_Coches\bin\Debug\netcoreapp3.1\Ejercicio_Objetos (10) Venta_De_Coches.dll
+C:\Users\Hilario\source\repos\Ejercicio_Objetos (10) Venta_De_Coches\Ejercicio_Objetos (10) Venta_De_Coches\bin\Debug\netcoreapp3.1\Ejercicio_Objetos (10) Venta_De_Coches.pdb
+C:\Users\Hilario\source\repos\Ejercicio_Objetos (10) Venta_De_Coches\Ejercicio_Objetos (10) Venta_De_Coches\obj\Debug\netcoreapp3.1\Ejercicio_Objetos (10) Venta_De_Coches.csproj.AssemblyReference.cache
+C:\Users\Hilario\source\repos\Ejercicio_Objetos (10) Venta_De_Coches\Ejercicio_Objetos (10) Venta_De_Coches\obj\Debug\netcoreapp3.1\Ejercicio_Objetos (10) Venta_De_Coches.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hilario\source\repos\Ejercicio_Objetos (10) Venta_De_Coches\Ejercicio_Objetos (10) Venta_De_Coches\obj\Debug\netcoreapp3.1\Ejercicio_Objetos (10) Venta_De_Coches.AssemblyInfoInputs.cache
+C:\Users\Hilario\source\repos\Ejercicio_Objetos (10) Venta_De_Coches\Ejercicio_Objetos (10) Venta_De_Coches\obj\Debug\netcoreapp3.1\Ejercicio_Objetos (10) Venta_De_Coches.AssemblyInfo.cs
+C:\Users\Hilario\source\repos\Ejercicio_Objetos (10) Venta_De_Coches\Ejercicio_Objetos (10) Venta_De_Coches\obj\Debug\netcoreapp3.1\Ejercicio_Objetos (10) Venta_De_Coches.csproj.CoreCompileInputs.cache
+C:\Users\Hilario\source\repos\Ejercicio_Objetos (10) Venta_De_Coches\Ejercicio_Objetos (10) Venta_De_Coches\obj\Debug\netcoreapp3.1\Ejercicio_Objetos (10) Venta_De_Coches.dll
+C:\Users\Hilario\source\repos\Ejercicio_Objetos (10) Venta_De_Coches\Ejercicio_Objetos (10) Venta_De_Coches\obj\Debug\netcoreapp3.1\Ejercicio_Objetos (10) Venta_De_Coches.pdb
+C:\Users\Hilario\source\repos\Ejercicio_Objetos (10) Venta_De_Coches\Ejercicio_Objetos (10) Venta_De_Coches\obj\Debug\netcoreapp3.1\Ejercicio_Objetos (10) Venta_De_Coches.genruntimeconfig.cache

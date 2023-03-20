@@ -1,0 +1,28 @@
+C:\Users\Hilario\source\repos\Ejercicio_Clases(2) Grupo-Alumno\Ejercicio_Clases(2) Grupo-Alumno\bin\Debug\netcoreapp3.1\Ejercicio_Clases(2) Grupo-Alumno.exe
+C:\Users\Hilario\source\repos\Ejercicio_Clases(2) Grupo-Alumno\Ejercicio_Clases(2) Grupo-Alumno\bin\Debug\netcoreapp3.1\Ejercicio_Clases(2) Grupo-Alumno.deps.json
+C:\Users\Hilario\source\repos\Ejercicio_Clases(2) Grupo-Alumno\Ejercicio_Clases(2) Grupo-Alumno\bin\Debug\netcoreapp3.1\Ejercicio_Clases(2) Grupo-Alumno.runtimeconfig.json
+C:\Users\Hilario\source\repos\Ejercicio_Clases(2) Grupo-Alumno\Ejercicio_Clases(2) Grupo-Alumno\bin\Debug\netcoreapp3.1\Ejercicio_Clases(2) Grupo-Alumno.runtimeconfig.dev.json
+C:\Users\Hilario\source\repos\Ejercicio_Clases(2) Grupo-Alumno\Ejercicio_Clases(2) Grupo-Alumno\bin\Debug\netcoreapp3.1\Ejercicio_Clases(2) Grupo-Alumno.dll
+C:\Users\Hilario\source\repos\Ejercicio_Clases(2) Grupo-Alumno\Ejercicio_Clases(2) Grupo-Alumno\bin\Debug\netcoreapp3.1\Ejercicio_Clases(2) Grupo-Alumno.pdb
+C:\Users\Hilario\source\repos\Ejercicio_Clases(2) Grupo-Alumno\Ejercicio_Clases(2) Grupo-Alumno\obj\Debug\netcoreapp3.1\Ejercicio_Clases(2) Grupo-Alumno.csproj.AssemblyReference.cache
+C:\Users\Hilario\source\repos\Ejercicio_Clases(2) Grupo-Alumno\Ejercicio_Clases(2) Grupo-Alumno\obj\Debug\netcoreapp3.1\Ejercicio_Clases(2) Grupo-Alumno.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hilario\source\repos\Ejercicio_Clases(2) Grupo-Alumno\Ejercicio_Clases(2) Grupo-Alumno\obj\Debug\netcoreapp3.1\Ejercicio_Clases(2) Grupo-Alumno.AssemblyInfoInputs.cache
+C:\Users\Hilario\source\repos\Ejercicio_Clases(2) Grupo-Alumno\Ejercicio_Clases(2) Grupo-Alumno\obj\Debug\netcoreapp3.1\Ejercicio_Clases(2) Grupo-Alumno.AssemblyInfo.cs
+C:\Users\Hilario\source\repos\Ejercicio_Clases(2) Grupo-Alumno\Ejercicio_Clases(2) Grupo-Alumno\obj\Debug\netcoreapp3.1\Ejercicio_Clases(2) Grupo-Alumno.csproj.CoreCompileInputs.cache
+C:\Users\Hilario\source\repos\Ejercicio_Clases(2) Grupo-Alumno\Ejercicio_Clases(2) Grupo-Alumno\obj\Debug\netcoreapp3.1\Ejercicio_Clases(2) Grupo-Alumno.dll
+C:\Users\Hilario\source\repos\Ejercicio_Clases(2) Grupo-Alumno\Ejercicio_Clases(2) Grupo-Alumno\obj\Debug\netcoreapp3.1\Ejercicio_Clases(2) Grupo-Alumno.pdb
+C:\Users\Hilario\source\repos\Ejercicio_Clases(2) Grupo-Alumno\Ejercicio_Clases(2) Grupo-Alumno\obj\Debug\netcoreapp3.1\Ejercicio_Clases(2) Grupo-Alumno.genruntimeconfig.cache
+C:\Users\Hilario\Desktop\Casa\1.- En proceso\Ejercicio_Clases(2) Grupo-Alumno\Ejercicio_Clases(2) Grupo-Alumno\bin\Debug\netcoreapp3.1\Ejercicio_Clases(2) Grupo-Alumno.exe
+C:\Users\Hilario\Desktop\Casa\1.- En proceso\Ejercicio_Clases(2) Grupo-Alumno\Ejercicio_Clases(2) Grupo-Alumno\bin\Debug\netcoreapp3.1\Ejercicio_Clases(2) Grupo-Alumno.deps.json
+C:\Users\Hilario\Desktop\Casa\1.- En proceso\Ejercicio_Clases(2) Grupo-Alumno\Ejercicio_Clases(2) Grupo-Alumno\bin\Debug\netcoreapp3.1\Ejercicio_Clases(2) Grupo-Alumno.runtimeconfig.json
+C:\Users\Hilario\Desktop\Casa\1.- En proceso\Ejercicio_Clases(2) Grupo-Alumno\Ejercicio_Clases(2) Grupo-Alumno\bin\Debug\netcoreapp3.1\Ejercicio_Clases(2) Grupo-Alumno.runtimeconfig.dev.json
+C:\Users\Hilario\Desktop\Casa\1.- En proceso\Ejercicio_Clases(2) Grupo-Alumno\Ejercicio_Clases(2) Grupo-Alumno\bin\Debug\netcoreapp3.1\Ejercicio_Clases(2) Grupo-Alumno.dll
+C:\Users\Hilario\Desktop\Casa\1.- En proceso\Ejercicio_Clases(2) Grupo-Alumno\Ejercicio_Clases(2) Grupo-Alumno\bin\Debug\netcoreapp3.1\Ejercicio_Clases(2) Grupo-Alumno.pdb
+C:\Users\Hilario\Desktop\Casa\1.- En proceso\Ejercicio_Clases(2) Grupo-Alumno\Ejercicio_Clases(2) Grupo-Alumno\obj\Debug\netcoreapp3.1\Ejercicio_Clases(2) Grupo-Alumno.csproj.AssemblyReference.cache
+C:\Users\Hilario\Desktop\Casa\1.- En proceso\Ejercicio_Clases(2) Grupo-Alumno\Ejercicio_Clases(2) Grupo-Alumno\obj\Debug\netcoreapp3.1\Ejercicio_Clases(2) Grupo-Alumno.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hilario\Desktop\Casa\1.- En proceso\Ejercicio_Clases(2) Grupo-Alumno\Ejercicio_Clases(2) Grupo-Alumno\obj\Debug\netcoreapp3.1\Ejercicio_Clases(2) Grupo-Alumno.AssemblyInfoInputs.cache
+C:\Users\Hilario\Desktop\Casa\1.- En proceso\Ejercicio_Clases(2) Grupo-Alumno\Ejercicio_Clases(2) Grupo-Alumno\obj\Debug\netcoreapp3.1\Ejercicio_Clases(2) Grupo-Alumno.AssemblyInfo.cs
+C:\Users\Hilario\Desktop\Casa\1.- En proceso\Ejercicio_Clases(2) Grupo-Alumno\Ejercicio_Clases(2) Grupo-Alumno\obj\Debug\netcoreapp3.1\Ejercicio_Clases(2) Grupo-Alumno.csproj.CoreCompileInputs.cache
+C:\Users\Hilario\Desktop\Casa\1.- En proceso\Ejercicio_Clases(2) Grupo-Alumno\Ejercicio_Clases(2) Grupo-Alumno\obj\Debug\netcoreapp3.1\Ejercicio_Clases(2) Grupo-Alumno.dll
+C:\Users\Hilario\Desktop\Casa\1.- En proceso\Ejercicio_Clases(2) Grupo-Alumno\Ejercicio_Clases(2) Grupo-Alumno\obj\Debug\netcoreapp3.1\Ejercicio_Clases(2) Grupo-Alumno.pdb
+C:\Users\Hilario\Desktop\Casa\1.- En proceso\Ejercicio_Clases(2) Grupo-Alumno\Ejercicio_Clases(2) Grupo-Alumno\obj\Debug\netcoreapp3.1\Ejercicio_Clases(2) Grupo-Alumno.genruntimeconfig.cache
