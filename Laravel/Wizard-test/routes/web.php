@@ -1,6 +1,7 @@
 <?php
 
 use Illuminate\Support\Facades\Route;
+use App\Http\Livewire\CoursesForm;
 
 /*
 |--------------------------------------------------------------------------
@@ -17,6 +18,4 @@ Route::get('wizard', function () {
     return view('wizard');
 });
 
-Route::get('courses', function() {
-    return view('welcome');
-});
+Route::get('courses', CoursesForm::class);

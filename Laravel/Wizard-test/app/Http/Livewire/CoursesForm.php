@@ -4,17 +4,18 @@ namespace App\Http\Livewire;
 
 use Livewire\Component;
 use App\Models\Courses;
+use Illuminate\Http\Request;
 
 class CoursesForm extends Component
 {
 
-    public $currentStep = 1;
+    public Float $currentStep = 1;
     public $name, $price, $description, $suscriber = false;
-    public $successMsg = '';
+    public String $successMsg = '';
 
     public function render()
     {
-        return view('livewire.courses-form');
+        return view('livewire.courses-form')->layout('welcome');
     }
 
     public function firstStepSubmit()
@@ -32,13 +33,8 @@ class CoursesForm extends Component
         $this->currentStep= 3;
     }
 
-    public function submitForm(){
-        Courses::create([
-            'name' => $this->name,
-            'price' => $this->price,
-            'description' => $this->description,
-            'suscriber' => $this->suscriber,
-        ]);
+    public function submitForm(Request $request) {
+        $course = Courses::create($request->all());
 
         $this->successMsg='Curso creado correctamente.';
         $this->clearForm();
@@ -55,6 +51,4 @@ class CoursesForm extends Component
         $this->description = '';
         $this->suscriber = false;
     }
-
-
 }

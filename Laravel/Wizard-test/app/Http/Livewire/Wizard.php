@@ -12,7 +12,7 @@ class Wizard extends Component
 
     public function render()
     {
-        return view('livewire.wizard');
+        return view('livewire.wizard')->layout('wizard');
     }
 
     public function firstStepSubmit()
