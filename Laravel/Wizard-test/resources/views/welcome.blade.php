@@ -13,10 +13,10 @@
 <body class="mt-5">
     <div class="container pb-3">
         <div class="text-center">
-            <h1 class="text-xl">Crea cursos Online</h1>
+            <h1 class="text-xl">@yield('title')</h1>
 
         </div>
-        <livewire:courses-form />
+        {{$slot}}
     </div>
 </body>
 <script src="//cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>

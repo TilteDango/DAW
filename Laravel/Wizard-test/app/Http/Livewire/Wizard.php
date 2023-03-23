@@ -16,12 +16,12 @@ class Wizard extends Component
 
     public function render()
     {
-        return view('livewire.wizard')->layout('wizard');
+        return view('livewire.wizard')->layout('welcome');
     }
 
-    public function firstStepSubmit()
+    public function firstStepSubmit() : void
     {
-        $validatedData = $this->validate([
+        $this->validate([
             'name' => 'required',
             'price' => 'required|numeric',
             'detail' => 'required',
@@ -30,38 +30,26 @@ class Wizard extends Component
         $this->currentStep = 2;
     }
 
-    public function secondStepSubmit()
+    public function secondStepSubmit() : void
     {
-        $validatedData = $this->validate([
+        $this->validate([
             'status' => 'required',
         ]);
 
         $this->currentStep = 3;
     }
 
-    public function submitForm(Request $request)
+    public function submitForm(Request $request) :void
     {
         $team = new Team();
         $team->CreateTeam($request);
-
         $this->successMsg = 'Team successfully created.';
-
         $this->reset(['name', 'price', 'detail', 'status']);
-
         $this->currentStep = 1;
     }
 
-    public function back( int $step)
+    public function back(int $step) : void
     {
         $this->currentStep = $step;
-    }
-
-
-    public function clearForm()
-    {
-        $this->name = '';
-        $this->price = '';
-        $this->detail = '';
-        $this->status = 1;
     }
 }

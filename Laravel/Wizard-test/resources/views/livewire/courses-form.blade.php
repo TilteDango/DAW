@@ -1,3 +1,5 @@
+@section('title', 'Crea cursos Online')
+
 <div>
     @if(!empty($successMsg))
     <div class="alert alert-success">

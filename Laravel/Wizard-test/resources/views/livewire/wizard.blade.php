@@ -1,3 +1,5 @@
+@section('title', 'Create a Wizard Test')
+
 <div>
     @if(!empty($successMsg))
     <div class="alert alert-success">
