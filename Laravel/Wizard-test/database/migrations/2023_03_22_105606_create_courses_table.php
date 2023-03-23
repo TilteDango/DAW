@@ -13,9 +13,9 @@ return new class extends Migration
     {
         Schema::create('courses', function (Blueprint $table) {
             $table->id();
-            $table->string('name');
-            $table->float('price');
-            $table->string('description');
+            $table->string('name')->nullable();
+            $table->float('price')->nullable();
+            $table->string('description')->nullable();
             $table->boolean('suscriber')->default(false);
             $table->timestamps();
         });

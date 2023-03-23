@@ -6,6 +6,8 @@ use Faker\Core\Number;
 use Illuminate\Database\Eloquent\Factories\HasFactory;
 use Illuminate\Database\Eloquent\Model;
 use PhpParser\Node\Expr\Cast\Bool_;
+use Illuminate\Http\Request;
+
 
 class Courses extends Model
 {
@@ -18,12 +20,7 @@ class Courses extends Model
     ];
 
 
-    public function CreateUser(String $name, Float $price, String $description, Bool $suscriber){
-        Courses::create([
-            'name' => $name,
-            'price' => $price,
-            'description' => $description,
-            'suscriber' => $suscriber,
-        ]);
+    public function CreateCourse(Request $request){
+        Courses::create($request->all());
     }
 }

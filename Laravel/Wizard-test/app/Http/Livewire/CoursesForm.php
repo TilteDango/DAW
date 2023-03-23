@@ -8,15 +8,19 @@ use Illuminate\Http\Request;
 
 class CoursesForm extends Component
 {
-
-    public Float $currentStep = 1;
-    public $name, $price, $description, $suscriber = false;
-    public String $successMsg = '';
+    public float $currentStep = 1;
+    public $name = '';
+    public float $price = 0;
+    public string $description = '';
+    public bool $suscriber = false;
+    public string $successMsg = '';
 
     public function render()
     {
         return view('livewire.courses-form')->layout('welcome');
     }
+
+
 
     public function firstStepSubmit()
     {
@@ -34,21 +38,15 @@ class CoursesForm extends Component
     }
 
     public function submitForm(Request $request) {
-        $course = Courses::create($request->all());
+        $course = new Courses();
+        $course->CreateCourse($request);
 
         $this->successMsg='Curso creado correctamente.';
-        $this->clearForm();
+        $this->reset(['name', 'price', 'description', 'suscriber']);
         $this->currentStep = 1;
     }
 
-    public function back($step){
+    public function back(int $step){
         $this->currentStep = $step;
-    }
-
-    public function clearForm(){
-        $this->name = '';
-        $this->price = '';
-        $this->description = '';
-        $this->suscriber = false;
     }
 }

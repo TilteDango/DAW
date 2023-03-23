@@ -3,12 +3,16 @@
 namespace App\Http\Livewire;
 use Livewire\Component;
 use App\Models\Team;
+use Illuminate\Http\Request;
 
 class Wizard extends Component
 {
-    public $currentStep = 1;
-    public $name, $price, $detail, $status = 1;
-    public $successMsg = '';
+    public int $currentStep = 1;
+    public string $name = '';
+    public float $price = 0;
+    public string $detail = '';
+    public int $status = 1;
+    public string $successMsg = '';
 
     public function render()
     {
@@ -35,23 +39,19 @@ class Wizard extends Component
         $this->currentStep = 3;
     }
 
-    public function submitForm()
+    public function submitForm(Request $request)
     {
-        Team::create([
-            'name' => $this->name,
-            'price' => $this->price,
-            'detail' => $this->detail,
-            'status' => $this->status,
-        ]);
+        $team = new Team();
+        $team->CreateTeam($request);
 
         $this->successMsg = 'Team successfully created.';
 
-        $this->clearForm();
+        $this->reset(['name', 'price', 'detail', 'status']);
 
         $this->currentStep = 1;
     }
 
-    public function back($step)
+    public function back( int $step)
     {
         $this->currentStep = $step;
     }
