@@ -1,3 +1,4 @@
+# GyMedia
 
 GyMedia es una innovadora aplicación de red social desarrollada en React que ha revolucionado la forma en que los entusiastas del fitness y la nutrición interactúan en línea. Esta plataforma ofrece a los usuarios una experiencia completa y diversa, donde pueden publicar, compartir y descubrir contenido relacionado con su pasión por mantenerse en forma y llevar una vida saludable.
 
