@@ -5,6 +5,8 @@ import { AuthContext } from "../../Context/AuthContext";
 import Tab from "../Recetas/Tab";
 import AddPost from "../Buttons/AddPost";
 import AddRutina from "../Buttons/AddRutina";
+import NavBar from "../NavBar/NavBar";
+import { RecipeContext } from "../../Context/RecipeContext";
 
 export default function CardIndex() {
   const [exercices, setExercices] = useState([]);
@@ -50,7 +52,7 @@ export default function CardIndex() {
   useEffect(() => {
     async function getData() {
       const exercicies = await getExercices();
-      setExercices(exercicies);
+      setExercices(exercicies.reverse());
     }
 
     getData();
@@ -58,6 +60,8 @@ export default function CardIndex() {
 
   return (
     <>
+      <NavBar />
+
       {token ? (
         <>
           {active ? (
@@ -68,8 +72,8 @@ export default function CardIndex() {
                   Tus Rutinas
                 </Tab>
               </div>
-              <div className="mt-4 mx-4">
-                <div className="grid grid-cols-4 gap-4 justify-items-center">
+              <div className="bg-gray-100 p-4">
+                <div className="mt-4 mx-4 grid grid-flow-row gap-4 justify-items-center lg:grid-cols-4 md:grid-cols-2">
                   {exercices.map((exercice, index) => (
                     <div key={index} className="h-full">
                       <RutinasCard exercice={exercice} key={index} />
@@ -86,9 +90,14 @@ export default function CardIndex() {
                 </Tab>
                 <Tab active={true}>Tus Rutinas</Tab>
               </div>
-              <AddRutina />
-              <div className="mt-4 mx-4">
-                <div className="grid grid-cols-4 gap-4 justify-items-center">
+
+              <div className="bg-gray-100 p-4 h-screen">
+                <div className="mx-4 grid grid-cols-1">
+                  <div className="flex justify-end">
+                    <AddRutina />
+                  </div>
+                </div>
+                <div className="mt-4 mx-4 grid grid-flow-row gap-4 justify-items-center lg:grid-cols-4 md:grid-cols-2">
                   {exercicesByToken.map((exercice, index) => (
                     <div key={index} className="h-full">
                       <RutinasCard exercice={exercice} key={index} />
@@ -101,8 +110,8 @@ export default function CardIndex() {
         </>
       ) : (
         <>
-          <div className="mt-4 mx-4">
-            <div className="grid grid-cols-4 gap-4 justify-items-center">
+          <div className="bg-gray-100 p-4">
+            <div className="mt-4 mx-4 grid grid-cols-4 gap-4 justify-items-center">
               {exercices.map((exercice, index) => (
                 <div key={index} className="h-full">
                   <RutinasCard exercice={exercice} key={index} />

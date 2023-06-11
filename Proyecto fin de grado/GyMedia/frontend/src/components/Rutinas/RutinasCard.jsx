@@ -163,7 +163,7 @@ export default function RutinasCard({ exercice }) {
           <p className="mt-1 text-gray-500">{exercice.description}</p>
           <div className="mt-4 grid grid-cols-3 gap-2">
             {exercice.categories.map((categorie) => (
-              <span className="inline-flex items-center justify-center gap-1 rounded-full bg-blue-50 px-2 py-1 text-xs font-semibold text-blue-600">
+              <span className="inline-flex items-center justify-center gap-1 rounded-full bg-orange-50 px-2 py-1 text-xs font-semibold text-orange-600">
                 <span className="text-center">{categorie}</span>
               </span>
             ))}

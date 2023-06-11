@@ -8,5 +8,6 @@ const router = Router();
 router.post("/singUp", checkDuplicateUsernameOrEmail, AuthCtrl.signUp);
 router.post("/signIn", AuthCtrl.signIn);
 router.post("/token", AuthCtrl.getUserByToken);
+router.post("/changePassword", AuthCtrl.changePassword);
 
 export default router;

@@ -24,7 +24,9 @@ function Recetas() {
                     Tus Recetas
                   </Tab>
                 </div>
+                <div className="bg-gray-100 p-4">
                 <DietList active={false} />
+                </div>
               </>
             ) : (
               <>
@@ -34,7 +36,7 @@ function Recetas() {
                   </Tab>
                   <Tab active={true}>Tus Recetas</Tab>
                 </div>
-                <div className="flex">
+                <div className="flex bg-gray-100 p-4 h-screen">
                   <div className="flex justify-end w-3/4 ">
                     <DietList active={true} />
                   </div>

@@ -1,13 +1,29 @@
-import React, { useState } from "react";
+import React, { useState, useEffect, useContext } from "react";
 import EditProfile from "./EditProfile/EditProfile";
 import { Link } from "react-router-dom";
 import Statics from "./Statics/Statics";
 import Notifications from "./Notifications/Notifications";
+import { AuthContext } from "../../Context/AuthContext";
+import { UserContext } from "../../Context/UserContext";
 
 export default function Dashboard() {
   const [editProfile, setEditProfile] = useState(false);
   const [notifications, setNotifications] = useState(false);
   const [stadistics, setStadistics] = useState(true);
+  const [userInfo, setUserInfo] = useState([]);
+  const { getUserInfo } = useContext(UserContext);
+  const { getUserByToken, token } = useContext(AuthContext);
+
+  useEffect(() => {
+    async function getInfo() {
+      const userFound = await getUserByToken(token);
+      const user = userFound.userFound;
+      let userInf;
+      userInf = await getUserInfo(user._id);
+      setUserInfo(userInf);
+    }
+    getInfo();
+  }, []);
 
   const handleEditClick = () => {
     setNotifications(false);
@@ -99,32 +115,6 @@ export default function Dashboard() {
                   </a>
                 </li>
                 <li>
-                  <a
-                    onClick={handleNotificationClick}
-                    className={
-                      notifications
-                        ? "flex items-center bg-orange-200 rounded-xl font-bold text-sm text-orange-900 py-3 px-4"
-                        : "flex bg-white hover:bg-yellow-50 rounded-xl font-bold text-sm text-gray-900 py-3 px-4"
-                    }
-                  >
-                    <svg
-                      xmlns="http://www.w3.org/2000/svg"
-                      fill="none"
-                      viewBox="0 0 24 24"
-                      strokeWidth={1.5}
-                      stroke="currentColor"
-                      className="w-6 h-6 mr-4"
-                    >
-                      <path
-                        strokeLinecap="round"
-                        strokeLinejoin="round"
-                        d="M14.857 17.082a23.848 23.848 0 005.454-1.31A8.967 8.967 0 0118 9.75v-.7V9A6 6 0 006 9v.75a8.967 8.967 0 01-2.312 6.022c1.733.64 3.56 1.085 5.455 1.31m5.714 0a24.255 24.255 0 01-5.714 0m5.714 0a3 3 0 11-5.714 0M3.124 7.5A8.969 8.969 0 015.292 3m13.416 0a8.969 8.969 0 012.168 4.5"
-                      />
-                    </svg>
-                    Notificaciones
-                  </a>
-                </li>
-                <li>
                   <Link
                     to={"/"}
                     className="flex bg-white hover:bg-yellow-50 rounded-xl font-bold text-sm text-gray-900 py-3 px-4"
@@ -152,7 +142,7 @@ export default function Dashboard() {
         </div>
       </aside>
       <main className="ml-60 pt-16">
-        {editProfile ? <EditProfile /> : <></>}
+        {editProfile ? <EditProfile userInfo={userInfo} /> : <></>}
         {notifications ? <Notifications /> : <></>}
         {stadistics ? <Statics /> : <></>}
       </main>

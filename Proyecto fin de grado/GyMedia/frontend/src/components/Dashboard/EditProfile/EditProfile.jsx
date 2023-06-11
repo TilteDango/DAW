@@ -3,30 +3,17 @@ import ChangePasswordForm from "./ChangePasswordForm";
 import Toggle from "./Toggle";
 import UploadFile from "../../UploadFiles/UploadFile";
 import AvatarUpload from "../../UploadFiles/AvatarUpload";
-import { UserContext } from "../../../Context/UserContext";
-import { useContext, useState, useEffect } from "react";
-import { AuthContext } from "../../../Context/AuthContext";
 
-export default function EditProfile() {
-  const { getUserInfo } = useContext(UserContext);
-  const [userInfo, setUserInfo] = useState([]);
-  const { getUserByToken, token } = useContext(AuthContext);
-  useEffect(() => {
-    async function getInfo() {
-      const userFound = await getUserByToken(token);
-      const user = userFound.userFound;
-      let userInfo;
-      userInfo = await getUserInfo(user._id);
-      setUserInfo(userInfo);
-    }
-    getInfo();
-  }, []);
+import { useState } from "react";
 
+export default function EditProfile({ userInfo }) {
   const [fullname, setFullname] = useState(userInfo.fullname);
   const [address, setAddress] = useState(userInfo.address);
   const [description, setDescription] = useState(userInfo.description);
   const [job, setJob] = useState(userInfo.job);
   const [studies, setStudies] = useState(userInfo.studies);
+  const [alertModal, setAlertModal] = useState(false);
+  const [alertModalProfile, setAlertModalProfile] = useState(false);
 
   const handleClick = async () => {
     try {
@@ -35,14 +22,34 @@ export default function EditProfile() {
         headers: {
           "Content-Type": "application/json",
         },
-        body: JSON.stringify(user),
+        body: JSON.stringify({
+          userId: userInfo._id,
+          fullname: fullname,
+          address: address,
+          job: job,
+          studies: studies,
+          description: description,
+        }),
       });
 
       const data = await response.json();
+      setAlertModalProfile(true);
+
+      setTimeout(() => {
+        setAlertModalProfile(false);
+      }, 3000);
       return data;
     } catch (error) {
       return false;
     }
+  };
+
+  const changeAlert = () => {
+    setAlertModal(true);
+
+    setTimeout(() => {
+      setAlertModal(false);
+    }, 3000);
   };
 
   const handleChange = (e) => {
@@ -170,7 +177,23 @@ export default function EditProfile() {
       </div>
       <hr className="border-t-2 border-gray-300 my-8 mx-4" />
       <div className="mt-6">
-        <ChangePasswordForm />
+        <ChangePasswordForm changeAlert={changeAlert} />
+        {alertModal && (
+          <div
+            className="font-regular relative block w-1/6 rounded-lg bg-green-400 p-4 text-base leading-5 text-white opacity-100"
+            style={{ position: "absolute", top: 15, right: 15 }}
+          >
+            La contraseña ha sido cambiada exitosamente
+          </div>
+        )}
+        {alertModalProfile && (
+          <div
+            className="font-regular relative block w-1/6 rounded-lg bg-green-400 p-4 text-base leading-5 text-white opacity-100"
+            style={{ position: "absolute", top: 15, right: 15 }}
+          >
+            Los cambios se realizaron correctamente
+          </div>
+        )}
       </div>
     </>
   );

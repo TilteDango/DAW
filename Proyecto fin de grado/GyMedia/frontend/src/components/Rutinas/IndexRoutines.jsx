@@ -19,7 +19,7 @@ export default function IndexRoutines() {
   useEffect(() => {
     async function getData() {
       const exercicies = await getExercices();
-      setExercices(exercicies);
+      setExercices(exercicies.reverse());
     }
 
     getData();

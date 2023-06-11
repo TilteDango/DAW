@@ -2,15 +2,22 @@ import PostExercices from "../models/postExercicesSchema.js";
 import jwt from "jsonwebtoken";
 import config from "../src/config.js";
 
+var image_path;
+
+export const savePostExercicePost = async (req, res) => {
+  const filename = req.file.filename;
+  console.log("Hola", filename);
+  image_path = "http://127.0.0.1:6001/assets/PostExercices/" + filename;
+  return res.status(200).json({ message: "File upload successfully" });
+};
+
 export const createExercicie = async (req, res) => {
   const { creator, description, categories, name } = req.body;
-  console.log("llega aquí");
   const decoded = jwt.verify(creator, config.SECRET);
   const tokenid = decoded.id;
   const newExercice = new PostExercices({
     name: name,
-    image_path:
-      "http://127.0.0.1:6001/assets/PostExercicies/" + req.file.filename,
+    image_path,
     creator: tokenid,
     categories: categories,
     description: description,

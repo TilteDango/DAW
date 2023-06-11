@@ -2,7 +2,7 @@ import multer from "multer";
 
 const storage = multer.diskStorage({
   destination: function (req, file, cb) {
-    const dir = "src/public/assets/PostExercices";
+    const dir = "src/public/assets/Background";
     cb(null, dir);
   },
   filename: function (req, file, cb) {
@@ -14,16 +14,13 @@ const storage = multer.diskStorage({
 const upload = multer({ storage });
 const fileUploaded = upload.single("files");
 
-const ExercicieUploadMiddleware = (req, res, next) => {
+const backgroundUploadImage = (req, res, next) => {
   fileUploaded(req, res, (err) => {
     if (err) {
-      console.log(err);
-      return res
-        .status(400)
-        .json({ message: "Error uploading ecercicie image" });
+      return res.status(400).json({ message: "Error uploading avatar image" });
     }
     next();
   });
 };
 
-export default ExercicieUploadMiddleware;
+export default backgroundUploadImage;

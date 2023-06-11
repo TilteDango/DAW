@@ -40,8 +40,8 @@ export default function RecipeDescription({ modalOn, onClose, diet }) {
             : "fixed top-0 left-0 w-full h-full flex justify-center items-start bg-gray-500 bg-opacity-50 z-50"
         }
       >
-        <div className="flex">
-          <div className="w-2/4 max-h-screen bg-slate-50 px-4 py-5 space-y-3 m-auto scroll-auto">
+        <div className="">
+          <div className="w-2/4 bg-slate-50 px-4 py-5 space-y-3 m-auto scroll-auto">
             <div className="flex justify-between">
               <div>
                 <EditButton />
@@ -55,8 +55,10 @@ export default function RecipeDescription({ modalOn, onClose, diet }) {
                 <CloseButton handleClick={handleClick} />
               </div>
             </div>
-
-            <img src={img} alt="Avocado" className="m-auto" />
+            
+            <div className="">
+              <img src={img} alt="Avocado" className="object-contain h-96 w-full" />
+            </div>
             <div id="downloadable">
               <div className="space-y-2">
                 <h2>{title}</h2>

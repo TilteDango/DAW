@@ -4,6 +4,7 @@ import { PostContext } from "../../Context/PostContext";
 import { AuthContext } from "../../Context/AuthContext";
 import Tab from "../Recetas/Tab";
 import AddPost from "../Buttons/AddPost";
+import NavBar from "../NavBar/NavBar";
 
 export default function IndexComponent() {
   const { getAllPosts, postCont, getAllPostsByToken } = useContext(PostContext);
@@ -15,7 +16,7 @@ export default function IndexComponent() {
     async function getPosts() {
       const allPosts = await getAllPosts();
 
-      setPosts(allPosts);
+      setPosts(allPosts.reverse());
     }
 
     getPosts();
@@ -29,6 +30,7 @@ export default function IndexComponent() {
 
   return (
     <>
+      <NavBar />
       {token ? (
         <>
           {active ? (

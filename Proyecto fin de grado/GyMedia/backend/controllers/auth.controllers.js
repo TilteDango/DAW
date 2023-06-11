@@ -11,7 +11,8 @@ export const signUp = async (req, res) => {
     email,
     password: encryptedPassword,
     image: "http://127.0.0.1:6001/assets/UsersImage/defaultProfile.png",
-    background_image: "",
+    background_image:
+      "https://images.unsplash.com/photo-1499336315816-097655dcfbda?ixlib=rb-1.2.1&amp;ixid=eyJhcHBfaWQiOjEyMDd9&amp;auto=format&amp;fit=crop&amp;w=2710&amp;q=80",
     fullname: "User-" + Math.floor(Math.random() * 10000000),
     address: "Este usuario no ha especificado su dirección",
     job: "Este usuario no ha especificado su trabajo",
@@ -74,4 +75,33 @@ export const getUserByToken = async (req, res) => {
   } catch (error) {
     return res.status(404).json({ message: "Token can not be decoded" });
   }
+};
+
+export const changePassword = async (req, res) => {
+  const { userId, password, newPassword } = req.body;
+  const encryptedNewPassword = await User.encryptPassword(newPassword);
+  const decoded = jwt.verify(userId, config.SECRET);
+  const tokenid = decoded.id;
+
+  const userFound = await User.findById(tokenid);
+  if (!userFound)
+    return res.status(401).json({
+      message: "La contraseña no es correcta",
+    });
+
+  const matchPassword = await User.comparePassword(
+    req.body.password,
+    userFound.password
+  );
+
+  if (!matchPassword)
+    return res.status(401).json({
+      message: "La contraseña no es correcta",
+    });
+
+  const udpatedUser = await User.findByIdAndUpdate(tokenid, {
+    password: encryptedNewPassword,
+  });
+
+  return res.status(200).json({ message: "Changes done succesfully" });
 };

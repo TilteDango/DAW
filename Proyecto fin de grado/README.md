@@ -49,6 +49,10 @@ En resumen, la finalidad de GyMedia es crear una comunidad en línea que reúna 
 -   Desarrollo de la página de descarga y panel de administración (web): 8 semanas
 - Pruebas y depuración: 2 semanas
 
+## Esquema relacional
+
+![[Pasted image 20230611183508.png]]
+
 ## Mapa del sitio web
 
 ### Página principal:
@@ -123,6 +127,111 @@ Los colores que se han utilizado en toda la página son el naranja y el verde po
 
 Al combinar el naranja y el verde en la guía de estilos de un gimnasio, se busca crear un ambiente enérgico y estimulante, con un toque de frescura y equilibrio. Estos colores pueden ayudar a transmitir la idea de un lugar donde las personas pueden encontrar motivación, vitalidad y bienestar físico y mental.
 
+## Guía de usuario
+
+Lo primero que nos vamos a encontrar va a ser que nuestra página web puede ser usada de forma anónima, aunque solo visualizar, no se puede crear ningún post ni ningún tipo de publicación. Nos encontramos con una barra de navegación al principio de todo que nos permite seleccionar entre las diferentes opciones. 
+
+![[Pasted image 20230611184015.png]]
+
+- Inicio
+
+![[Pasted image 20230611183926.png]]
+
+- Rutinas
+
+![[Pasted image 20230611183942.png]]
+
+- Recetas
+
+![[Pasted image 20230611183959.png]]
+
+También nos da las opciones de Iniciar sesión si tenemos una cuenta y Registrarse si no disponemos de ella.
+
+- Iniciar sesión
+
+![[Pasted image 20230611184053.png]]
+
+- Registrarse
+
+![[Pasted image 20230611184106.png]]
+
+Una vez registrado, nos devolverá un token de inicio de sesión que es el que nos permitirá seguir manejándonos por la página sin tener que volver a iniciar sesión.
+
+Una vez que hemos iniciado sesión, podemos observar que las páginas son ligeramente diferentes, puesto que ahora hay una sección de "Tus posts", "Tus Rutinas" o "Tus recetas" en las diferentes secciones.
+
+![[Pasted image 20230611184252.png]]
+
+Una vez que estamos ahí, podemos seleccionar la pestaña de "Tus Posts" y eso hará que encontremos además de nuestros posts, un nuevo botón que nos permitirá crear las publicaciones pertinentes. 
+
+![[Pasted image 20230611184355.png]]
+
+- Creación de Posts
+
+![[Pasted image 20230611184618.png]]
+
+- Creación de Rutinas
+
+![[Pasted image 20230611184832.png]]
+
+- Creación de recetas
+
+![[Pasted image 20230611185214.png]]
+
+![[Pasted image 20230611185306.png]]
+
+![[Pasted image 20230611185331.png]]
+
+En este último si no ponemos una imagen de cabecera, nos pondrá automáticamente una imagen predeterminada.
+
+![[Pasted image 20230611185417.png]]
+
+También podemos en esto último ahora que tenemos nuestra receta, podemos ver la descripción de esta más detalladamente.
+
+![[Pasted image 20230611185453.png]]
+
+Y si nos fijamos en los botones superiores, podemos editar, borrar, añadir a la compra, descargar, darle me gusta y valorar respectivamente.
+
+Si la descargamos se mostraría algo como esto.
+
+![[Pasted image 20230611185549.png]]
+
+También podemos valorarlo.
+
+![[Pasted image 20230611185639.png]]
+
+Y guardarlo tanto del botón del corazón exterior como del interior de la descripción de la receta.
+
+![[Pasted image 20230611185722.png]]
+
+Una vez cubierto esto podemos percatarnos también que donde antes estaba "Iniciar sesión" ahora esta un avatar vacío con un desplegable.
+
+![[Pasted image 20230611185814.png]]
+
+La lista de la compra por ejemplo es la lista de los ingredientes que hayamos introducido en esta anteriormente en los botones antes mencionados.
+
+De los cuales se pueden borrar de la lista, o borrar del todo de la lista.
+
+![[Pasted image 20230611190045.png]]
+
+También tenemos nuestro perfil de usuario, que ahora mismo esta por defecto.
+
+![[Pasted image 20230611190120.png]]
+
+Y ajustes que nos llevaría a una nueva ventana parecida a un dashboard de administración donde tenemos nuestras estadísticas generales.
+
+![[Pasted image 20230611190214.png]]
+
+Y una pasarela de pago para poder promocionar nuestra cuenta.
+
+![[Pasted image 20230611190243.png]]
+
+Y por último tendríamos la opción de "Editar perfil" lo que nos permitiría cambiar nuestros datos a unos menos genéricos, además de cambiar nuestra contraseña, o avatar o fondo de perfil.
+
+![[Pasted image 20230611190458.png]]
+
+Que nos haría los cambios correspondientes.
+
+![[Pasted image 20230611190521.png]]
 
 ## Explicación del código usado
 

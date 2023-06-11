@@ -73,13 +73,13 @@ export default function AddRutinaCard({ modal, onClose }) {
             name: title,
             categories: selectedCategories,
             creator: token,
-            description: description,
+            description: rutinaDescription,
           }),
         }
       );
 
       const data = await response.json();
-      return data;
+      onClose();
     } catch (error) {
       return false;
     }

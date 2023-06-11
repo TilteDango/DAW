@@ -151,14 +151,14 @@ function LogInForm({ modalOn, onClose }) {
               </NavLink>
             </div>
             <button
-              className="w-full text-white bg-blue-700 hover:bg-blue-800 focus:ring-4 focus:ring-blue-300 font-medium rounded-lg text-sm px-5 py-2.5 text-center"
+              className="w-full text-white bg-orange-700 hover:bg-orange-800 focus:ring-4 focus:ring-blue-300 font-medium rounded-lg text-sm px-5 py-2.5 text-center"
               onClick={handleFormClick}
             >
               Iniciar sesión
             </button>
             <div className="text-sm font-medium text-gray-500">
               ¿No tienes cuenta?{" "}
-              <NavLink href="#" className="text-blue-700 hover:underline">
+              <NavLink className="text-orange-700 hover:underline">
                 Registrate
               </NavLink>
             </div>

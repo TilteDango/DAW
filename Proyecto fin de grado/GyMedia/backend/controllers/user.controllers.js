@@ -3,14 +3,34 @@ import jwt from "jsonwebtoken";
 import config from "../src/config.js";
 
 export const updateAvatarImage = async (req, res) => {
-  const { userId } = req.body;
-  const decoded = jwt.verify(userId, config.SECRET);
-  const tokenid = decoded.id;
-  const filename = "http://127.0.0.1:6001/assets/Avatar/" + req.file.filename;
-  const userFound = await User.findByIdAndUpdate(tokenid, {
-    image: filename,
-  });
-  return res.json({ message: "Changes done succesfully" });
+  try {
+    const { userId } = req.body;
+    const decoded = jwt.verify(userId, config.SECRET);
+    const tokenid = decoded.id;
+    const filename = "http://127.0.0.1:6001/assets/Avatar/" + req.file.filename;
+    const userFound = await User.findByIdAndUpdate(tokenid, {
+      image: filename,
+    });
+    return res.json({ message: "Changes done succesfully" });
+  } catch (e) {
+    console.log(e);
+  }
+};
+
+export const updateBackgroundImage = async (req, res) => {
+  try {
+    const { userId } = req.body;
+    const decoded = jwt.verify(userId, config.SECRET);
+    const tokenid = decoded.id;
+    const filename =
+      "http://127.0.0.1:6001/assets/Background/" + req.file.filename;
+    const userFound = await User.findByIdAndUpdate(tokenid, {
+      background_image: filename,
+    });
+    return res.json({ message: "Changes done succesfully" });
+  } catch (e) {
+    console.log(e);
+  }
 };
 
 export const getUserInfo = async (req, res) => {
@@ -38,17 +58,19 @@ export const getUserInfoByUserName = async (req, res) => {
 };
 
 export const updateUserInfo = async (req, res) => {
-  const { userId, fullname, address, job, studies, description } = req.body;
-  const decoded = jwt.verify(userId, config.SECRET);
-  const tokenid = decoded.id;
-  const userFound = await User.findByIdAndUpdate(tokenid, {
-    fullname: fullname,
-    address: address,
-    job: job,
-    studies: studies,
-    description: description,
-  });
-  return res.json({ message: "Changes done succesfully" });
+  try {
+    const { userId, fullname, address, job, studies, description } = req.body;
+    const userFound = await User.findByIdAndUpdate(userId, {
+      fullname: fullname,
+      address: address,
+      job: job,
+      studies: studies,
+      description: description,
+    });
+    return res.json({ message: "Changes done succesfully" });
+  } catch (e) {
+    return res.status(400).json({ message: "Something went wrong" });
+  }
 };
 
 export const addToShoppingList = async (req, res) => {

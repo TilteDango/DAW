@@ -1,4 +1,4 @@
-import "./App.css";
+import "./app.css";
 import NavBar from "./components/NavBar/NavBar";
 import { Routes, Route } from "react-router-dom";
 import RecipesPage from "./components/Recetas/RecipesPage";
@@ -11,7 +11,6 @@ import Testing from "./components/Rutinas/Testing";
 function App() {
   return (
     <>
-      <NavBar />
       <Routes>
         <Route path="/Recetas" element={<RecipesPage />} />
         <Route path="/" element={<IndexComponent />} />

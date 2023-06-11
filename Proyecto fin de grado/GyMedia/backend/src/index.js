@@ -13,7 +13,6 @@ import stripeRoutes from "../routes/stripe.Routes.js";
 import exerciceRoutes from "../routes/exercicie.routes.js";
 import dotenv from "dotenv";
 import mongoose from "mongoose";
-import PostExercices from "../models/postExercicesSchema.js";
 import PostExercicesRoutes from "../routes/postExercices.routes.js";
 
 /* CONFIGURATIONS */
