@@ -9,3 +9,7 @@ Un crud muy simple de una página de cursos, en el que aprendo como manejar Lara
 ## Wizard-Test
 
 Aplicación simple con un formulario básico multisteps que crea un curso en una base de datos sqlite.
+
+## TelegramBot
+
+Aplicación simple que cada vez que alguien se registra se manda una notificación a un grupo de Telegram con la información pertinente.
